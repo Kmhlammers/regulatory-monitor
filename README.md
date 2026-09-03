@@ -42,9 +42,14 @@ De rapportages staan online — geen dashboard, geen knoppen, alleen de link:
 - `.github/workflows/weekly.yml` draait maandag om ~08:15 de weekrapportage over
   de vorige ISO-week.
 - Beide draaien `build_site.py`, dat elke run als JSON in `data/{daily,weekly}/`
-  wegschrijft (teruggecommit naar de repo) en daarna de hele `public/`-site
-  opnieuw opbouwt uit álle opgeslagen runs. `public/` staat in `.gitignore` —
-  het wordt rechtstreeks als Pages-artifact gedeployed.
+  wegschrijft (teruggecommit naar de repo) en daarna de `public/`-site opnieuw
+  opbouwt. `public/` staat in `.gitignore` — het wordt rechtstreeks als
+  Pages-artifact gedeployed.
+- De site is één pagina in Précon-huisstijl: `index.html` + `app.js`, met álle
+  runs in `runs.js`. Bovenaan twee tegels (**Laatste dag** / **Laatste week**)
+  die tegelijk de dag/week-schakelaar zijn; daaronder ◀ dropdown ▶ om door het
+  hele archief te bladeren. Directe link naar één rapportage via de hash, bv.
+  `…/#dag/2026-09-02` of `…/#week/2026-W35`.
 - Handmatig bijdraaien: **Actions → Dagelijkse/Weekrapportage → Run workflow**
   (optioneel met een datum of weeknummer), of lokaal:
 
@@ -52,7 +57,7 @@ De rapportages staan online — geen dashboard, geen knoppen, alleen de link:
 pip install -r requirements-ci.txt
 python build_site.py daily --date 2026-09-02
 python build_site.py weekly --week 35 --year 2026
-python build_site.py rebuild          # alleen HTML herbouwen uit data/
+python build_site.py rebuild          # alleen de site herbouwen uit data/
 ```
 
 > De pipeline draait vanaf GitHub-runners, niet vanaf het Précon-netwerk. Bronnen
