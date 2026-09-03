@@ -1,0 +1,149 @@
+{
+  "kind": "weekly",
+  "id": "2026-W05",
+  "label": "week 5 · 2026",
+  "from": "2026-01-26",
+  "to": "2026-02-01",
+  "generated_at": "2026-09-03T13:35:25+00:00",
+  "publications": [
+    {
+      "source": "SEC/SWD",
+      "topic": "Douane & Handelsbeleid",
+      "title": "COMMISSION STAFF WORKING DOCUMENT FITNESS CHECK on market access in Inland Waterway Transport",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026SC0027",
+      "pub_date": "2026-01-29",
+      "week": "2026-W05"
+    },
+    {
+      "source": "SEC/SWD",
+      "topic": "Douane & Handelsbeleid",
+      "title": "COMMISSION STAFF WORKING DOCUMENT EXECUTIVE SUMMARY OF THE FITNESS CHECK on market access in Inland Waterway Transport",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026SC0028",
+      "pub_date": "2026-01-29",
+      "week": "2026-W05"
+    },
+    {
+      "source": "E-justice België (Justel)",
+      "topic": "Medical devices",
+      "title": "11 december 2025. - Ministerieel besluit tot wijziging van hoofdstuk \"L. Orthopedie en traumatologie\" van de lijst en van de nominatieve lijsten, gevoegd als bijlagen 1 en 2 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de procedur",
+      "url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=nl&caller=list&numac_search=2025009630",
+      "pub_date": "2026-01-29",
+      "week": "2026-W05"
+    }
+  ],
+  "counts": [
+    {
+      "label": "COM-documenten",
+      "date_str": "2026-01-26 t/m 2026-02-01",
+      "relevant": 0,
+      "total": 19,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "JOIN-documenten",
+      "date_str": "2026-01-26 t/m 2026-02-01",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "SEC/SWD",
+      "date_str": "2026-01-26 t/m 2026-02-01",
+      "relevant": 2,
+      "total": 9,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "ROW",
+      "date_str": "2026-01-26 t/m 2026-02-01",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "E-justice België (Justel)",
+      "date_str": "26-01-2026 t/m 01-02-2026",
+      "relevant": 1,
+      "total": 54,
+      "api_error": false,
+      "note": "19 vertaal-herpublicaties overgeslagen. Justel-index loopt enkele dagen achter op het Belgisch Staatsblad — draai zo nodig ook de voorgaande week"
+    },
+    {
+      "label": "Nieuws en media | NVWA",
+      "date_str": "2026-01-26 t/m 2026-02-01",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Documenten | NVWA",
+      "date_str": "2026-01-26 t/m 2026-02-01",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Nieuws | Nederlandse Arbeidsinspectie",
+      "date_str": "2026-01-26 t/m 2026-02-01",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Publicaties | Nederlandse Arbeidsinspectie",
+      "date_str": "2026-01-26 t/m 2026-02-01",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Nieuws | ACM",
+      "date_str": "2026-01-26 t/m 2026-02-01",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Publicaties | Federaal Agentschap voor de veiligheid van de voedselketen",
+      "date_str": "2026-01-26 t/m 2026-02-01",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:129:8: mismatched tag"
+    },
+    {
+      "label": "Nieuws | Federaal Agentschap voor de veiligheid van de voedselketen",
+      "date_str": "2026-01-26 t/m 2026-02-01",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:128:8: mismatched tag"
+    },
+    {
+      "label": "Nieuws | FOD Volksgezondheid",
+      "date_str": "2026-01-26 t/m 2026-02-01",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "News - ECHA",
+      "date_str": "2026-01-26 t/m 2026-02-01",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "403 Client Error: Forbidden for url: https://echa.europa.eu/nl/rss/news"
+    }
+  ],
+  "antidumping": []
+}

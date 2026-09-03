@@ -1,0 +1,115 @@
+{
+  "kind": "daily",
+  "id": "2026-06-18",
+  "label": "18 juni 2026",
+  "from": "2026-06-18",
+  "to": "2026-06-18",
+  "generated_at": "2026-09-03T13:21:40+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Medical devices",
+      "title": "Uitstel beantwoording vragen van het lid Bushoff over de uitbraak van het stijgend tekort aan medische hulpmiddelen",
+      "url": "https://zoek.officielebekendmakingen.nl/ah-tk-20252026-2287.html",
+      "pub_date": "2026-06-18",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Commission Implementing Regulation (EU) 2026/1341 of 17 June 2026 initiating a review of Commission Implementing Regulation (EU) 2021/1266 imposing a definitive anti-dumping duty on imports of biodiesel originating in the United States of America following an expiry review pursuant to Article 11(2) of Regulation (EU) 2016/1036 of the European Parliament and of the Council and Commission Implementing Regulation (EU) 2021/1267 imposing definitive countervailing duty on imports of biodiesel originating in the United States of America following an expiry review pursuant to Article 18 of Regulation (EU) 2016/1037 of the European Parliament and of the Council",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1341",
+      "pub_date": "2026-06-18",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "REACH",
+      "title": "Commission Implementing Decision (EU) 2026/1377 of 11 May 2026 amending Implementing Decision (EU) 2019/961 authorising a provisional measure taken by the French Republic in accordance with Article 129 of Regulation (EC) No 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) to restrict the use and the placing on the market of certain wood treated with creosote and other creosote-related substances ((notified under document C(2026) 2999)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1377",
+      "pub_date": "2026-06-18",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "18-06-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "18-06-2026",
+      "relevant": 0,
+      "total": 25,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "18-06-2026",
+      "relevant": 0,
+      "total": 40,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "18-06-2026",
+      "relevant": 1,
+      "total": 228,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "18-06-2026",
+      "relevant": 0,
+      "total": 8,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "18-06-2026",
+      "relevant": 0,
+      "total": 25,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-06-18",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-06-18",
+      "relevant": 2,
+      "total": 18,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-06-18",
+      "relevant": 0,
+      "total": 13,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": [
+    {
+      "source": "EUR-Lex OJ L",
+      "title": "Commission Implementing Regulation (EU) 2026/1341 of 17 June 2026 initiating a review of Commission Implementing Regulation (EU) 2021/1266 imposing a definitive anti-dumping duty on imports of biodiesel originating in the United States of America following an expiry review pursuant to Article 11(2) of Regulation (EU) 2016/1036 of the European Parliament and of the Council and Commission Implementing Regulation (EU) 2021/1267 imposing definitive countervailing duty on imports of biodiesel originating in the United States of America following an expiry review pursuant to Article 18 of Regulation (EU) 2016/1037 of the European Parliament and of the Council",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1341"
+    }
+  ]
+}

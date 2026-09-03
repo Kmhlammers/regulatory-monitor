@@ -1,0 +1,117 @@
+{
+  "kind": "daily",
+  "id": "2026-03-02",
+  "label": "2 maart 2026",
+  "from": "2026-03-02",
+  "to": "2026-03-02",
+  "generated_at": "2026-09-03T12:53:59+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "General product safety",
+      "title": "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 20 februari 2026, nr. 2026-0000053924, tot het aanwijzen van Energie Consult Holland B.V. als conformiteitsbeoordelingsinstantie inzake accreditatienorm NEN-EN-ISO/IEC 17020:2012",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-8078.html",
+      "pub_date": "2026-03-02",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "REACH",
+      "title": "Advies Raad van State inzake het ontwerp van een algemene maatregel van bestuur houdende wijziging van het Binnenvaartpolitiereglement in verband met het mogelijk maken van gemengd afmeren voor schepen die gevaarlijke stoffen vervoeren",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-7913.html",
+      "pub_date": "2026-03-02",
+      "week": ""
+    },
+    {
+      "source": "refLex - Chrono",
+      "topic": "Medical devices",
+      "title": "Ministerieel besluit van 2 maart 2026 tot wijziging van hoofdstuk \"K. Heelkunde in het algemeen\" van de lijst, gevoegd als bijlage 1 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de procedures, termijnen en voorwaarden inzake de tegemoetkoming van de verplichte verzekering voor geneeskundige verzorging en uitkeringen in de kosten van implantaten en invasieve medische hulpmiddelen",
+      "url": "http://reflex.raadvst-consetat.be/reflex/page=chrono&c=detail_get&d=detail&docid=158866",
+      "pub_date": "2026-03-02",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Detergenten",
+      "title": "Regulation (EU) 2026/405 of the European Parliament and of the Council of 11 February 2026 on detergents and surfactants, and repealing Regulation (EC) No 648/2004 (Text with EEA relevance)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:405",
+      "pub_date": "2026-03-02",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "02-03-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "02-03-2026",
+      "relevant": 2,
+      "total": 26,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "02-03-2026",
+      "relevant": 0,
+      "total": 45,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "02-03-2026",
+      "relevant": 0,
+      "total": 71,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "02-03-2026",
+      "relevant": 1,
+      "total": 4,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "02-03-2026",
+      "relevant": 0,
+      "total": 30,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-03-02",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-03-02",
+      "relevant": 1,
+      "total": 11,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-03-02",
+      "relevant": 0,
+      "total": 56,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

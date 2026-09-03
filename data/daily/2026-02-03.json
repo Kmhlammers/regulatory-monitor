@@ -1,0 +1,125 @@
+{
+  "kind": "daily",
+  "id": "2026-02-03",
+  "label": "3 februari 2026",
+  "from": "2026-02-03",
+  "to": "2026-02-03",
+  "generated_at": "2026-09-03T12:48:48+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Wijziging van de Wet milieubeheer en de Crisis- en herstelwet in verband met de uitvoering van Richtlijn 2014/52/EU van het Europees Parlement en de Raad van 16 april 2014 tot wijziging van Richtlijn 2011/92/EU betreffende de milieueffectbeoordeling van bepaalde openbare en particuliere projecten (PbEU 2014, L 124) (implementatie herziening mer-richtlijn); Verslag van een nader schriftelijk overleg met de staatssecretaris van I&W over toezeggingen betreffende de milieueffectrapportage",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-34287-AI.html",
+      "pub_date": "2026-02-03",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Elektrische apparaten",
+      "title": "Uitstel beantwoording vragen van de leden El Boujdaini en Klos over het bericht 'Google en Microsoft houden energieverbruik van hyperscale-datacenters geheim voor de overheid'",
+      "url": "https://zoek.officielebekendmakingen.nl/ah-tk-20252026-1002.html",
+      "pub_date": "2026-02-03",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "FCM",
+      "title": "Commission Regulation (EU) 2026/250 of 2 February 2026 correcting Regulation (EU) 2024/3190 on the use of bisphenol A (BPA) and other bisphenols and bisphenol derivatives with harmonised classification for specific hazardous properties in certain materials and articles intended to come into contact with food, amending Regulation (EU) No 10/2011 and repealing Regulation (EU) 2018/213",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:250",
+      "pub_date": "2026-02-03",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "FCM",
+      "title": "Commission Regulation (EU) 2026/245 of 2 February 2026 amending Annex I to Regulation (EU) No 10/2011 as regards the authorisation or the conditions of use of several substances",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:245",
+      "pub_date": "2026-02-03",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "Kritieke grondstoffen",
+      "title": "Special report 04/2026: Critical raw materials for the energy transition – Not a rock-solid policy",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:733",
+      "pub_date": "2026-02-03",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "03-02-2026",
+      "relevant": 0,
+      "total": 4,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "03-02-2026",
+      "relevant": 0,
+      "total": 19,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "03-02-2026",
+      "relevant": 0,
+      "total": 37,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "03-02-2026",
+      "relevant": 2,
+      "total": 166,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "03-02-2026",
+      "relevant": 0,
+      "total": 3,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "03-02-2026",
+      "relevant": 0,
+      "total": 22,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-02-03",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-02-03",
+      "relevant": 2,
+      "total": 16,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-02-03",
+      "relevant": 1,
+      "total": 15,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

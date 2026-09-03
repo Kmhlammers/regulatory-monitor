@@ -1,0 +1,157 @@
+{
+  "kind": "daily",
+  "id": "2026-05-22",
+  "label": "22 mei 2026",
+  "from": "2026-05-22",
+  "to": "2026-05-22",
+  "generated_at": "2026-09-03T13:15:24+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Beslisnota('s) bij de beantwoording van nadere vragen over de Omnibus Digitaal, Omnibus AI en Data Unie Strategie",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1249143.html",
+      "pub_date": "2026-05-22",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Duurzame ontwikkeling en beleid; Brief regering; Duurzaamheidsverslag 2025 van het ministerie Infrastructuur en Waterstaat",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1248957.html",
+      "pub_date": "2026-05-22",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Digitaal pakket van de Europese Commissie COM(2025)835, COM(2025)836, COM(2025)837, COM(2025)838; Verslag van een nader schriftelijk overleg met de staatssecretaris van EZ en van J&V over de Omnibus Digitaal, Omnibus AI en Data Unie Strategie",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36890-T.html",
+      "pub_date": "2026-05-22",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "IenW Duurzaamheidsverslag 2025",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1248958.html",
+      "pub_date": "2026-05-22",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Beslisnota bij Kamerbrief over Duurzaamheidsverslag 2025 van het ministerie Infrastructuur en Waterstaat",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1248959.html",
+      "pub_date": "2026-05-22",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Vaststelling van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2026; Brief regering; Jaarplanningsbrief VWS 2026 tot en met eerste kwartaal 2027",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36800-XVI-194.html",
+      "pub_date": "2026-05-22",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Beslisnota bij Kamerbrief over Jaarplanningsbrief VWS 2026 tot en met eerste kwartaal 2027",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1249020.html",
+      "pub_date": "2026-05-22",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Het rapport ‘PFAS-aandachtlocaties in 2025’",
+      "url": "https://zoek.officielebekendmakingen.nl/kv-tk-2026Z10722.html",
+      "pub_date": "2026-05-22",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "Kritieke grondstoffen",
+      "title": "Opinion of the European Economic and Social Committee – Proposal for a Regulation of the European Parliament and of the Council amending Regulation (EU) 2024/1252 (COM(2025) 946 final)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:2546",
+      "pub_date": "2026-05-22",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "22-05-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "22-05-2026",
+      "relevant": 0,
+      "total": 19,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "22-05-2026",
+      "relevant": 0,
+      "total": 38,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "22-05-2026",
+      "relevant": 8,
+      "total": 231,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "22-05-2026",
+      "relevant": 0,
+      "total": 8,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "22-05-2026",
+      "relevant": 0,
+      "total": 16,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-05-22",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-05-22",
+      "relevant": 0,
+      "total": 10,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-05-22",
+      "relevant": 1,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

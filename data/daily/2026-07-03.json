@@ -1,0 +1,149 @@
+{
+  "kind": "daily",
+  "id": "2026-07-03",
+  "label": "3 juli 2026",
+  "from": "2026-07-03",
+  "to": "2026-07-03",
+  "generated_at": "2026-09-03T13:25:28+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Aanwijzing van de Minister van Langdurige Zorg, Jeugd en Sport van 30 juni 2026, kenmerk 4393759-1099406-PZO, op grond van artikel 7 van de Wet marktordening gezondheidzorg, inzake het terugdraaien van de verwerking van de tariefmaatregel meerjarige contracten met budgetafspraken sectoren gehandicaptenzorg en langdurige ggz (2027)",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-24328.html",
+      "pub_date": "2026-07-03",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Voedselveiligheid; Motie; Motie van het lid Kostić over een plan over hoe baby's kunnen worden beschermd tegen PFAS in moedermelk",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-26991-600.html",
+      "pub_date": "2026-07-03",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Voedselveiligheid; Motie; Motie van het lid Kostić over onderzoeken op welke wijze een nationaal kader kan worden ingericht waarmee sneller kan worden ingegrepen bij PFAS-houdende pesticiden",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-26991-601.html",
+      "pub_date": "2026-07-03",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "EU-voorstel: Omnibus over belastingen COM (2026) 560; Brief commissie; Brief van de vaste commissie voor Europese Zaken over het plaatsen van een parlementair behandelvoorbehoud bij het EU-voorstel: Omnibus over belastingen COM (2026) 560",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1259259.html",
+      "pub_date": "2026-07-03",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Conceptbrief aan de minister van Financiën over het plaatsen van een parlementair behandelvoorbehoud bij het EU-voorstel: Omnibus over belastingen COM(2026) 560",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1259260.html",
+      "pub_date": "2026-07-03",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "PPWR",
+      "title": "Commission Implementing Decision (EU) 2026/1425 of 30 June 2026 laying down rules for the application of Directive (EU) 2019/904 of the European Parliament and of the Council as regards the calculation, verification and reporting of data on recycled plastic content in single-use plastic beverage bottles and repealing Commission Implementing Decision (EU) 2023/2683",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1425",
+      "pub_date": "2026-07-03",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Corrigendum to Commission Delegated Regulation (EU) 2026/1022 of 30 June 2026 amending Delegated Regulation (EU) 2015/2446 as regards definitions, customs declarations and data elements related to the temporary EUR 3 customs duty on distance sales of imported goods in a consignment with an intrinsic value not exceeding EUR 150 (OJ L, 2026/1022, 1.7.2026)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:corrigendum:2026-07-03",
+      "pub_date": "2026-07-03",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "General product safety",
+      "title": "Commission Implementing Decision (EU) 2026/1481 of 2 July 2026 designating a Union testing facility for textiles in accordance with Regulation (EU) 2019/1020 of the European Parliament and of the Council",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1481",
+      "pub_date": "2026-07-03",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "03-07-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "03-07-2026",
+      "relevant": 1,
+      "total": 23,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "03-07-2026",
+      "relevant": 0,
+      "total": 51,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "03-07-2026",
+      "relevant": 4,
+      "total": 298,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "03-07-2026",
+      "relevant": 0,
+      "total": 11,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "03-07-2026",
+      "relevant": 0,
+      "total": 28,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-07-03",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-07-03",
+      "relevant": 3,
+      "total": 40,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-07-03",
+      "relevant": 0,
+      "total": 13,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

@@ -1,0 +1,125 @@
+{
+  "kind": "daily",
+  "id": "2026-03-13",
+  "label": "13 maart 2026",
+  "from": "2026-03-13",
+  "to": "2026-03-13",
+  "generated_at": "2026-09-03T12:56:34+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Beslisnota('s) bij de beantwoording van Kamervragen over de Omnibus AI, Omnibus Digitaal en Data Unie Strategie",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1239255.html",
+      "pub_date": "2026-03-13",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Digitaal pakket van de Europese Commissie COM(2025)835, COM(2025)836, COM(2025)837, COM(2025)838; Verslag van een schriftelijk overleg met de staatssecretaris van EZK over de Omnibus Digitaal, Omnibus AI en Data Unie Strategie",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36890-J.html",
+      "pub_date": "2026-03-13",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Speelgoed",
+      "title": "Het bericht ‘Opnieuw asbestzand te koop bij Bol.com, webwinkel stopt verkoop van speelzand helemaal’",
+      "url": "https://zoek.officielebekendmakingen.nl/kv-tk-2026Z05108.html",
+      "pub_date": "2026-03-13",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Het MVO rapport van de VanDrie Group en maatregelen rond de import van kalveren uit Ierland",
+      "url": "https://zoek.officielebekendmakingen.nl/kv-tk-2026Z05109.html",
+      "pub_date": "2026-03-13",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Speelgoed",
+      "title": "Corrigendum to Commission Implementing Decision (EU) 2025/2519 of 15 December 2025 amending Implementing Decision (EU) 2023/740 as regards harmonised standards for olfactory board games, cosmetic kits and gustative games and on migration of certain elements from toys (OJ L, 2025/2519, 16.12.2025)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:corrigendum:2026-03-13",
+      "pub_date": "2026-03-13",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "13-03-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "13-03-2026",
+      "relevant": 0,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "13-03-2026",
+      "relevant": 0,
+      "total": 39,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "13-03-2026",
+      "relevant": 4,
+      "total": 125,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "13-03-2026",
+      "relevant": 0,
+      "total": 4,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "13-03-2026",
+      "relevant": 0,
+      "total": 40,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-03-13",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-03-13",
+      "relevant": 1,
+      "total": 15,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-03-13",
+      "relevant": 0,
+      "total": 12,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

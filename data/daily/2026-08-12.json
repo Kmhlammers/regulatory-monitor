@@ -1,0 +1,109 @@
+{
+  "kind": "daily",
+  "id": "2026-08-12",
+  "label": "12 augustus 2026",
+  "from": "2026-08-12",
+  "to": "2026-08-12",
+  "generated_at": "2026-09-03T13:33:31+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Dienst/agentschap",
+      "topic": "REACH",
+      "title": "Kennisgeving melding Besluit activiteiten leefomgeving buisleiding met gevaarlijke stoffen, Zaak: H1964415, Inspectie Leefomgeving en Transport",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-28702.html",
+      "pub_date": "2026-08-12",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Dienst/agentschap",
+      "topic": "General product safety",
+      "title": "Aanwijzing als Notified Body Marine Equipment Directive, Inspectie Leefomgeving en Transport",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-28621.html",
+      "pub_date": "2026-08-12",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "REACH",
+      "title": "Commission Delegated Regulation (EU) 2026/1278 of 9 June 2026 amending and correcting Regulation (EU) No 649/2012 of the European Parliament and of the Council as regards the listing of pesticides and industrial chemicals",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1278",
+      "pub_date": "2026-08-12",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "12-08-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "12-08-2026",
+      "relevant": 0,
+      "total": 9,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "12-08-2026",
+      "relevant": 2,
+      "total": 33,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "12-08-2026",
+      "relevant": 0,
+      "total": 10,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "12-08-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "12-08-2026",
+      "relevant": 0,
+      "total": 22,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-08-12",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-08-12",
+      "relevant": 1,
+      "total": 4,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-08-12",
+      "relevant": 0,
+      "total": 43,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

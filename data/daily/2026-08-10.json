@@ -1,0 +1,101 @@
+{
+  "kind": "daily",
+  "id": "2026-08-10",
+  "label": "10 augustus 2026",
+  "from": "2026-08-10",
+  "to": "2026-08-10",
+  "generated_at": "2026-09-03T13:33:05+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Maatschappelijk verantwoord ondernemen; Brief regering; Agenda Maatschappelijk Verantwoord Opdrachtgeven en Inkopen (MVOI) 2026-2030",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1265163.html",
+      "pub_date": "2026-08-10",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Commission Implementing Regulation (EU) 2026/1928 of 7 August 2026 imposing a definitive countervailing duty on imports of certain woven and/or stitched glass fibre fabrics originating in the People’s Republic of China and the Arab Republic of Egypt as extended to imports brought to offshore installations, to imports consigned from the Kingdom of Morocco whether declared as originating in the Kingdom of Morocco or not, and to imports consigned from Türkiye whether declared as originating in Türkiye or not following an expiry review pursuant to Article 18 of the Regulation (EU) 2016/1037 of the European Parliament and the Council",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1928",
+      "pub_date": "2026-08-10",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "10-08-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "10-08-2026",
+      "relevant": 0,
+      "total": 10,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "10-08-2026",
+      "relevant": 0,
+      "total": 53,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "10-08-2026",
+      "relevant": 1,
+      "total": 23,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "10-08-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "10-08-2026",
+      "relevant": 0,
+      "total": 25,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-08-10",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-08-10",
+      "relevant": 1,
+      "total": 8,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-08-10",
+      "relevant": 0,
+      "total": 67,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

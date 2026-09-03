@@ -1,0 +1,165 @@
+{
+  "kind": "daily",
+  "id": "2026-01-14",
+  "label": "14 januari 2026",
+  "from": "2026-01-14",
+  "to": "2026-01-14",
+  "generated_at": "2026-09-03T12:44:36+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Dierproeven; Brief regering; Stand van zaken op de uitvoering van het amendement Kostic (Kamerstuk 36725-VIII-11)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-32336-171.html",
+      "pub_date": "2026-01-14",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Beslisnota bij Kamerbrief Evaluatie verlaagd tarief kleine brouwerijen",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1231089.html",
+      "pub_date": "2026-01-14",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Douane; Brief regering; Stand van zaken besluitvorming nationale handelingskostenvergoeding e-commerce",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-31934-105.html",
+      "pub_date": "2026-01-14",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Kritieke grondstoffen",
+      "title": "Grondstoffenvoorzieningszekerheid; Brief regering; Weerbare ketens: stappen naar strategische voorraden en verwerking van kritieke grondstoffen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-32852-395.html",
+      "pub_date": "2026-01-14",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Herziening Belastingstelsel; Brief regering; Evaluatie verlaagd tarief kleine brouwerijen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-32140-287.html",
+      "pub_date": "2026-01-14",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Beslisnota bij Kamerbrief Stand van zaken besluitvorming nationale handelingskostenvergoeding e-commerce",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1230989.html",
+      "pub_date": "2026-01-14",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Kritieke grondstoffen",
+      "title": "Beslisnota bij Kamerbrief Weerbare ketens: stappen naar strategische voorraden en verwerking van kritieke grondstoffen",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1231081.html",
+      "pub_date": "2026-01-14",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Evaluatie verlaagd tarief kleine brouwerijen",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1231088.html",
+      "pub_date": "2026-01-14",
+      "week": ""
+    },
+    {
+      "source": "refLex - Chrono",
+      "topic": "Duurzaamheid",
+      "title": "Ministerieel besluit van 14 januari 2026 tot lancering van een oproep in 2026 om projectvoorstellen van operationele groepen in te dienen in het kader van het Europees Innovatiepartnerschap voor productiviteit en duurzaamheid in de landbouw",
+      "url": "http://reflex.raadvst-consetat.be/reflex/page=chrono&c=detail_get&d=detail&docid=158610",
+      "pub_date": "2026-01-14",
+      "week": ""
+    },
+    {
+      "source": "refLex - Chrono",
+      "topic": "Medical devices",
+      "title": "Ministerieel besluit van 14 januari 2026 tot wijziging van hoofdstuk \"F. Heelkunde op de thorax en cardiologie\" van de lijst en van de nominatieve lijsten, gevoegd als bijlagen 1 en 2 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de procedures, termijnen en voorwaarden inzake de tegemoetkoming van de verplichte verzekering voor geneeskundige verzorging en uitkeringen in de kosten van implantaten en invasieve medische hulpmiddelen",
+      "url": "http://reflex.raadvst-consetat.be/reflex/page=chrono&c=detail_get&d=detail&docid=158689",
+      "pub_date": "2026-01-14",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "14-01-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "14-01-2026",
+      "relevant": 0,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "14-01-2026",
+      "relevant": 0,
+      "total": 21,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "14-01-2026",
+      "relevant": 8,
+      "total": 149,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "14-01-2026",
+      "relevant": 2,
+      "total": 16,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "14-01-2026",
+      "relevant": 0,
+      "total": 33,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-01-14",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-01-14",
+      "relevant": 0,
+      "total": 8,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-01-14",
+      "relevant": 0,
+      "total": 4,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

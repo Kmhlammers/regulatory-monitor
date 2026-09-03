@@ -1,0 +1,109 @@
+{
+  "kind": "daily",
+  "id": "2026-07-29",
+  "label": "29 juli 2026",
+  "from": "2026-07-29",
+  "to": "2026-07-29",
+  "generated_at": "2026-09-03T13:31:15+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "General product safety",
+      "title": "Advies Raad van State inzake het ontwerp van een algemene maatregel van bestuur, houdende wijziging van het Besluit houders van dieren, het Warenwetbesluit hygiëne van levensmiddelen en het Besluit handhaving en overige zaken Wet dieren in verband met technische wijzigingen",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-26953.html",
+      "pub_date": "2026-07-29",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "Duurzaamheid",
+      "title": "Advies Raad van State inzake het voorstel van Wijziging van de Wet milieubeheer in verband met de invoering van de verplichting tot het stellen van milieuprestatie-eisen in aanbestedingen voor grond-, weg- en waterbouwwerken",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-26890.html",
+      "pub_date": "2026-07-29",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Maatschappelijk verantwoord ondernemen; Brief regering; Informeren over de aangifte van fraude en de aanscherping van het beleid voor de exportkredietverzekering (EKV)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1264314.html",
+      "pub_date": "2026-07-29",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "29-07-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "29-07-2026",
+      "relevant": 2,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "29-07-2026",
+      "relevant": 0,
+      "total": 31,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "29-07-2026",
+      "relevant": 1,
+      "total": 71,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "29-07-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "29-07-2026",
+      "relevant": 0,
+      "total": 37,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-07-29",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-07-29",
+      "relevant": 0,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-07-29",
+      "relevant": 0,
+      "total": 15,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

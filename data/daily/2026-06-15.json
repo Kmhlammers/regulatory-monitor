@@ -1,0 +1,101 @@
+{
+  "kind": "daily",
+  "id": "2026-06-15",
+  "label": "15 juni 2026",
+  "from": "2026-06-15",
+  "to": "2026-06-15",
+  "generated_at": "2026-09-03T13:20:43+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Wijziging van de Wet milieubeheer en enkele andere wetten ter uitvoering van Verordening (EU) 2024/1157 van het Europees Parlement en de Raad van 11 april 2024 betreffende de overbrenging van afvalstoffen, ter gedeeltelijke implementatie van een daaraan gerelateerde richtlijn, ter aanvullende implementatie van Richtlijn (EU) 2018/851 van het Europees Parlement en de Raad van 30 mei 2018 tot wijziging van Richtlijn 2008/98/EG betreffende afvalstoffen en in verband met het opnemen van een grondslag voor de uitvoering van Verordening (EU) 2023/1542 van het Europees Parlement en de Raad van 12 juli 2023 inzake batterijen en afgedankte batterijen (Wet uitvoering EU-verordening overbrenging van afvalstoffen en implementatie enkele andere EU-rechtshandelingen); Nota n.a.v. het (nader/tweede nader/enz.) verslag; Nota naar aanleiding van het verslag",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1253746.html",
+      "pub_date": "2026-06-15",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Beslisnota bij de Nota naar aanleiding van het verslag en de Nota van wijziging inzake wijziging van de Wet milieubeheer en enkele andere wetten ter uitvoering van Verordening (EU) 2024/1157 van het Europees Parlement en de Raad van 11 april 2024 betreffende de overbrenging van afvalstoffen, ter gedeeltelijke implementatie van een daaraan gerelateerde richtlijn, ter aanvullende implementatie van Richtlijn (EU) 2018/851 van het Europees Parlement en de Raad van 30 mei 2018 tot wijziging van Richtlijn 2008/98/EG betreffende afvalstoffen en in verband met het opnemen van een grondslag voor de uitvoering van Verordening (EU) 2023/1542 van het Europees Parlement en de Raad van 12 juli 2023 inzake batterijen en afgedankte batterijen (Wet uitvoering EU-verordening overbrenging van afvalstoffen en implementatie enkele andere EU-rechtshandelingen)(Kamerstuk 36880)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1253747.html",
+      "pub_date": "2026-06-15",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "15-06-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "15-06-2026",
+      "relevant": 0,
+      "total": 16,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "15-06-2026",
+      "relevant": 0,
+      "total": 46,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "15-06-2026",
+      "relevant": 2,
+      "total": 132,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "15-06-2026",
+      "relevant": 0,
+      "total": 3,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "15-06-2026",
+      "relevant": 0,
+      "total": 32,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-06-15",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-06-15",
+      "relevant": 0,
+      "total": 24,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-06-15",
+      "relevant": 0,
+      "total": 77,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

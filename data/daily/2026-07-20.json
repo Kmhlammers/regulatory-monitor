@@ -1,0 +1,141 @@
+{
+  "kind": "daily",
+  "id": "2026-07-20",
+  "label": "20 juli 2026",
+  "from": "2026-07-20",
+  "to": "2026-07-20",
+  "generated_at": "2026-09-03T13:29:06+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "PPWR",
+      "title": "Advies Raad van State inzake het ontwerp van een algemene maatregel van bestuur, houdende nadere regels ter uitvoering van de Uitvoeringswet datagovernanceverordening in verband met het aanwijzen van bevoegde organen, het leveren van bijstand door die bevoegde organen en de vergoedingen voor het hergebruik van gegevens (Uitvoeringsbesluit datagovernanceverordening)",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-24854.html",
+      "pub_date": "2026-07-20",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Uitvoering van Verordening (EU) 2024/1252 van het Europees Parlement en de Raad van 11 april 2024 tot vaststelling van een kader om een veilige en duurzamevoorziening van kritieke grondstoffen te waarborgen, en tot wijziging van de Verordeningen (EU) nr. 168/2013, (EU) 2018/858, (EU) 2018/1724 en (EU) 2019/1020(Uitvoeringswet verordening kritieke grondstoffen); Memorie van toelichting; Memorie van toelichting",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1263066.html",
+      "pub_date": "2026-07-20",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Uitvoering van Verordening (EU) 2024/1252 van het Europees Parlement en de Raad van 11 april 2024 tot vaststelling van een kader om een veilige en duurzamevoorziening van kritieke grondstoffen te waarborgen, en tot wijziging van de Verordeningen (EU) nr. 168/2013, (EU) 2018/858, (EU) 2018/1724 en (EU) 2019/1020(Uitvoeringswet verordening kritieke grondstoffen); Voorstel van wet; Voorstel van wet",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36989-2.html",
+      "pub_date": "2026-07-20",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "PPWR",
+      "title": "Corrigendum to Commission Implementing Decision (EU) 2026/1425 of 30 June 2026 laying down rules for the application of Directive (EU) 2019/904 of the European Parliament and of the Council as regards the calculation, verification and reporting of data on recycled plastic content in single-use plastic beverage bottles and repealing Commission Implementing Decision (EU) 2023/2683 (OJ L, 2026/1425, 3.7.2026)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:corrigendum:2026-07-17",
+      "pub_date": "2026-07-20",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "REACH",
+      "title": "Summary of European Commission Decisions on authorisations for the placing on the market for the use and/or for use of substances listed in Annex XIV to Regulation (EC) No 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (Published pursuant to Article 64(9) of Regulation (EC) No 1907/2006)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:3718",
+      "pub_date": "2026-07-20",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "REACH",
+      "title": "Summary of European Commission Decisions on authorisations for the placing on the market for the use and/or for use of substances listed in Annex XIV to Regulation (EC) No 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (Published pursuant to Article 64(9) of Regulation (EC) No 1907/2006)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:3717",
+      "pub_date": "2026-07-20",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "EUDR",
+      "title": "Commission Notice – Guidance document for Regulation (EU) 2023/1115 on deforestation-free products",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:3896",
+      "pub_date": "2026-07-20",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "20-07-2026",
+      "relevant": 0,
+      "total": 7,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "20-07-2026",
+      "relevant": 1,
+      "total": 21,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "20-07-2026",
+      "relevant": 0,
+      "total": 49,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "20-07-2026",
+      "relevant": 2,
+      "total": 174,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "20-07-2026",
+      "relevant": 0,
+      "total": 12,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "20-07-2026",
+      "relevant": 0,
+      "total": 23,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-07-20",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-07-20",
+      "relevant": 1,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-07-20",
+      "relevant": 3,
+      "total": 84,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

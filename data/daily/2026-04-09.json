@@ -1,0 +1,141 @@
+{
+  "kind": "daily",
+  "id": "2026-04-09",
+  "label": "9 april 2026",
+  "from": "2026-04-09",
+  "to": "2026-04-09",
+  "generated_at": "2026-09-03T13:02:20+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Maatregelen verkeersveiligheid; Motie; Motie van het lid Goudzwaard over e-commerce en bijbehorende grensoverschrijdende handhaving meenemen in de halfjaarlijkse rapportages",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-29398-1218.html",
+      "pub_date": "2026-04-09",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Elektrische apparaten",
+      "title": "WUR Verkenning opties voor vernieuwing apparatuur voor automatisch registreren van mesttransporten",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1243183.html",
+      "pub_date": "2026-04-09",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "De geplande uitbreiding van de handel in apen voor dierproeven",
+      "url": "https://zoek.officielebekendmakingen.nl/kv-tk-2026Z07506.html",
+      "pub_date": "2026-04-09",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Duurzaamheid",
+      "title": "30 maart 2026. - Koninklijk besluit tot wijziging van het koninklijk besluit van 21 juli 2017 betreffende de toekenning van de hoedanigheid van bedrijfsrevisor alsook de inschrijving en registratie in het openbaar register van de bedrijfsrevisoren en",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-04-09&lg_txt=n&caller=sum&s_editie=1&2026002729=5&numac_search=2026002729&view_numac=",
+      "pub_date": "2026-04-09",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Medical devices",
+      "title": "2 april 2026. - Ministerieel besluit tot wijziging van de lijst, gevoegd als bijlage 1 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de procedures, termijnen en voorwaarden inzake de tegemoetkoming van de verplichte verzekering voo",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-04-09&lg_txt=n&caller=sum&s_editie=1&2026002654=7&numac_search=2026002654&view_numac=",
+      "pub_date": "2026-04-09",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "General product safety",
+      "title": "P10_TA(2025)0168 – Circularity requirements for vehicle design and management of end-of-life vehicles – Amendments adopted by the European Parliament on 9 September 2025 on the proposal for a regulation of the European Parliament and of the Council on circularity requirements for vehicle design and on management of end-of-life vehicles, amending Regulations (EU) 2018/858 and 2019/1020 and repealing Directives 2000/53/EC and 2005/64/EC (COM(2023)0451 – C9-0308/2023 – 2023/0284(COD)) (Ordinary legislative procedure: first reading)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:1488",
+      "pub_date": "2026-04-09",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "Duurzaamheid",
+      "title": "P10_TA(2025)0167 – Waste Framework Directive: textiles and food waste – European Parliament legislative resolution of 9 September 2025 on the Council position at first reading with a view to the adoption of a directive of the European Parliament and of the Council amending Directive 2008/98/EC on waste (06978/2/2025 – C10-0139/2025 – 2023/0234(COD)) (Ordinary legislative procedure: second reading)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:1487",
+      "pub_date": "2026-04-09",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "09-04-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "09-04-2026",
+      "relevant": 0,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "09-04-2026",
+      "relevant": 0,
+      "total": 35,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "09-04-2026",
+      "relevant": 3,
+      "total": 114,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "09-04-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "09-04-2026",
+      "relevant": 2,
+      "total": 30,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-04-09",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-04-09",
+      "relevant": 0,
+      "total": 8,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-04-09",
+      "relevant": 2,
+      "total": 41,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

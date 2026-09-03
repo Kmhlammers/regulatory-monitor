@@ -1,0 +1,109 @@
+{
+  "kind": "daily",
+  "id": "2026-06-17",
+  "label": "17 juni 2026",
+  "from": "2026-06-17",
+  "to": "2026-06-17",
+  "generated_at": "2026-09-03T13:21:19+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Evaluation SUPD. Input from the Netherlands",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1254305.html",
+      "pub_date": "2026-06-17",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Europese Raad; Motie; Motie van de leden Jimmy Dijk en Struijs over Nederlandse werknemers, consumenten, milieu en leefomgeving beschermen bij de onderhandelingen over de Omnibuswetten",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-21501-20-2427.html",
+      "pub_date": "2026-06-17",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Elektrische apparaten",
+      "title": "Commission Implementing Decision (EU) 2026/1231 of 11 June 2026 amending Implementing Decision (EU) 2021/1182 as regards harmonised standards for biological evaluation of medical devices, symbols to be used with information to be supplied by the manufacturer, medical electrical equipment, transfusion equipment for medical use, ophthalmic optics, non-active surgical implants, washer-disinfectors, prosthetics and sharps injury protection",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1231",
+      "pub_date": "2026-06-17",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "17-06-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "17-06-2026",
+      "relevant": 0,
+      "total": 24,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "17-06-2026",
+      "relevant": 0,
+      "total": 32,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "17-06-2026",
+      "relevant": 2,
+      "total": 226,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "17-06-2026",
+      "relevant": 0,
+      "total": 6,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "17-06-2026",
+      "relevant": 0,
+      "total": 18,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-06-17",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-06-17",
+      "relevant": 1,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-06-17",
+      "relevant": 0,
+      "total": 15,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

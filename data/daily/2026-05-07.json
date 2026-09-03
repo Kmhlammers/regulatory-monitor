@@ -1,0 +1,109 @@
+{
+  "kind": "daily",
+  "id": "2026-05-07",
+  "label": "7 mei 2026",
+  "from": "2026-05-07",
+  "to": "2026-05-07",
+  "generated_at": "2026-09-03T13:12:01+00:00",
+  "publications": [
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "General product safety",
+      "title": "EFTA SURVEILLANCE AUTHORITY DECISION No 146/25/COL of 9 September 2025 adopting Guidelines for the Safety Gate Rapid Alert System as established under Directive 2001/95/EC on general product safety [2026/1039]",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1039",
+      "pub_date": "2026-05-07",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "General product safety",
+      "title": "EFTA Surveillance Authority decision No 146/25/COL of 9 September 2025 adopting Guidelines for the Safety Gate Rapid Alert System as established under Directive 2001/95/EC on general product safety [2026/1040]",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1040",
+      "pub_date": "2026-05-07",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "General product safety",
+      "title": "Corrigendum to Directive (EU) 2024/2853 of the European Parliament and of the Council of 23 October 2024 on liability for defective products and repealing Council Directive 85/374/EEC (OJ L, 2024/2853, 18.11.2024)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:corrigendum:2026-05-07",
+      "pub_date": "2026-05-07",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "07-05-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "07-05-2026",
+      "relevant": 0,
+      "total": 12,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "07-05-2026",
+      "relevant": 0,
+      "total": 36,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "07-05-2026",
+      "relevant": 0,
+      "total": 121,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "07-05-2026",
+      "relevant": 0,
+      "total": 9,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "07-05-2026",
+      "relevant": 0,
+      "total": 17,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-05-07",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-05-07",
+      "relevant": 3,
+      "total": 11,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-05-07",
+      "relevant": 0,
+      "total": 10,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

@@ -1,0 +1,117 @@
+{
+  "kind": "daily",
+  "id": "2026-06-11",
+  "label": "11 juni 2026",
+  "from": "2026-06-11",
+  "to": "2026-06-11",
+  "generated_at": "2026-09-03T13:19:47+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "General product safety",
+      "title": "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 2 juni 2026, 4385256-1098490-WJZ, houdende wijziging van de Warenwetregeling tatoeëren en piercen in verband met de indexering van tarieven 2026 [KetenID WGK029081]",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-20693.html",
+      "pub_date": "2026-06-11",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Brief regering; Reactie op verzoek commissie op een brief met vragen en opmerkingen van de gemeente Dordrecht ten behoeve van het commissiedebat Externe veiligheid d.d. 10 juni 2026",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35334-446.html",
+      "pub_date": "2026-06-11",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Nederlandse Voedsel en Warenautoriteit; Position paper - 24 april 2026",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1253241.html",
+      "pub_date": "2026-06-11",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Medical devices",
+      "title": "3 juni 2026. - Ministerieel besluit tot wijziging van hoofdstuk\"B. Neurochirurgie\" van de lijst, gevoegd als bijlage 1 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de procedures, termijnen en voorwaarden inzake de tegemoetkoming v",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-06-11&lg_txt=n&caller=sum&s_editie=1&2026004170=38&numac_search=2026004170&view_numac=",
+      "pub_date": "2026-06-11",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "11-06-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "11-06-2026",
+      "relevant": 1,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "11-06-2026",
+      "relevant": 0,
+      "total": 33,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "11-06-2026",
+      "relevant": 2,
+      "total": 227,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "11-06-2026",
+      "relevant": 0,
+      "total": 4,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "11-06-2026",
+      "relevant": 1,
+      "total": 53,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-06-11",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-06-11",
+      "relevant": 0,
+      "total": 22,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-06-11",
+      "relevant": 0,
+      "total": 13,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

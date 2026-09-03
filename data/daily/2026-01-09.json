@@ -1,0 +1,109 @@
+{
+  "kind": "daily",
+  "id": "2026-01-09",
+  "label": "9 januari 2026",
+  "from": "2026-01-09",
+  "to": "2026-01-09",
+  "generated_at": "2026-09-03T12:43:35+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Douane; Brief regering; Stand van zaken handelingskostenvergoeding e-commercezendingen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-31934-102.html",
+      "pub_date": "2026-01-09",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Uitstel beantwoording vragen van het lid Beckerman over toezicht door de Nederlandse Voedsel- en Warenautoriteit (NVWA), de Inspectie Leefomgeving en Transport (ILT), de Gemeentelijke gezondheidsdienst (GGD) en de samenwerking met het Rijksinstituut voor Volksgezondheid en Milieu (RIVM) op hygiëne- en gezondheidsregels in de horeca",
+      "url": "https://zoek.officielebekendmakingen.nl/ah-tk-20252026-824.html",
+      "pub_date": "2026-01-09",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Elektrische apparaten",
+      "title": "18 december 2025. - Koninklijk besluit tot wijziging van de koninklijke besluiten van 18 maart 2020 betreffende afgedankte elektrische en elektronische apparatuur en 6 maart 2002 betreffende het geluidsvermogen van materieel voor gebruik buitenshuis,",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-01-09&lg_txt=n&caller=sum&s_editie=1&2025009924=3&numac_search=2025009924&view_numac=",
+      "pub_date": "2026-01-09",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "09-01-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "09-01-2026",
+      "relevant": 0,
+      "total": 14,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "09-01-2026",
+      "relevant": 0,
+      "total": 27,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "09-01-2026",
+      "relevant": 2,
+      "total": 97,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "09-01-2026",
+      "relevant": 0,
+      "total": 7,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "09-01-2026",
+      "relevant": 1,
+      "total": 30,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-01-09",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-01-09",
+      "relevant": 0,
+      "total": 12,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-01-09",
+      "relevant": 0,
+      "total": 12,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

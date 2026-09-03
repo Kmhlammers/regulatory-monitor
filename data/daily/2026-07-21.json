@@ -1,0 +1,101 @@
+{
+  "kind": "daily",
+  "id": "2026-07-21",
+  "label": "21 juli 2026",
+  "from": "2026-07-21",
+  "to": "2026-07-21",
+  "generated_at": "2026-09-03T13:29:23+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Food and Feed Safety Simplification Omnibus",
+      "url": "https://zoek.officielebekendmakingen.nl/h-tk-20252026-68-24.html",
+      "pub_date": "2026-07-21",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "Elektrische apparaten",
+      "title": "Special report 20/2026: Improving the energy efficiency of private homes with the RRF Broad financial support, but weaknesses in the foundations",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:3911",
+      "pub_date": "2026-07-21",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "21-07-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "21-07-2026",
+      "relevant": 0,
+      "total": 22,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "21-07-2026",
+      "relevant": 0,
+      "total": 52,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "21-07-2026",
+      "relevant": 1,
+      "total": 155,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "21-07-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "21-07-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-07-21",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-07-21",
+      "relevant": 0,
+      "total": 26,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-07-21",
+      "relevant": 1,
+      "total": 6,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

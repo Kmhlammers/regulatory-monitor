@@ -1,0 +1,157 @@
+{
+  "kind": "weekly",
+  "id": "2026-W28",
+  "label": "week 28 · 2026",
+  "from": "2026-07-06",
+  "to": "2026-07-12",
+  "generated_at": "2026-09-03T13:41:27+00:00",
+  "publications": [
+    {
+      "source": "E-justice België (Justel)",
+      "topic": "Medical devices",
+      "title": "1 juli 2026. - Ministerieel besluit tot wijziging van hoofdstuk \"C. Oto-rhino-laryngologie\" van de lijst, gevoegd als bijlage 1 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de procedures, termijnen en voorwaarden inzake de tegemoe",
+      "url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=nl&caller=list&numac_search=2026004948",
+      "pub_date": "2026-07-06",
+      "week": "2026-W28"
+    },
+    {
+      "source": "E-justice België (Justel)",
+      "topic": "Medical devices",
+      "title": "2 juli 2026. - Ministerieel besluit tot wijziging van hoofdstuk \"F. Heelkunde op de thorax en cardiologie\" van de lijst, gevoegd als bijlage 1 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de procedures, termijnen en voorwaarden in",
+      "url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=nl&caller=list&numac_search=2026004563",
+      "pub_date": "2026-07-06",
+      "week": "2026-W28"
+    },
+    {
+      "source": "E-justice België (Justel)",
+      "topic": "Medical devices",
+      "title": "1 juni 2026. - Verordening tot wijziging van de verordening van 16 juni 2014 tot vastlegging van de formulieren met betrekking tot de aanvraagprocedures inzake de tegemoetkoming van de verplichte verzekering voor geneeskundige verzorging en uitkering",
+      "url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=nl&caller=list&numac_search=2026004842",
+      "pub_date": "2026-07-06",
+      "week": "2026-W28"
+    },
+    {
+      "source": "E-justice België (Justel)",
+      "topic": "Medical devices",
+      "title": "1 juni 2026. - Verordening tot wijziging van de verordening van 16 juni 2014 tot vastlegging van de formulieren met betrekking tot de aanvraagprocedures inzake de tegemoetkoming van de verplichte verzekering voor geneeskundige verzorging en uitkering",
+      "url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=nl&caller=list&numac_search=2026004949",
+      "pub_date": "2026-07-06",
+      "week": "2026-W28"
+    }
+  ],
+  "counts": [
+    {
+      "label": "COM-documenten",
+      "date_str": "2026-07-06 t/m 2026-07-12",
+      "relevant": 0,
+      "total": 10,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "JOIN-documenten",
+      "date_str": "2026-07-06 t/m 2026-07-12",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "SEC/SWD",
+      "date_str": "2026-07-06 t/m 2026-07-12",
+      "relevant": 0,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "ROW",
+      "date_str": "2026-07-06 t/m 2026-07-12",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "E-justice België (Justel)",
+      "date_str": "06-07-2026 t/m 12-07-2026",
+      "relevant": 4,
+      "total": 82,
+      "api_error": false,
+      "note": "4 vertaal-herpublicaties overgeslagen. Justel-index loopt enkele dagen achter op het Belgisch Staatsblad — draai zo nodig ook de voorgaande week"
+    },
+    {
+      "label": "Nieuws en media | NVWA",
+      "date_str": "2026-07-06 t/m 2026-07-12",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Documenten | NVWA",
+      "date_str": "2026-07-06 t/m 2026-07-12",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Nieuws | Nederlandse Arbeidsinspectie",
+      "date_str": "2026-07-06 t/m 2026-07-12",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Publicaties | Nederlandse Arbeidsinspectie",
+      "date_str": "2026-07-06 t/m 2026-07-12",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Nieuws | ACM",
+      "date_str": "2026-07-06 t/m 2026-07-12",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Publicaties | Federaal Agentschap voor de veiligheid van de voedselketen",
+      "date_str": "2026-07-06 t/m 2026-07-12",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:129:8: mismatched tag"
+    },
+    {
+      "label": "Nieuws | Federaal Agentschap voor de veiligheid van de voedselketen",
+      "date_str": "2026-07-06 t/m 2026-07-12",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:128:8: mismatched tag"
+    },
+    {
+      "label": "Nieuws | FOD Volksgezondheid",
+      "date_str": "2026-07-06 t/m 2026-07-12",
+      "relevant": 0,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "News - ECHA",
+      "date_str": "2026-07-06 t/m 2026-07-12",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "403 Client Error: Forbidden for url: https://echa.europa.eu/nl/rss/news"
+    }
+  ],
+  "antidumping": []
+}

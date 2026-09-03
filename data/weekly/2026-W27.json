@@ -1,0 +1,149 @@
+{
+  "kind": "weekly",
+  "id": "2026-W27",
+  "label": "week 27 · 2026",
+  "from": "2026-06-29",
+  "to": "2026-07-05",
+  "generated_at": "2026-09-03T13:41:12+00:00",
+  "publications": [
+    {
+      "source": "SEC/SWD",
+      "topic": "PPWR",
+      "title": "COMMISSION STAFF WORKING DOCUMENT Estimated costs Accompanying the document Commission Implementing Decision (EU).../...of XXX laying down rules for the application of Directive (EU) 2019/904 of the Europea Parliament and the Council as regards the calculations, verification and reporting of data on recycled plastic content in single-use plastic beverage bottles and repealing Commission Implementing Decision (EU) 2023/2683",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026SC0170",
+      "pub_date": "2026-06-30",
+      "week": "2026-W27"
+    },
+    {
+      "source": "SEC/SWD",
+      "topic": "Duurzaamheid",
+      "title": "COMMISSION STAFF WORKING DOCUMENT Accompanying the documents COMMISSION DELEGATED REGULATION (EU).../... amending Delegated Regulation (EU) 2023/2772 as regards the simplification of certain sustainability reporting standards COMMISSION DELEGATED REGULATION (EU) …/... supplementing Directive 2013/34/EU of the European Parliament and of the Council by establishing sustainability reporting standards for voluntary use by undertakings protected by the value chain cap",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026SC0500",
+      "pub_date": "2026-07-03",
+      "week": "2026-W27"
+    },
+    {
+      "source": "E-justice België (Justel)",
+      "topic": "Elektrische apparaten",
+      "title": "24 juni 2026. - Koninklijk besluit tot wijziging van het koninklijk besluit van 17 maart 2013 tot beperking van het gebruik van bepaalde gevaarlijke stoffen in elektrische en elektronische apparatuur",
+      "url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=nl&caller=list&numac_search=2026004892",
+      "pub_date": "2026-06-30",
+      "week": "2026-W27"
+    }
+  ],
+  "counts": [
+    {
+      "label": "COM-documenten",
+      "date_str": "2026-06-29 t/m 2026-07-05",
+      "relevant": 0,
+      "total": 23,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "JOIN-documenten",
+      "date_str": "2026-06-29 t/m 2026-07-05",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "SEC/SWD",
+      "date_str": "2026-06-29 t/m 2026-07-05",
+      "relevant": 2,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "ROW",
+      "date_str": "2026-06-29 t/m 2026-07-05",
+      "relevant": 0,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "E-justice België (Justel)",
+      "date_str": "29-06-2026 t/m 05-07-2026",
+      "relevant": 1,
+      "total": 60,
+      "api_error": false,
+      "note": "9 vertaal-herpublicaties overgeslagen. Justel-index loopt enkele dagen achter op het Belgisch Staatsblad — draai zo nodig ook de voorgaande week"
+    },
+    {
+      "label": "Nieuws en media | NVWA",
+      "date_str": "2026-06-29 t/m 2026-07-05",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Documenten | NVWA",
+      "date_str": "2026-06-29 t/m 2026-07-05",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Nieuws | Nederlandse Arbeidsinspectie",
+      "date_str": "2026-06-29 t/m 2026-07-05",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Publicaties | Nederlandse Arbeidsinspectie",
+      "date_str": "2026-06-29 t/m 2026-07-05",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Nieuws | ACM",
+      "date_str": "2026-06-29 t/m 2026-07-05",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Publicaties | Federaal Agentschap voor de veiligheid van de voedselketen",
+      "date_str": "2026-06-29 t/m 2026-07-05",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:129:8: mismatched tag"
+    },
+    {
+      "label": "Nieuws | Federaal Agentschap voor de veiligheid van de voedselketen",
+      "date_str": "2026-06-29 t/m 2026-07-05",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:128:8: mismatched tag"
+    },
+    {
+      "label": "Nieuws | FOD Volksgezondheid",
+      "date_str": "2026-06-29 t/m 2026-07-05",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "News - ECHA",
+      "date_str": "2026-06-29 t/m 2026-07-05",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "403 Client Error: Forbidden for url: https://echa.europa.eu/nl/rss/news"
+    }
+  ],
+  "antidumping": []
+}

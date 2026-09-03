@@ -1,0 +1,101 @@
+{
+  "kind": "daily",
+  "id": "2026-06-25",
+  "label": "25 juni 2026",
+  "from": "2026-06-25",
+  "to": "2026-06-25",
+  "generated_at": "2026-09-03T13:23:11+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "Batterijen",
+      "title": "Besluit Inspectie Gezondheidszorg en Jeugd van 23 juni 2026, kenmerk 2026-3183457/IT2064872, houdende het verlenen van vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Lithiumcarbonaat Teva 300 mg, tabletten (RVG 55991)",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-23343.html",
+      "pub_date": "2026-06-25",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "PPWR",
+      "title": "Bijlage - Evaluation Directive (EU) 2019/904 on rules on single-use plastics and fishing gear - Input from the Netherlands",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1255795.html",
+      "pub_date": "2026-06-25",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "25-06-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "25-06-2026",
+      "relevant": 1,
+      "total": 16,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "25-06-2026",
+      "relevant": 0,
+      "total": 45,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "25-06-2026",
+      "relevant": 1,
+      "total": 178,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "25-06-2026",
+      "relevant": 0,
+      "total": 4,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "25-06-2026",
+      "relevant": 0,
+      "total": 26,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-06-25",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-06-25",
+      "relevant": 0,
+      "total": 60,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-06-25",
+      "relevant": 0,
+      "total": 14,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

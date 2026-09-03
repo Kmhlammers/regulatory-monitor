@@ -1,0 +1,149 @@
+{
+  "kind": "daily",
+  "id": "2026-02-05",
+  "label": "5 februari 2026",
+  "from": "2026-02-05",
+  "to": "2026-02-05",
+  "generated_at": "2026-09-03T12:49:22+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Jaarplan van de Rechtspraak 2026",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1234554.html",
+      "pub_date": "2026-02-05",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Beslisnota bij Kamerbrief Jaarplan van de Rechtspraak 2026",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1234555.html",
+      "pub_date": "2026-02-05",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Rechtsstaat en Rechtsorde; Brief regering; Jaarplan van de Rechtspraak 2026",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-29279-1010.html",
+      "pub_date": "2026-02-05",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Inbreng verslag van een schriftelijk overleg over o.a. Fiche: Omnibus AI en Omnibus Digitaal (Kamerstuk 22112-4223)",
+      "url": "https://zoek.officielebekendmakingen.nl/nds-tk-2026D04020.html",
+      "pub_date": "2026-02-05",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Elektrische apparaten",
+      "title": "Inbreng verslag schriftelijk overleg over o.a. de reactie op verzoek commissie over de brief van het Comité Schone Lucht NL (CSL), FERN EU en ClientEarth aan de ministeries van Economische Zaken en Klimaat, van Infrastructuur en Waterstaat en van Landbouw, Natuur en Voedselkwaliteit over “'Verstandiger met Hout'; handleiding voor verdergaande implementatie herziene EU Richtlijn hernieuwbare energie (RED III) bij onderdeel biomassaverbranding” (Kamerstuk 32813-1423)",
+      "url": "https://zoek.officielebekendmakingen.nl/nds-tk-2026D04029.html",
+      "pub_date": "2026-02-05",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Lijst van vragen over het Jaarplan 2026 Kustwacht voor het Koninkrijk der Nederlanden in het Caribisch gebied (Kamerstuk 36800-X-16)",
+      "url": "https://zoek.officielebekendmakingen.nl/nds-tk-2026D04544.html",
+      "pub_date": "2026-02-05",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Douane & Handelsbeleid",
+      "title": "15 maart 2023. - Wet houdende diverse bepalingen inzake het sociaal tarief. - Duitse vertaling van uittreksels, bl. 5394.",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-02-05&lg_txt=n&caller=sum&s_editie=1&2026000647=3&numac_search=2026000647&view_numac=",
+      "pub_date": "2026-02-05",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Medical devices",
+      "title": "14 januari 2026. - Ministerieel besluit tot wijziging van hoofdstuk \"F. Heelkunde op de thorax en cardiologie\" van de lijst en van de nominatieve lijsten, gevoegd als bijlagen 1 en 2 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-02-05&lg_txt=n&caller=sum&s_editie=1&2026000741=21&numac_search=2026000741&view_numac=",
+      "pub_date": "2026-02-05",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "05-02-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "05-02-2026",
+      "relevant": 0,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "05-02-2026",
+      "relevant": 0,
+      "total": 29,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "05-02-2026",
+      "relevant": 6,
+      "total": 181,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "05-02-2026",
+      "relevant": 0,
+      "total": 8,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "05-02-2026",
+      "relevant": 2,
+      "total": 40,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-02-05",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-02-05",
+      "relevant": 0,
+      "total": 9,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-02-05",
+      "relevant": 0,
+      "total": 18,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

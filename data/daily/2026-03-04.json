@@ -1,0 +1,101 @@
+{
+  "kind": "daily",
+  "id": "2026-03-04",
+  "label": "4 maart 2026",
+  "from": "2026-03-04",
+  "to": "2026-03-04",
+  "generated_at": "2026-09-03T12:54:33+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Wijziging van de Werkloosheidswet en enige andere wetten vanwege aanpassing van de Regeling dienstverlening aan huis (Wet aanpassing Regeling dienstverlening aan huis); Amendement; Amendement van de leden Neijenhuis en Patijn over een beperkte evaluatie na twee jaar over de toereikendheid van de compenserende middelen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36744-27.html",
+      "pub_date": "2026-03-04",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Commission Implementing Regulation (EU) 2026/479 of 3 March 2026 imposing a definitive countervailing duty on imports of biodiesel originating in the Indonesia following an expiry review pursuant to Article 18 of Regulation (EU) 2016/1037 of the European Parliament and of the Council",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:479",
+      "pub_date": "2026-03-04",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "04-03-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "04-03-2026",
+      "relevant": 0,
+      "total": 14,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "04-03-2026",
+      "relevant": 0,
+      "total": 24,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "04-03-2026",
+      "relevant": 1,
+      "total": 238,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "04-03-2026",
+      "relevant": 0,
+      "total": 3,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "04-03-2026",
+      "relevant": 0,
+      "total": 37,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-03-04",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-03-04",
+      "relevant": 1,
+      "total": 16,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-03-04",
+      "relevant": 0,
+      "total": 16,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

@@ -1,0 +1,125 @@
+{
+  "kind": "daily",
+  "id": "2026-01-08",
+  "label": "8 januari 2026",
+  "from": "2026-01-08",
+  "to": "2026-01-08",
+  "generated_at": "2026-09-03T12:43:19+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "PPWR",
+      "title": "Aanwijzing Regeling kunststofproducten voor eenmalig gebruik",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-129.html",
+      "pub_date": "2026-01-08",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Stemming Wijziging van de Wet milieubeheer",
+      "url": "https://zoek.officielebekendmakingen.nl/h-tk-20252026-19-12.html",
+      "pub_date": "2026-01-08",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Elektrische apparaten",
+      "title": "Het bericht ‘Google en Microsoft houden energieverbruik van hyperscale-datacenters geheim voor de overheid’",
+      "url": "https://zoek.officielebekendmakingen.nl/kv-tk-2026Z00126.html",
+      "pub_date": "2026-01-08",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Batterijen",
+      "title": "Commission Implementing Decision (EU) 2026/53 of 6 January 2026 recognising that the report submitted by Slovakia under Article 31(2) of Directive (EU) 2018/2001 of the European Parliament and of the Council contains accurate data for the purposes of measuring the greenhouse gas emissions associated with the cultivation of wheat and sorghum in that Member State",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:53",
+      "pub_date": "2026-01-08",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Duurzaamheid",
+      "title": "Commission Delegated Regulation (EU) 2026/73 of 4 July 2025 amending Delegated Regulation (EU) 2021/2178 as regards the simplification of the content and presentation of information to be disclosed concerning environmentally sustainable activities and Delegated Regulations (EU) 2021/2139 and (EU) 2023/2486 as regards simplification of certain technical screening criteria for determining whether economic activities cause no significant harm to environmental objectives",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:73",
+      "pub_date": "2026-01-08",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "08-01-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "08-01-2026",
+      "relevant": 1,
+      "total": 7,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "08-01-2026",
+      "relevant": 0,
+      "total": 28,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "08-01-2026",
+      "relevant": 2,
+      "total": 65,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "08-01-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "08-01-2026",
+      "relevant": 0,
+      "total": 20,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-01-08",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-01-08",
+      "relevant": 2,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-01-08",
+      "relevant": 0,
+      "total": 7,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

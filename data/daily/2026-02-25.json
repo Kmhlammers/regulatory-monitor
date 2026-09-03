@@ -1,0 +1,101 @@
+{
+  "kind": "daily",
+  "id": "2026-02-25",
+  "label": "25 februari 2026",
+  "from": "2026-02-25",
+  "to": "2026-02-25",
+  "generated_at": "2026-09-03T12:53:08+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Wijziging van de Wet milieubeheer en enkele andere wetten ter uitvoering van Verordening (EU) 2024/1157 van het Europees Parlement en de Raad van 11 april 2024 betreffende de overbrenging van afvalstoffen, ter gedeeltelijke implementatie van een daaraan gerelateerde richtlijn, ter aanvullende implementatie van Richtlijn (EU) 2018/851 van het Europees Parlement en de Raad van 30 mei 2018 tot wijziging van Richtlijn 2008/98/EG betreffende afvalstoffen en in verband met het opnemen van een grondslag voor de uitvoering van Verordening (EU) 2023/1542 van het Europees Parlement en de Raad van 12 juli 2023 inzake batterijen en afgedankte batterijen (Wet uitvoering EU-verordening overbrenging van afvalstoffen en implementatie enkele andere EU-rechtshandelingen); Koninklijke boodschap; Koninklijke boodschap",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36880-1.html",
+      "pub_date": "2026-02-25",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Batterijen",
+      "title": "Commission Implementing Decision (EU) 2026/406 of 24 February 2026 recognising that the report submitted by the United Kingdom under Article 31(3) of Directive (EU) 2018/2001 of the European Parliament and of the Council contains accurate data for the purposes of measuring the greenhouse gas emissions associated with the cultivation of winter wheat, oilseed rape and sugar beet in that country",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:406",
+      "pub_date": "2026-02-25",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "25-02-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "25-02-2026",
+      "relevant": 0,
+      "total": 15,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "25-02-2026",
+      "relevant": 0,
+      "total": 39,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "25-02-2026",
+      "relevant": 1,
+      "total": 55,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "25-02-2026",
+      "relevant": 0,
+      "total": 3,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "25-02-2026",
+      "relevant": 0,
+      "total": 14,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-02-25",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-02-25",
+      "relevant": 1,
+      "total": 14,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-02-25",
+      "relevant": 0,
+      "total": 9,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

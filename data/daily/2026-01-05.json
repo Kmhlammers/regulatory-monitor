@@ -1,0 +1,93 @@
+{
+  "kind": "daily",
+  "id": "2026-01-05",
+  "label": "5 januari 2026",
+  "from": "2026-01-05",
+  "to": "2026-01-05",
+  "generated_at": "2026-09-03T12:42:34+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Antwoord op vragen van het lid Kathmann over het slopen van de privacybescherming in de nieuwe Europese Omnibus-wetgeving",
+      "url": "https://zoek.officielebekendmakingen.nl/ah-tk-20252026-792.html",
+      "pub_date": "2026-01-05",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "05-01-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "05-01-2026",
+      "relevant": 0,
+      "total": 10,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "05-01-2026",
+      "relevant": 0,
+      "total": 25,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "05-01-2026",
+      "relevant": 1,
+      "total": 29,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "05-01-2026",
+      "relevant": 0,
+      "total": 3,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "05-01-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-01-05",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-01-05",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-01-05",
+      "relevant": 0,
+      "total": 54,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

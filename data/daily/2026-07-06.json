@@ -1,0 +1,141 @@
+{
+  "kind": "daily",
+  "id": "2026-07-06",
+  "label": "6 juli 2026",
+  "from": "2026-07-06",
+  "to": "2026-07-06",
+  "generated_at": "2026-09-03T13:25:46+00:00",
+  "publications": [
+    {
+      "source": "Staatsblad NL",
+      "topic": "General product safety",
+      "title": "Besluit van 30 juni 2026, houdende wijziging van het Besluit houders van dieren, het Warenwetbesluit hygiëne van levensmiddelen en het Besluit handhaving en overige zaken Wet dieren in verband met technische wijzigingen",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2026-174.html",
+      "pub_date": "2026-07-06",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "ESPR/Ecodesign",
+      "title": "Goedkeuring van enkele ministeriële regelingen tot aanpassing van wetten van Nederlands-Antilliaanse oorsprong voor de openbare lichamen Bonaire, Sint Eustatius en Saba (Tweede goedkeurings- en reparatiewet BES); Brief regering; Toelichting op de nota van wijziging inzake Goedkeuring van enkele ministeriële regelingen tot aanpassing van wetten van Nederlands-Antilliaanse oorsprong voor de openbare lichamen Bonaire, Sint Eustatius en Saba (Tweede goedkeurings- en reparatiewet BES) (Kamerstuk 33315)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1261547.html",
+      "pub_date": "2026-07-06",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Medical devices",
+      "title": "1 juli 2026. - Ministerieel besluit tot wijziging van hoofdstuk\"C. Oto-rhino-laryngologie\" van de lijst, gevoegd als bijlage 1 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de procedures, termijnen en voorwaarden inzake de tegemoet",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-07-06&lg_txt=n&caller=sum&s_editie=1&2026004948=6&numac_search=2026004948&view_numac=",
+      "pub_date": "2026-07-06",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Medical devices",
+      "title": "2 juli 2026. - Ministerieel besluit tot wijziging van hoofdstuk\"F. Heelkunde op de thorax en cardiologie\" van de lijst, gevoegd als bijlage 1 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de procedures, termijnen en voorwaarden inz",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-07-06&lg_txt=n&caller=sum&s_editie=1&2026004563=7&numac_search=2026004563&view_numac=",
+      "pub_date": "2026-07-06",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "Batterijen",
+      "title": "Opinion of the Advisory Committee on Restrictive Practices and Dominant Positions of 12 December 2025 concerning a draft decision in Case AT.40545 – Automotive Starter Batteries – Rapporteur: Poland",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:3532",
+      "pub_date": "2026-07-06",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "Batterijen",
+      "title": "Summary of Commission Decision of 15 December 2025 relating to a proceeding under Article 101 of the Treaty on the Functioning of the European Union and Article 53 of the EEA Agreement (Case AT.40545 – Automotive Starter Batteries) (notified under document number C(2025) 8563 final)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:3534",
+      "pub_date": "2026-07-06",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "Batterijen",
+      "title": "Final Report of the Hearing Officer – Case AT.40545 – Automotive Starter Batteries",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:3533",
+      "pub_date": "2026-07-06",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "06-07-2026",
+      "relevant": 1,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "06-07-2026",
+      "relevant": 0,
+      "total": 25,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "06-07-2026",
+      "relevant": 0,
+      "total": 54,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "06-07-2026",
+      "relevant": 1,
+      "total": 200,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "06-07-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "06-07-2026",
+      "relevant": 2,
+      "total": 16,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-07-06",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-07-06",
+      "relevant": 0,
+      "total": 9,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-07-06",
+      "relevant": 3,
+      "total": 78,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

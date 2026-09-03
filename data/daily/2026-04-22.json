@@ -1,0 +1,125 @@
+{
+  "kind": "daily",
+  "id": "2026-04-22",
+  "label": "22 april 2026",
+  "from": "2026-04-22",
+  "to": "2026-04-22",
+  "generated_at": "2026-09-03T13:04:57+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Het afschaffen van het laag btw-tarief op sierteelt",
+      "url": "https://zoek.officielebekendmakingen.nl/kv-tk-2026Z08705.html",
+      "pub_date": "2026-04-22",
+      "week": ""
+    },
+    {
+      "source": "refLex - Chrono",
+      "topic": "Medical devices",
+      "title": "Ministerieel besluit van 22 april 2026 tot wijziging van hoofdstuk \"C. Oto-rhino-laryngologie\" van de lijst, gevoegd als bijlage 1 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de procedures, termijnen en voorwaarden inzake de tegemoetkoming van de verplichte verzekering voor geneeskundige verzorging en uitkeringen in de kosten van implantaten en invasieve medische hulpmiddelen",
+      "url": "http://reflex.raadvst-consetat.be/reflex/page=chrono&c=detail_get&d=detail&docid=159124",
+      "pub_date": "2026-04-22",
+      "week": ""
+    },
+    {
+      "source": "refLex - Chrono",
+      "topic": "Medical devices",
+      "title": "Ministerieel besluit van 22 april 2026 tot wijziging van de lijst, gevoegd als bijlage 1 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de procedures, termijnen en voorwaarden inzake de tegemoetkoming van de verplichte verzekering voor geneeskundige verzorging en uitkeringen in de kosten van implantaten en invasieve medische hulpmiddelen",
+      "url": "http://reflex.raadvst-consetat.be/reflex/page=chrono&c=detail_get&d=detail&docid=159134",
+      "pub_date": "2026-04-22",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "ESPR/Ecodesign",
+      "title": "Commission Delegated Regulation (EU) 2026/296 of 9 February 2026 supplementing Regulation (EU) 2024/1781 of the European Parliament and of the Council by setting out derogations from the prohibition of destruction of unsold consumer products",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:296",
+      "pub_date": "2026-04-22",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "Duurzaamheid",
+      "title": "P10_TA(2025)0264 – Certain corporate sustainability reporting and due diligence requirements – Amendments adopted by the European Parliament on 13 November 2025 on the proposal for a directive of the European Parliament and of the Council amending Directives 2006/43/EC, 2013/34/EU, (EU) 2022/2464 and (EU) 2024/1760 as regards certain corporate sustainability reporting and due diligence requirements (COM(2025)0081 – C10-0037/2025 – 2025/0045(COD)) (Ordinary legislative procedure: first reading)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:1672",
+      "pub_date": "2026-04-22",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "22-04-2026",
+      "relevant": 0,
+      "total": 5,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "22-04-2026",
+      "relevant": 0,
+      "total": 23,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "22-04-2026",
+      "relevant": 0,
+      "total": 54,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "22-04-2026",
+      "relevant": 1,
+      "total": 217,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "22-04-2026",
+      "relevant": 2,
+      "total": 3,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "22-04-2026",
+      "relevant": 0,
+      "total": 18,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-04-22",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-04-22",
+      "relevant": 1,
+      "total": 12,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-04-22",
+      "relevant": 1,
+      "total": 33,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

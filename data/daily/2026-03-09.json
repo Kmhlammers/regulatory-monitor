@@ -1,0 +1,117 @@
+{
+  "kind": "daily",
+  "id": "2026-03-09",
+  "label": "9 maart 2026",
+  "from": "2026-03-09",
+  "to": "2026-03-09",
+  "generated_at": "2026-09-03T12:55:23+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "EUDR",
+      "title": "Vaststelling van de begrotingsstaat voor Buitenlandse Handel en Ontwikkelingshulp (XVII) voor het jaar 2026; Amendement; Amendement van het lid Dassen over verhoging van de financiële bijdrage voor het stoppen van ontbossing in 2026",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36800-XVII-18.html",
+      "pub_date": "2026-03-09",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Antwoord op vragen van het lid Diederik van Dijk over de terugroepactie van babyvoeding door Danone",
+      "url": "https://zoek.officielebekendmakingen.nl/ah-tk-20252026-1253.html",
+      "pub_date": "2026-03-09",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Antwoord op vragen van het lid Diederik van Dijk over de terugroepactie van babyvoeding door Danone",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1238417.html",
+      "pub_date": "2026-03-09",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Commission Implementing Regulation (EU) 2026/507 of 6 March 2026 granting Cabo Verde a temporary derogation from the rules on preferential origin laid down in Delegated Regulation (EU) 2015/2446, in respect of prepared or preserved fillets of tuna and tuna loins (raw, cooked and frozen), prepared or preserved mackerel fillets and prepared or preserved frigate tuna or frigate mackerel fillets",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:507",
+      "pub_date": "2026-03-09",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "09-03-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "09-03-2026",
+      "relevant": 0,
+      "total": 10,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "09-03-2026",
+      "relevant": 0,
+      "total": 65,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "09-03-2026",
+      "relevant": 3,
+      "total": 148,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "09-03-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "09-03-2026",
+      "relevant": 0,
+      "total": 8,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-03-09",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-03-09",
+      "relevant": 1,
+      "total": 4,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-03-09",
+      "relevant": 0,
+      "total": 81,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

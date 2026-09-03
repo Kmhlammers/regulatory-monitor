@@ -1,0 +1,141 @@
+{
+  "kind": "daily",
+  "id": "2026-03-17",
+  "label": "17 maart 2026",
+  "from": "2026-03-17",
+  "to": "2026-03-17",
+  "generated_at": "2026-09-03T12:57:10+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Brief regering; Rapportages in het kader van Monitoring en Evaluatie Stikstofreductie en Natuurverbetering",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35334-429.html",
+      "pub_date": "2026-03-17",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "EU-voorstel: Gezamenlijk witboek over de gereedheid van de Europese defensie 2030 JOIN(2025)120; Verslag van een nader schriftelijk overleg met de minister van Defensie over Omnibusvoorstellen Europese Defensie Gereedheid 2030",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36741-N.html",
+      "pub_date": "2026-03-17",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Beslisnota(s) bij beantwoording nadere vragen over Omnibusvoorstellen Europese Defensie Gereedheid 2030",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1239600.html",
+      "pub_date": "2026-03-17",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "VSource investigation of PFAS in home-produced eggs",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1239443.html",
+      "pub_date": "2026-03-17",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Kennisnotitie: PFAS in lokaal voedsel in Nederland ",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1239444.html",
+      "pub_date": "2026-03-17",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Voedselveiligheid; Brief regering; Twee RIVM-producten over PFAS in lokaal voedsel",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-26991-593.html",
+      "pub_date": "2026-03-17",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Beslisnota bij Kamerbrief Twee RIVM-producten over PFAS in lokaal voedsel",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1239445.html",
+      "pub_date": "2026-03-17",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "17-03-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "17-03-2026",
+      "relevant": 0,
+      "total": 25,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "17-03-2026",
+      "relevant": 0,
+      "total": 47,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "17-03-2026",
+      "relevant": 7,
+      "total": 147,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "17-03-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "17-03-2026",
+      "relevant": 0,
+      "total": 25,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-03-17",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-03-17",
+      "relevant": 0,
+      "total": 12,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-03-17",
+      "relevant": 0,
+      "total": 28,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

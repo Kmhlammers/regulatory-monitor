@@ -1,0 +1,133 @@
+{
+  "kind": "daily",
+  "id": "2026-07-28",
+  "label": "28 juli 2026",
+  "from": "2026-07-28",
+  "to": "2026-07-28",
+  "generated_at": "2026-09-03T13:30:56+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "ESPR/Ecodesign",
+      "title": "Goedkeuring van enkele ministeriële regelingen tot aanpassing van wetten van Nederlands-Antilliaanse oorsprong voor de openbare lichamen Bonaire, Sint Eustatius en Saba (Tweede goedkeurings- en reparatiewet BES); Nota van wijziging; Nota van wijziging",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-33315-6.html",
+      "pub_date": "2026-07-28",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "ESPR/Ecodesign",
+      "title": "Beslisnota bij 33315 Nota van wijziging inzake Goedkeuring van enkele ministeriële regelingen tot aanpassing van wetten van Nederlands-Antilliaanse oorsprong voor de openbare lichamen Bonaire, Sint Eustatius en Saba (Tweede goedkeurings- en reparatiewet BES)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1264251.html",
+      "pub_date": "2026-07-28",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie; Brief regering; Naderende Raadspositie Omnibus Digitaal",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1264175.html",
+      "pub_date": "2026-07-28",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Beslisnota bij Kamerbrief over naderende Raadspositie Omnibus Digitaal",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1264176.html",
+      "pub_date": "2026-07-28",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Duurzaamheid",
+      "title": "Commission Delegated Regulation (EU) 2026/871 of 21 April 2026 supplementing Regulation (EU) 2024/3005 of the European Parliament and of the Council with regard to regulatory technical standards specifying the elements of ESG rating products to be disclosed to the public and to users of ESG ratings, rated items and issuers of rated items",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:871",
+      "pub_date": "2026-07-28",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Duurzaamheid",
+      "title": "Commission Delegated Regulation (EU) 2026/872 of 21 April 2026 supplementing Regulation (EU) 2024/3005 of the European Parliament and of the Council with regard to regulatory technical standards specifying the measures and safeguards to be implemented by ESG rating providers to separate their ESG rating activities from their other activities",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:872",
+      "pub_date": "2026-07-28",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "28-07-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "28-07-2026",
+      "relevant": 0,
+      "total": 11,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "28-07-2026",
+      "relevant": 0,
+      "total": 30,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "28-07-2026",
+      "relevant": 4,
+      "total": 83,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "28-07-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "28-07-2026",
+      "relevant": 0,
+      "total": 14,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-07-28",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-07-28",
+      "relevant": 2,
+      "total": 23,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-07-28",
+      "relevant": 0,
+      "total": 7,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

@@ -1,0 +1,133 @@
+{
+  "kind": "daily",
+  "id": "2026-03-26",
+  "label": "26 maart 2026",
+  "from": "2026-03-26",
+  "to": "2026-03-26",
+  "generated_at": "2026-09-03T12:59:21+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Voorstel van wet van de leden Klaver en Ouwehand tot wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met de invoering van een vuurwerkverbod voor consumenten (Wet veilige jaarwisseling); Motie; Motie van het lid Van der Plas over de nadeelcompensatie onderdeel laten blijven van het Besluit veilige jaarwisseling en beide gelijktijdig aan de Kamer voorleggen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35386-39.html",
+      "pub_date": "2026-03-26",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Douane & Handelsbeleid",
+      "title": "De situatie in het Midden-Oosten; Motie; Motie van het lid Prickaertz over per direct de brandstofaccijns tijdelijk verlagen en de btw op brandstof tijdelijk verlagen naar het lage tarief",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-23432-698.html",
+      "pub_date": "2026-03-26",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Voorstel van wet van de leden Klaver en Ouwehand tot wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met de invoering van een vuurwerkverbod voor consumenten (Wet veilige jaarwisseling); Motie; Motie van de leden Zwinkels en Kostic over de leeftijdsgrens voor zowel supervisors als ontbranders vaststellen op ten minste 18 jaar",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35386-40.html",
+      "pub_date": "2026-03-26",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Douane & Handelsbeleid",
+      "title": "De situatie in het Midden-Oosten; Motie; Motie van het lid Prickaertz over de energiebelasting tijdelijk verlagen en de btw op energie verlagen naar het lage tarief",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-23432-699.html",
+      "pub_date": "2026-03-26",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Voorstel van wet van de leden Klaver en Ouwehand tot wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met de invoering van een vuurwerkverbod voor consumenten (Wet veilige jaarwisseling); Motie; Motie van het lid Kostic over de gemeenten op het hart drukken om zo veel mogelijk rekening te houden met wilde dieren bij de afweging om een vuurwerkontheffing te verlenen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35386-38.html",
+      "pub_date": "2026-03-26",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "General product safety",
+      "title": "31 januari 2026. - Koninklijk besluit houdende benoeming van de leden van de bijzondere raadgevende commissie Postdiensten en e-commerce, bl. 18106.",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-03-26&lg_txt=n&caller=sum&s_editie=1&2026002322=20&numac_search=2026002322&view_numac=",
+      "pub_date": "2026-03-26",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "26-03-2026",
+      "relevant": 0,
+      "total": 6,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "26-03-2026",
+      "relevant": 0,
+      "total": 15,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "26-03-2026",
+      "relevant": 0,
+      "total": 40,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "26-03-2026",
+      "relevant": 5,
+      "total": 178,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "26-03-2026",
+      "relevant": 0,
+      "total": 6,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "26-03-2026",
+      "relevant": 1,
+      "total": 30,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-03-26",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-03-26",
+      "relevant": 0,
+      "total": 13,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-03-26",
+      "relevant": 0,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

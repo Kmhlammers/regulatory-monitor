@@ -1,0 +1,149 @@
+{
+  "kind": "daily",
+  "id": "2026-07-01",
+  "label": "1 juli 2026",
+  "from": "2026-07-01",
+  "to": "2026-07-01",
+  "generated_at": "2026-09-03T13:24:25+00:00",
+  "publications": [
+    {
+      "source": "Staatsblad NL",
+      "topic": "REACH",
+      "title": "Besluit van 25 juni 2026 tot wijziging van het Vuurwerkbesluit en het Besluit vervoer gevaarlijke stoffen in verband met de Wet veilige jaarwisseling (Besluit veilige jaarwisseling) [KetenID WGK028133]",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2026-168.html",
+      "pub_date": "2026-07-01",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "Elektrische apparaten",
+      "title": "Regeling van de Minister van Klimaat en Groene Groei van 25 april 2026, nr. IENW/BSK-2026/49046, houdende wijziging van de Regeling afgedankte elektrische en elektronische apparatuur in verband met de implementatie van Richtlijn (EU) 2024/884 van het Europees parlement en de Raad van 13 maart 2024 tot de wijziging van Richtlijn 2012/19/EU betreffende afgedankte elektrische en elektronische apparatuur (AEEA) [KetenID WGK26490]",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-23305.html",
+      "pub_date": "2026-07-01",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Brief Ctgb-toets compromisvoorstel omnibus voedselveiligheid",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1257330.html",
+      "pub_date": "2026-07-01",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Kritieke grondstoffen",
+      "title": "Grondstoffenvoorzieningszekerheid; Motie; Motie van het lid Van den Berg over een lijst van kansrijke projecten voor kritieke grondstoffen en materialen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-32852-413.html",
+      "pub_date": "2026-07-01",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Beslisnota bij Kamerbrief Standpuntbepaling compromisvoorstel Omnibus food and feed ",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1257329.html",
+      "pub_date": "2026-07-01",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Vragen van het lid Van de Sanden (Fractie-Van de Sanden) op 30 juni 2026 medegedeeld aan de Minister van Buitenlandse Zaken over de inzet van de omnibusprocedure en het ontbreken van effectbeoordelingen in vervolg op eerder gestelde vragen over dit onderwerp d.d. 2 juni 2026.",
+      "url": "https://zoek.officielebekendmakingen.nl/kv-ek-252613.html",
+      "pub_date": "2026-07-01",
+      "week": ""
+    },
+    {
+      "source": "refLex - Chrono",
+      "topic": "Medical devices",
+      "title": "Ministerieel besluit van 1 juli 2026 tot wijziging van hoofdstuk \"C. Oto-rhino-laryngologie\" van de lijst, gevoegd als bijlage 1 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de procedures, termijnen en voorwaarden inzake de tegemoetkoming van de verplichte verzekering voor geneeskundige verzorging en uitkeringen in de kosten van implantaten en invasieve medische hulpmiddelen",
+      "url": "http://reflex.raadvst-consetat.be/reflex/page=chrono&c=detail_get&d=detail&docid=159504",
+      "pub_date": "2026-07-01",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Commission Delegated Regulation (EU) 2026/1022 of 30 April 2026 amending Delegated Regulation (EU) 2015/2446 as regards definitions, customs declarations and data elements related to the temporary EUR 3 customs duty on distance sales of imported goods in a consignment with an intrinsic value not exceeding EUR 150",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1022",
+      "pub_date": "2026-07-01",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "01-07-2026",
+      "relevant": 1,
+      "total": 6,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "01-07-2026",
+      "relevant": 1,
+      "total": 26,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "01-07-2026",
+      "relevant": 0,
+      "total": 45,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "01-07-2026",
+      "relevant": 4,
+      "total": 260,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "01-07-2026",
+      "relevant": 1,
+      "total": 5,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "01-07-2026",
+      "relevant": 0,
+      "total": 24,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-07-01",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-07-01",
+      "relevant": 1,
+      "total": 15,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-07-01",
+      "relevant": 0,
+      "total": 11,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

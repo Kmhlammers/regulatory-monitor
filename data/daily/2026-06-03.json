@@ -1,0 +1,149 @@
+{
+  "kind": "daily",
+  "id": "2026-06-03",
+  "label": "3 juni 2026",
+  "from": "2026-06-03",
+  "to": "2026-06-03",
+  "generated_at": "2026-09-03T13:17:55+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "General product safety",
+      "title": "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 22 mei 2026, nr. 2026-0000131327, tot het aanwijzen van LRQA Nederland B.V. als conformiteitsbeoordelingsinstantie inzake accreditatienorm NEN-EN-ISO/IEC 17020:2012",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-19763.html",
+      "pub_date": "2026-06-03",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "General product safety",
+      "title": "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 22 mei 2026, nr. 2026-0000130462, tot het aanwijzen van LRQA Nederland B.V. als conformiteitsbeoordelingsinstantie inzake accreditatienorm NEN-EN-ISO/IEC 17065:2012",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-19767.html",
+      "pub_date": "2026-06-03",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Antwoord op vragen van het lid Kostić over “de geplande uitbreiding van de handel in apen voor dierproeven”",
+      "url": "https://zoek.officielebekendmakingen.nl/ah-tk-20252026-2122.html",
+      "pub_date": "2026-06-03",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Vragen van het lid Van de Sanden (fractie-Van de Sanden) op 2 juni 2026 medegedeeld aan de Minister van Buitenlandse Zaken om schriftelijke inlichtingen te verkrijgen op grond van artikel 68 van de Grondwet inzake de inzet van de omnibusprocedure en het ontbreken van effectbeoordeling (ingezonden 2 juni 2026).",
+      "url": "https://zoek.officielebekendmakingen.nl/kv-ek-252610.html",
+      "pub_date": "2026-06-03",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Antwoord op vragen van het lid Kostić over “de geplande uitbreiding van de handel in apen voor dierproeven”",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1251926.html",
+      "pub_date": "2026-06-03",
+      "week": ""
+    },
+    {
+      "source": "refLex - Chrono",
+      "topic": "Medical devices",
+      "title": "Ministerieel besluit van 3 juni 2026 tot wijziging van hoofdstuk \"B. Neurochirurgie\" van de lijst, gevoegd als bijlage 1 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de procedures, termijnen en voorwaarden inzake de tegemoetkoming van de verplichte verzekering voor geneeskundige verzorging en uitkeringen in de kosten van implantaten en invasieve medische hulpmiddelen",
+      "url": "http://reflex.raadvst-consetat.be/reflex/page=chrono&c=detail_get&d=detail&docid=159355",
+      "pub_date": "2026-06-03",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Commission Implementing Regulation (EU) 2026/1183 of 2 June 2026 amending Implementing Regulation (EU) 2015/2447 as regards procedural rules on the preferential origin of goods",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1183",
+      "pub_date": "2026-06-03",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "REACH",
+      "title": "Communication from the Commission – Roadmap towards phasing out animal testing for chemical safety assessments",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:3087",
+      "pub_date": "2026-06-03",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "03-06-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "03-06-2026",
+      "relevant": 2,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "03-06-2026",
+      "relevant": 0,
+      "total": 70,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "03-06-2026",
+      "relevant": 3,
+      "total": 216,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "03-06-2026",
+      "relevant": 1,
+      "total": 6,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "03-06-2026",
+      "relevant": 0,
+      "total": 25,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-06-03",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-06-03",
+      "relevant": 1,
+      "total": 11,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-06-03",
+      "relevant": 1,
+      "total": 11,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

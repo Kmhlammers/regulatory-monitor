@@ -1,0 +1,133 @@
+{
+  "kind": "weekly",
+  "id": "2026-W09",
+  "label": "week 9 · 2026",
+  "from": "2026-02-23",
+  "to": "2026-03-01",
+  "generated_at": "2026-09-03T13:36:26+00:00",
+  "publications": [
+    {
+      "source": "E-justice België (Justel)",
+      "topic": "Elektrische apparaten",
+      "title": "5 februari 2026. - Besluit van de Waalse Regering tot wijziging van het besluit van de Waalse Regering van 10 februari 2022 betreffende de duurzaamheidscriteria en de criteria voor de reductie van broeikasgasemissies die van toepassing zijn op biomas",
+      "url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=nl&caller=list&numac_search=2026001368",
+      "pub_date": "2026-02-27",
+      "week": "2026-W09"
+    }
+  ],
+  "counts": [
+    {
+      "label": "COM-documenten",
+      "date_str": "2026-02-23 t/m 2026-03-01",
+      "relevant": 0,
+      "total": 10,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "JOIN-documenten",
+      "date_str": "2026-02-23 t/m 2026-03-01",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "SEC/SWD",
+      "date_str": "2026-02-23 t/m 2026-03-01",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "ROW",
+      "date_str": "2026-02-23 t/m 2026-03-01",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "E-justice België (Justel)",
+      "date_str": "23-02-2026 t/m 01-03-2026",
+      "relevant": 1,
+      "total": 50,
+      "api_error": false,
+      "note": "20 vertaal-herpublicaties overgeslagen. Justel-index loopt enkele dagen achter op het Belgisch Staatsblad — draai zo nodig ook de voorgaande week"
+    },
+    {
+      "label": "Nieuws en media | NVWA",
+      "date_str": "2026-02-23 t/m 2026-03-01",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Documenten | NVWA",
+      "date_str": "2026-02-23 t/m 2026-03-01",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Nieuws | Nederlandse Arbeidsinspectie",
+      "date_str": "2026-02-23 t/m 2026-03-01",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Publicaties | Nederlandse Arbeidsinspectie",
+      "date_str": "2026-02-23 t/m 2026-03-01",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Nieuws | ACM",
+      "date_str": "2026-02-23 t/m 2026-03-01",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Publicaties | Federaal Agentschap voor de veiligheid van de voedselketen",
+      "date_str": "2026-02-23 t/m 2026-03-01",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:129:8: mismatched tag"
+    },
+    {
+      "label": "Nieuws | Federaal Agentschap voor de veiligheid van de voedselketen",
+      "date_str": "2026-02-23 t/m 2026-03-01",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:128:8: mismatched tag"
+    },
+    {
+      "label": "Nieuws | FOD Volksgezondheid",
+      "date_str": "2026-02-23 t/m 2026-03-01",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "News - ECHA",
+      "date_str": "2026-02-23 t/m 2026-03-01",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "403 Client Error: Forbidden for url: https://echa.europa.eu/nl/rss/news"
+    }
+  ],
+  "antidumping": []
+}

@@ -9,6 +9,8 @@ __pycache__/
 
 # Local CLI output
 /regulatory_results*
+/backfill_2026.log
+/backfill_2026.out
 
 # Internal Précon monitoring workbook — NOT for the public repo (used only for
 # local validation against the pipeline output).

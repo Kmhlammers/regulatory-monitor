@@ -1,0 +1,157 @@
+{
+  "kind": "daily",
+  "id": "2026-05-11",
+  "label": "11 mei 2026",
+  "from": "2026-05-11",
+  "to": "2026-05-11",
+  "generated_at": "2026-09-03T13:12:37+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Dienst/agentschap",
+      "topic": "PBM",
+      "title": "Kennisgeving besluit: RWSZ2026-00004122 Omgevingsvergunning Provincie Groningen bevestigen van lamellen aan bestaand leuningwerk en het verwijderen van de netten/valbeveiliging aan het viaduct boven de rijksweg 7 (A7) ter hoogte van km 191,9, in de gemeente Groningen.",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-17640.html",
+      "pub_date": "2026-05-11",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Elektrische apparaten",
+      "title": "Stemming Implementatie onderdelen richtlijn hernieuwbare energie (RED III) die betrekking hebben op de vervoerssector",
+      "url": "https://zoek.officielebekendmakingen.nl/h-ek-20252026-23-4.html",
+      "pub_date": "2026-05-11",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Elektrische apparaten",
+      "title": "Stemmingen moties Implementatie onderdelen richtlijn hernieuwbare energie (RED III) die betrekking hebben op de vervoerssector",
+      "url": "https://zoek.officielebekendmakingen.nl/h-ek-20252026-23-5.html",
+      "pub_date": "2026-05-11",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Elektrische apparaten",
+      "title": "Beslisnota bij Kamerbrief Afronding RED-III-implementatie",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1247127.html",
+      "pub_date": "2026-05-11",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Voorstel van wet van de leden Klaver en Ouwehand tot wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met de invoering van een vuurwerkverbod voor consumenten (Wet veilige jaarwisseling); Brief van de staatssecretaris van I&W over de nadeelcompensatieregeling voor vuurwerkbedrijven",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35386-Q.html",
+      "pub_date": "2026-05-11",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Elektrische apparaten",
+      "title": "Kabinetsaanpak Klimaatbeleid; Brief regering; Afronding RED-III-implementatie",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-32813-1560.html",
+      "pub_date": "2026-05-11",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Voorstel van wet van de leden Klaver en Ouwehand tot wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met de invoering van een vuurwerkverbod voor consumenten (Wet veilige jaarwisseling); Brief van de staatssecretaris van I&W ter aanbieding van het ontwerpbesluit houdende vaststelling van het tijdstip van inwerkingtreding van de Wet veilige jaarwisseling",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35386-P.html",
+      "pub_date": "2026-05-11",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Uitstel beantwoording vragen van lid Kostić over de geplande uitbreiding van de handel in apen voor dierproeven",
+      "url": "https://zoek.officielebekendmakingen.nl/ah-tk-20252026-1867.html",
+      "pub_date": "2026-05-11",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Corrigendum to Council Regulation (EU) 2025/1292 of 23 June 2025 amending Regulation (EU) 2021/2283 opening and providing for the management of autonomous tariff quotas of the Union for certain agricultural and industrial products (OJ L, 2025/1292, 30.6.2025)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:corrigendum:2026-05-11",
+      "pub_date": "2026-05-11",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "11-05-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "11-05-2026",
+      "relevant": 0,
+      "total": 14,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "11-05-2026",
+      "relevant": 1,
+      "total": 71,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "11-05-2026",
+      "relevant": 7,
+      "total": 98,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "11-05-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "11-05-2026",
+      "relevant": 0,
+      "total": 23,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-05-11",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-05-11",
+      "relevant": 1,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-05-11",
+      "relevant": 0,
+      "total": 53,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

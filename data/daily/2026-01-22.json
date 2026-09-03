@@ -1,0 +1,133 @@
+{
+  "kind": "daily",
+  "id": "2026-01-22",
+  "label": "22 januari 2026",
+  "from": "2026-01-22",
+  "to": "2026-01-22",
+  "generated_at": "2026-09-03T12:46:20+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "REACH",
+      "title": "Voorpublicatie ontwerp van het besluit van ... tot wijziging van het Vuurwerkbesluit en het Besluit vervoer gevaarlijke stoffen in verband met de Wet veilige jaarwisseling (Besluit veilige jaarwisseling) [KetenID WGK028133]",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-1559.html",
+      "pub_date": "2026-01-22",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Dienst/agentschap",
+      "topic": "General product safety",
+      "title": "Verlening instellingsvergunning dierproeven, Nederlandse Voedsel- en Warenautoriteit (NVWA)",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-1499.html",
+      "pub_date": "2026-01-22",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Brief regering; Kabinetsreactie op het onderzoek van prof. dr. Ronald Meester over de manier waarop cijfers en modellen worden toegepast in het stikstofdossier",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35334-425.html",
+      "pub_date": "2026-01-22",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Vaststelling van de begrotingsstaten van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (XIV) en het Diergezondheidsfonds (F) voor het jaar 2026; Brief regering; Jaarplanning Kamerbrieven en wetgeving 2026 en stand van uitvoering moties uit 2025",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36800-XIV-14.html",
+      "pub_date": "2026-01-22",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Beslisnota bij Jaarplanning Kamerbrieven en wetgeving 2026 en stand van uitvoering moties uit 2025",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1232312.html",
+      "pub_date": "2026-01-22",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "EUDR",
+      "title": "Duurzame ontwikkeling en beleid; Verslag van een schriftelijk overleg met de staatssecretaris van LVVN over het voorstel voor een Verordening tot wijziging van Verordening (EU) 2023/1115 wat betreft bepaalde verplichtingen van marktdeelnemers en handelaren",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-30196-N.html",
+      "pub_date": "2026-01-22",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "22-01-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "22-01-2026",
+      "relevant": 1,
+      "total": 22,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "22-01-2026",
+      "relevant": 1,
+      "total": 37,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "22-01-2026",
+      "relevant": 4,
+      "total": 184,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "22-01-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "22-01-2026",
+      "relevant": 0,
+      "total": 28,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-01-22",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-01-22",
+      "relevant": 0,
+      "total": 13,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-01-22",
+      "relevant": 0,
+      "total": 24,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

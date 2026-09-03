@@ -1,0 +1,133 @@
+{
+  "kind": "daily",
+  "id": "2026-05-21",
+  "label": "21 mei 2026",
+  "from": "2026-05-21",
+  "to": "2026-05-21",
+  "generated_at": "2026-09-03T13:15:06+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Verslag van de EU-rapporteurs over de Omnibus AI en de Omnibus Digitaal",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1248740.html",
+      "pub_date": "2026-05-21",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie; Brief commissie; Openbaarmaking van het verslag van de EU-rapporteurs over de Omnibus AI en de Omnibus Digitaal",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-22112-4350.html",
+      "pub_date": "2026-05-21",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Wijziging van Boek 6 van het Burgerlijk Wetboek in verband met de implementatie van Richtlijn (EU) 2024/825 van het Europees Parlement en de Raad van 28 februari 2024 tot wijziging van de Richtlijnen 2005/29/EG en 2011/83/EU wat betreft het versterken van de positie van de consument voor de groene transitie door middel van betere informatie en door middel van bescherming tegen oneerlijke praktijken (PbEU 2024, L 825) (Implementatiewet richtlijn betere duurzaamheidsinformatie voor consumenten); Blanco verslag",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36873-A.html",
+      "pub_date": "2026-05-21",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Uitstel beantwoording vragen van het lid Goudzwaard over het afschaffen van het laag btw-tarief op sierteelt",
+      "url": "https://zoek.officielebekendmakingen.nl/ah-tk-20252026-1980.html",
+      "pub_date": "2026-05-21",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Uitstel beantwoording vragen van het lid Goudzwaard over het afschaffen van het laag btw-tarief op sierteelt",
+      "url": "https://zoek.officielebekendmakingen.nl/ah-1248854.html",
+      "pub_date": "2026-05-21",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Uitstel beantwoording vragen van het lid Goudzwaard over het afschaffen van het laag btw-tarief op sierteelt",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1248855.html",
+      "pub_date": "2026-05-21",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "21-05-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "21-05-2026",
+      "relevant": 0,
+      "total": 37,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "21-05-2026",
+      "relevant": 0,
+      "total": 53,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "21-05-2026",
+      "relevant": 6,
+      "total": 256,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "21-05-2026",
+      "relevant": 0,
+      "total": 7,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "21-05-2026",
+      "relevant": 0,
+      "total": 17,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-05-21",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-05-21",
+      "relevant": 0,
+      "total": 71,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-05-21",
+      "relevant": 0,
+      "total": 10,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

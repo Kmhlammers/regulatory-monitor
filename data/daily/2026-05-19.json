@@ -1,0 +1,117 @@
+{
+  "kind": "daily",
+  "id": "2026-05-19",
+  "label": "19 mei 2026",
+  "from": "2026-05-19",
+  "to": "2026-05-19",
+  "generated_at": "2026-09-03T13:14:26+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Digitaal pakket van de Europese Commissie COM(2025)835, COM(2025)836, COM(2025)837, COM(2025)838; Brief van de staatssecretaris van EZ over de voortgang van de onderhandelingen over de Omnibus Digitaal en de Omnibus AI",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36890-S.html",
+      "pub_date": "2026-05-19",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Beslisnota('s) bij de brief inzake de voortgang van de onderhandelingen over de digitale omnibussen",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1248020.html",
+      "pub_date": "2026-05-19",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "ESPR/Ecodesign",
+      "title": "Het nieuwsbericht dat bruggen, sluizen en wegen in verval raken, maar het geld voor de hoognodige reparaties ontbreekt",
+      "url": "https://zoek.officielebekendmakingen.nl/kv-tk-2026Z10206.html",
+      "pub_date": "2026-05-19",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "ESPR/Ecodesign",
+      "title": "Het recht op reparatie",
+      "url": "https://zoek.officielebekendmakingen.nl/kv-tk-2026Z10207.html",
+      "pub_date": "2026-05-19",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "19-05-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "19-05-2026",
+      "relevant": 0,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "19-05-2026",
+      "relevant": 0,
+      "total": 14,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "19-05-2026",
+      "relevant": 4,
+      "total": 222,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "19-05-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "19-05-2026",
+      "relevant": 0,
+      "total": 6,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-05-19",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-05-19",
+      "relevant": 0,
+      "total": 10,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-05-19",
+      "relevant": 0,
+      "total": 13,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

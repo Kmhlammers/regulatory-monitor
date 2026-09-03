@@ -1,0 +1,101 @@
+{
+  "kind": "daily",
+  "id": "2026-04-15",
+  "label": "15 april 2026",
+  "from": "2026-04-15",
+  "to": "2026-04-15",
+  "generated_at": "2026-09-03T13:03:26+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "General product safety",
+      "title": "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 7 april 2026, nr. 2026-0000080963, tot het inperken van de aanwijzing van BSI Group The Netherlands B.V. als conformiteitsbeoordelingsinstantie inzake accreditatienorm NEN-EN-ISO/IEC 17065:2012",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-14114.html",
+      "pub_date": "2026-04-15",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Duurzaamheid",
+      "title": "2 december 2024. - Wet betreffende de openbaarmaking van duurzaamheidsinformatie door bepaalde vennootschappen en groepen en de assurance van duurzaamheidsinformatie en houdende diverse bepalingen. - Officieuze coördinatie in het Duits, bl. 21792.",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-04-15&lg_txt=n&caller=sum&s_editie=1&2026002484=1&numac_search=2026002484&view_numac=",
+      "pub_date": "2026-04-15",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "15-04-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "15-04-2026",
+      "relevant": 1,
+      "total": 26,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "15-04-2026",
+      "relevant": 0,
+      "total": 40,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "15-04-2026",
+      "relevant": 0,
+      "total": 210,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "15-04-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "15-04-2026",
+      "relevant": 1,
+      "total": 21,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-04-15",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-04-15",
+      "relevant": 0,
+      "total": 19,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-04-15",
+      "relevant": 0,
+      "total": 49,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

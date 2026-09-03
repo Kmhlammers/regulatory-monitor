@@ -1,0 +1,117 @@
+{
+  "kind": "daily",
+  "id": "2026-05-01",
+  "label": "1 mei 2026",
+  "from": "2026-05-01",
+  "to": "2026-05-01",
+  "generated_at": "2026-09-03T13:10:53+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Elektrische apparaten",
+      "title": "Wijzigingsregeling AEEA",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1246276.html",
+      "pub_date": "2026-05-01",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Elektrische apparaten",
+      "title": "Beslisnota bij Kamerbrief inzake ontwerpregeling houdende een wijziging van de Regeling afgedankte elektrische en elektronische apparatuur in verband met de implementatie van Richtlijn (EU) 2024/884 van het Europees Parlement en de Raad van 13 maart 2024 tot de wijziging van Richtlijn 2012/19/EU betreffende afgedankte elektrische en elektronische apparatuur (AEEA)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1246277.html",
+      "pub_date": "2026-05-01",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Brief van de minister van LVVN ter aanbieding van concept opvolger legalisatieprogramma PAS-melders",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35334-CJ.html",
+      "pub_date": "2026-05-01",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Elektrische apparaten",
+      "title": "Landelijk afvalbeheerplan; Brief regering; Ontwerpregeling houdende een wijziging van de Regeling afgedankte elektrische en elektronische apparatuur in verband met de implementatie van Richtlijn (EU) 2024/884 van het Europees Parlement en de Raad van 13 maart 2024 tot de wijziging van Richtlijn 2012/19/EU betreffende afgedankte elektrische en elektronische apparatuur (AEEA)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-30872-326.html",
+      "pub_date": "2026-05-01",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "01-05-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "01-05-2026",
+      "relevant": 0,
+      "total": 19,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "01-05-2026",
+      "relevant": 0,
+      "total": 32,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "01-05-2026",
+      "relevant": 4,
+      "total": 40,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "01-05-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "01-05-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-05-01",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-05-01",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-05-01",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

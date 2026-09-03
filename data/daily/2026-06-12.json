@@ -1,0 +1,141 @@
+{
+  "kind": "daily",
+  "id": "2026-06-12",
+  "label": "12 juni 2026",
+  "from": "2026-06-12",
+  "to": "2026-06-12",
+  "generated_at": "2026-09-03T13:20:07+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Gewasbeschermingsbeleid; Motie; Motie van het lid Bromet over zich vocaal onthouden van stemming over de Omnibus Food and Feed en duidelijk maken dat de Tweede Kamer meer tijd nodig heeft voor een gedegen afweging",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-27858-752.html",
+      "pub_date": "2026-06-12",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Beslisnota bij Kamerbrief Voorstel Omnibus Food and Feed",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1253491.html",
+      "pub_date": "2026-06-12",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie; Brief regering; Voorstel Omnibus Food and Feed",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-22112-4371.html",
+      "pub_date": "2026-06-12",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Gewasbeschermingsbeleid; Motie; Motie van het lid Kostić over op dit moment niet met de Omnibus Food and Feed instemmen en optrekken met gelijkgestemde landen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-27858-750.html",
+      "pub_date": "2026-06-12",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Tekstvoorstel Food and Feed Omnibus  juni 2026",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1253489.html",
+      "pub_date": "2026-06-12",
+      "week": ""
+    },
+    {
+      "source": "refLex - Chrono",
+      "topic": "Elektrische apparaten",
+      "title": "Ministerieel besluit van 12 juni 2026 tot wijziging van het ministerieel besluit van 28 december 2018 houdende algemene bepalingen inzake de energieprestatieregelgeving, energieprestatiecertificaten, de certificering van aannemers en installateurs, en de renovatieverplichting, wat betreft de vorm en inhoud van het energieprestatiecertificaat residentieel en het energieprestatiecertificaat klein niet-residentieel",
+      "url": "http://reflex.raadvst-consetat.be/reflex/page=chrono&c=detail_get&d=detail&docid=159440",
+      "pub_date": "2026-06-12",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Council Decision (EU) 2026/1340 of 4 June 2026 on the position to be taken on behalf of the European Union within the Technical Committees on Customs Valuation and on Rules of Origin established under the auspices of the World Customs Organization with regard to the adoption and preparation of advisory opinions, commentaries, explanatory notes, case studies, studies and similar instruments concerning the valuation of imported goods for customs purposes under the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade 1994 and the adoption and preparation of advisory opinions, information and advice and similar instruments concerning the determination of the origin of goods under the Agreement on Rules of Origin",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1340",
+      "pub_date": "2026-06-12",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "12-06-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "12-06-2026",
+      "relevant": 0,
+      "total": 23,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "12-06-2026",
+      "relevant": 0,
+      "total": 41,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "12-06-2026",
+      "relevant": 5,
+      "total": 179,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "12-06-2026",
+      "relevant": 1,
+      "total": 17,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "12-06-2026",
+      "relevant": 0,
+      "total": 38,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-06-12",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-06-12",
+      "relevant": 1,
+      "total": 12,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-06-12",
+      "relevant": 0,
+      "total": 14,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

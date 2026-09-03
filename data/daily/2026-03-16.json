@@ -1,0 +1,109 @@
+{
+  "kind": "daily",
+  "id": "2026-03-16",
+  "label": "16 maart 2026",
+  "from": "2026-03-16",
+  "to": "2026-03-16",
+  "generated_at": "2026-09-03T12:56:52+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "REACH",
+      "title": "Besluit van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 5 maart 2026, nr. BPZ / 103993466, houdende benoeming van leden van de Centrale Commissie voor Dierproeven",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-10132.html",
+      "pub_date": "2026-03-16",
+      "week": ""
+    },
+    {
+      "source": "refLex - Chrono",
+      "topic": "Medical devices",
+      "title": "Ministerieel besluit van 16 maart 2026 tot wijziging van hoofdstuk \"C. Oto-rhino-laryngologie\" van de lijst en van de nominatieve lijsten, gevoegd als bijlagen 1 en 2 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de procedures, termijnen en voorwaarden inzake de tegemoetkoming van de verplichte verzekering voor geneeskundige verzorging en uitkeringen in de kosten van implantaten en invasieve medische hulpmiddelen",
+      "url": "http://reflex.raadvst-consetat.be/reflex/page=chrono&c=detail_get&d=detail&docid=158987",
+      "pub_date": "2026-03-16",
+      "week": ""
+    },
+    {
+      "source": "refLex - Chrono",
+      "topic": "Medical devices",
+      "title": "Ministerieel besluit van 16 maart 2026 tot wijziging van de lijst, gevoegd als bijlage 1 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de procedures, termijnen en voorwaarden inzake de tegemoetkoming van de verplichte verzekering voor geneeskundige verzorging en uitkeringen in de kosten van implantaten en invasieve medische hulpmiddelen",
+      "url": "http://reflex.raadvst-consetat.be/reflex/page=chrono&c=detail_get&d=detail&docid=159001",
+      "pub_date": "2026-03-16",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "16-03-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "16-03-2026",
+      "relevant": 1,
+      "total": 18,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "16-03-2026",
+      "relevant": 0,
+      "total": 46,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "16-03-2026",
+      "relevant": 0,
+      "total": 81,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "16-03-2026",
+      "relevant": 2,
+      "total": 14,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "16-03-2026",
+      "relevant": 0,
+      "total": 40,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-03-16",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-03-16",
+      "relevant": 0,
+      "total": 18,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-03-16",
+      "relevant": 0,
+      "total": 75,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

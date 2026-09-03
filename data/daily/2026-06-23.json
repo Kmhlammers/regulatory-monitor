@@ -1,0 +1,84 @@
+{
+  "kind": "daily",
+  "id": "2026-06-23",
+  "label": "23 juni 2026",
+  "from": "2026-06-23",
+  "to": "2026-06-23",
+  "generated_at": "2026-09-03T13:22:34+00:00",
+  "publications": [],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "23-06-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "23-06-2026",
+      "relevant": 0,
+      "total": 23,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "23-06-2026",
+      "relevant": 0,
+      "total": 37,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "23-06-2026",
+      "relevant": 0,
+      "total": 203,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "23-06-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "23-06-2026",
+      "relevant": 0,
+      "total": 32,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-06-23",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-06-23",
+      "relevant": 0,
+      "total": 4,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-06-23",
+      "relevant": 0,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

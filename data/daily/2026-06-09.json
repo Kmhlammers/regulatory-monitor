@@ -1,0 +1,125 @@
+{
+  "kind": "daily",
+  "id": "2026-06-09",
+  "label": "9 juni 2026",
+  "from": "2026-06-09",
+  "to": "2026-06-09",
+  "generated_at": "2026-09-03T13:19:10+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Digitaal pakket van de Europese Commissie COM(2025)835, COM(2025)836, COM(2025)837, COM(2025)838; Brief van de Europese Commissie betreffende de beantwoording van vragen over de Omnibus Digitaal, Omnibus AI en Data Unie Strategie",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36890-V.html",
+      "pub_date": "2026-06-09",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Antwoord op vragen van het lid Zalinyan over het rapport 'PFAS-aandachtlocaties in 2025'",
+      "url": "https://zoek.officielebekendmakingen.nl/ah-tk-20252026-2201.html",
+      "pub_date": "2026-06-09",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "PPWR",
+      "title": "De PPWR en de consequenties voor composteerbare verpakkingen",
+      "url": "https://zoek.officielebekendmakingen.nl/kv-tk-2026Z12426.html",
+      "pub_date": "2026-06-09",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Antwoord op vragen van het lid Zalinyan over het rapport 'PFAS-aandachtlocaties in 2025'",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1252901.html",
+      "pub_date": "2026-06-09",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Medical devices",
+      "title": "29 mei 2026. - Ministerieel besluit tot wijziging van hoofdstuk \"L. Orthopedie en traumatologie\" van de lijst, gevoegd als bijlage 1 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de procedures, termijnen en voorwaarden inzake de te",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-06-09&lg_txt=n&caller=sum&s_editie=1&2026004121=19&numac_search=2026004121&view_numac=",
+      "pub_date": "2026-06-09",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "09-06-2026",
+      "relevant": 0,
+      "total": 5,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "09-06-2026",
+      "relevant": 0,
+      "total": 23,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "09-06-2026",
+      "relevant": 0,
+      "total": 36,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "09-06-2026",
+      "relevant": 4,
+      "total": 224,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "09-06-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "09-06-2026",
+      "relevant": 1,
+      "total": 37,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-06-09",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-06-09",
+      "relevant": 0,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-06-09",
+      "relevant": 0,
+      "total": 10,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

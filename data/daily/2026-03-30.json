@@ -1,0 +1,157 @@
+{
+  "kind": "daily",
+  "id": "2026-03-30",
+  "label": "30 maart 2026",
+  "from": "2026-03-30",
+  "to": "2026-03-30",
+  "generated_at": "2026-09-03T12:59:58+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "REACH",
+      "title": "Besluit van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 5 februari 2025, nr. BPZ / 96162658, houdende benoeming van een lid van de Centrale Commissie voor Dierproeven",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-11759.html",
+      "pub_date": "2026-03-30",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Stemmingen moties Dieren buiten de veehouderij en dierproeven",
+      "url": "https://zoek.officielebekendmakingen.nl/h-tk-20252026-39-21.html",
+      "pub_date": "2026-03-30",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Medical devices",
+      "title": "Beslisnota bij beleidsreactie op het onderzoeksrapport van de Inspectie Veiligheid Defensie (IVD) ‘Management van veiligheidsrisico’s voor CLAS-eenheden bij inzet in het buitenland’",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1241545.html",
+      "pub_date": "2026-03-30",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Digitaal pakket van de Europese Commissie COM(2025)835, COM(2025)836, COM(2025)837, COM(2025)838; Brief van de Voorzitter van de Eerste Kamer aan de staatssecretaris van J&V over het opheffen van het parlementair behandelvoorbehoud bij de Omnibus Digitaal COM(2025)837 en Omnibus AI COM(2025)836",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36890-N.html",
+      "pub_date": "2026-03-30",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Digitaal pakket van de Europese Commissie COM(2025)835, COM(2025)836, COM(2025)837, COM(2025)838; Brief van de Voorzitter van de Eerste Kamer aan de staatssecretaris van EZ over het opheffen van het parlementair behandelvoorbehoud bij de Omnibus Digitaal COM(2025)837 en Omnibus AI COM(2025)836",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36890-O.html",
+      "pub_date": "2026-03-30",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Voorstel van wet van de leden Klaver en Ouwehand tot wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met de invoering van een vuurwerkverbod voor consumenten (Wet veilige jaarwisseling); Verslag van een nader schriftelijk overleg met de minister van I&W over het ontwerpbesluit veilige jaarwisseling",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35386-O.html",
+      "pub_date": "2026-03-30",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Medical devices",
+      "title": "Toekomst van de krijgsmacht; Brief regering; Beleidsreactie op het onderzoeksrapport van de Inspectie Veiligheid Defensie (IVD) ‘Management van veiligheidsrisico’s voor CLAS-eenheden bij inzet in het buitenland’",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-33763-175.html",
+      "pub_date": "2026-03-30",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Medical devices",
+      "title": "IVD rapport 'Management van veiligheidsrisico’s voor CLASeenheden bij inzet in het buitenland'",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1241544.html",
+      "pub_date": "2026-03-30",
+      "week": ""
+    },
+    {
+      "source": "refLex - Chrono",
+      "topic": "Duurzaamheid",
+      "title": "Koninklijk besluit van 30 maart 2026 tot wijziging van het koninklijk besluit van 21 juli 2017 betreffende de toekenning van de hoedanigheid van bedrijfsrevisor alsook de inschrijving en registratie in het openbaar register van de bedrijfsrevisoren en het koninklijk besluit van 27 november 2022 betreffende de registratie als auditors of auditorganisaties van derde landen in het openbaar register van de bedrijfsrevisoren en het publiek toezicht, de kwaliteitscontrole en het toezicht op auditors en auditorganisaties van derde landen, met betrekking tot de assurance van duurzaamheidsinformatie",
+      "url": "http://reflex.raadvst-consetat.be/reflex/page=chrono&c=detail_get&d=detail&docid=159019",
+      "pub_date": "2026-03-30",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "30-03-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "30-03-2026",
+      "relevant": 1,
+      "total": 15,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "30-03-2026",
+      "relevant": 0,
+      "total": 54,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "30-03-2026",
+      "relevant": 7,
+      "total": 148,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "30-03-2026",
+      "relevant": 1,
+      "total": 11,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "30-03-2026",
+      "relevant": 0,
+      "total": 13,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-03-30",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-03-30",
+      "relevant": 0,
+      "total": 11,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-03-30",
+      "relevant": 0,
+      "total": 41,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

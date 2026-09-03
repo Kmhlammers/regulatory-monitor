@@ -1,0 +1,141 @@
+{
+  "kind": "daily",
+  "id": "2026-04-03",
+  "label": "3 april 2026",
+  "from": "2026-04-03",
+  "to": "2026-04-03",
+  "generated_at": "2026-09-03T13:01:13+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "Duurzaamheid",
+      "title": "Regeling van de Minister van Klimaat en Groene Groei van 30 maart 2026, nr. WJZ/103662069 tot wijziging van de Algemene uitvoeringsregeling stimulering duurzame energieproductie en klimaattransitie in verband met aantonen duurzaamheidseisen vaste biomassa [KetenID WGK28733]",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-13045.html",
+      "pub_date": "2026-04-03",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie; Brief commissie; Brief van de tijdelijke commissie Grondrechten en Constitutionele toetsing over een advies op verzoek van de vaste commissie voor Digitale Zaken over EU-voorstel: Verordening Digitale Omnibus COM (2025) 837",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-22112-4301.html",
+      "pub_date": "2026-04-03",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie; Brief commissie; Brief van de tijdelijke commissie Grondrechten en Constitutionele toetsing over een advies op verzoek van de vaste commissie voor Digitale Zaken over EU-voorstel: Verordening Digitale Omnibus AI COM (2025) 836",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-22112-4302.html",
+      "pub_date": "2026-04-03",
+      "week": ""
+    },
+    {
+      "source": "refLex - Chrono",
+      "topic": "Medical devices",
+      "title": "Ministerieel besluit van 3 april 2026 tot wijziging van hoofdstuk \"L. Orthopedie en traumatologie\" van de lijst, gevoegd als bijlage 1 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de procedures, termijnen en voorwaarden inzake de tegemoetkoming van de verplichte verzekering voor geneeskundige verzorging en uitkeringen in de kosten van implantaten en invasieve medische hulpmiddelen",
+      "url": "http://reflex.raadvst-consetat.be/reflex/page=chrono&c=detail_get&d=detail&docid=159029",
+      "pub_date": "2026-04-03",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Medical devices",
+      "title": "16 maart 2026. - Ministerieel besluit tot wijziging van de lijst, gevoegd als bijlage 1 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de procedures, termijnen en voorwaarden inzake de tegemoetkoming van de verplichte verzekering vo",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-04-03&lg_txt=n&caller=sum&s_editie=2&2026002242=22&numac_search=2026002242&view_numac=",
+      "pub_date": "2026-04-03",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Medical devices",
+      "title": "19 maart 2026. - Ministerieel besluit tot wijziging van hoofdstuk \"E. Heelkunde op het abdomen en pathologie van het spijsverteringsstelsel\" van de lijst, gevoegd als bijlage 1 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de proce",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-04-03&lg_txt=n&caller=sum&s_editie=2&2026002276=23&numac_search=2026002276&view_numac=",
+      "pub_date": "2026-04-03",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Duurzaamheid",
+      "title": "27 maart 2026. - Decreet tot instemming met het samenwerkingsakkoord van 9 februari 2026 tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende het kader voor de uitgebreide producentenverantwoordelijkheid voor",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-04-03&lg_txt=n&caller=sum&s_editie=2&2026002522=26&numac_search=2026002522&view_numac=",
+      "pub_date": "2026-04-03",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "03-04-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "03-04-2026",
+      "relevant": 1,
+      "total": 32,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "03-04-2026",
+      "relevant": 0,
+      "total": 31,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "03-04-2026",
+      "relevant": 2,
+      "total": 109,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "03-04-2026",
+      "relevant": 1,
+      "total": 13,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "03-04-2026",
+      "relevant": 3,
+      "total": 30,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-04-03",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-04-03",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-04-03",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

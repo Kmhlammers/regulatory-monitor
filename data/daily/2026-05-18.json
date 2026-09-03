@@ -1,0 +1,157 @@
+{
+  "kind": "daily",
+  "id": "2026-05-18",
+  "label": "18 mei 2026",
+  "from": "2026-05-18",
+  "to": "2026-05-18",
+  "generated_at": "2026-09-03T13:14:09+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "PPWR",
+      "title": "Openstelling burgemeestersvacature Reusel-De Mierden, Ministerie van Binnenlandse Zaken en Koninkrijksrelaties",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-16911.html",
+      "pub_date": "2026-05-18",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie; Brief regering; Akkoord Omnibus AI",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-22112-4343.html",
+      "pub_date": "2026-05-18",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Voorstel van wet van de leden Klaver en Ouwehand tot wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met de invoering van een vuurwerkverbod voor consumenten (Wet veilige jaarwisseling); Verslag van een nader schriftelijk overleg met de staatssecretaris van I&W over de Wet veilige jaarwisseling",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35386-S.html",
+      "pub_date": "2026-05-18",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Beslisnota bij Kamerbrief Akkoord Omnibus AI",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1247942.html",
+      "pub_date": "2026-05-18",
+      "week": ""
+    },
+    {
+      "source": "refLex - Chrono",
+      "topic": "Medical devices",
+      "title": "Ministerieel besluit van 18 mei 2026 tot wijziging van hoofdstuk \"G. Bloedvatenheelkunde\" van de lijst, gevoegd als bijlage 1 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de procedures, termijnen en voorwaarden inzake de tegemoetkoming van de verplichte verzekering voor geneeskundige verzorging en uitkeringen in de kosten van implantaten en invasieve medische hulpmiddelen",
+      "url": "http://reflex.raadvst-consetat.be/reflex/page=chrono&c=detail_get&d=detail&docid=159331",
+      "pub_date": "2026-05-18",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Medical devices",
+      "title": "8 mei 2026. - Ministerieel besluit tot wijziging van de lijst, gevoegd als bijlage 1 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de procedures, termijnen en voorwaarden inzake de tegemoetkoming van de verplichte verzekering voor ",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-05-18&lg_txt=n&caller=sum&s_editie=1&2026003416=6&numac_search=2026003416&view_numac=",
+      "pub_date": "2026-05-18",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Duurzaamheid",
+      "title": "24 april 2026. - Decreet tot oprichting van een Vlaams fonds voor uitgebreide producentenverantwoordelijkheid, bl. 27367.",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-05-18&lg_txt=n&caller=sum&s_editie=1&2026003640=8&numac_search=2026003640&view_numac=",
+      "pub_date": "2026-05-18",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Agreement in the form of an exchange of letters between the European Union and the People’s Republic of China pursuant to Article XXVIII of the General Agreement on Tariffs and Trade (GATT) 1994 relating to the modification of concessions on all the tariff rate quotas included in the EU Schedule CLXXV as a consequence of the United Kingdom’s withdrawal from the European Union",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1077",
+      "pub_date": "2026-05-18",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Council Decision (EU) 2026/1076 of 5 May 2026 on the conclusion, on behalf of the Union, of the Agreement in the form of an Exchange of Letters between the European Union and the People’s Republic of China pursuant to Article XXVIII of the General Agreement on Tariffs and Trade (GATT) 1994 relating to the modification of concessions on all the tariff rate quotas included in the EU Schedule CLXXV as a consequence of the United Kingdom’s withdrawal from the European Union",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1076",
+      "pub_date": "2026-05-18",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "18-05-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "18-05-2026",
+      "relevant": 1,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "18-05-2026",
+      "relevant": 0,
+      "total": 38,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "18-05-2026",
+      "relevant": 3,
+      "total": 104,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "18-05-2026",
+      "relevant": 1,
+      "total": 10,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "18-05-2026",
+      "relevant": 2,
+      "total": 23,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-05-18",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-05-18",
+      "relevant": 2,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-05-18",
+      "relevant": 0,
+      "total": 12,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

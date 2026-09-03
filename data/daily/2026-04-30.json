@@ -1,0 +1,133 @@
+{
+  "kind": "daily",
+  "id": "2026-04-30",
+  "label": "30 april 2026",
+  "from": "2026-04-30",
+  "to": "2026-04-30",
+  "generated_at": "2026-09-03T13:10:16+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "General product safety",
+      "title": "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 21 april 2026, nr. 2026-0000121152, tot het aanwijzen van IBEX B.V. als certificerende instelling en conformiteitsbeoordelingsinstantie inzake accreditatienorm NEN-EN-ISO/IEC 17024:2012",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-15838.html",
+      "pub_date": "2026-04-30",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "General product safety",
+      "title": "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 21 april 2026, nr. 2026-0000093608, tot het aanwijzen van Eurofins CML B.V. als conformiteitsbeoordelingsinstantie inzake accreditatienorm NEN-EN-ISO/IEC 17065:2012",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-15834.html",
+      "pub_date": "2026-04-30",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Douane; Brief regering; Politiek akkoord nieuw Douanewetboek van de Unie",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-31934-109.html",
+      "pub_date": "2026-04-30",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "POPs",
+      "title": "Council Decision (EU) 2026/878 of 30 March 2026 on the submission, on behalf of the European Union, of a proposal for the listing of TBPH in Annex A to the Stockholm Convention on Persistent Organic Pollutants",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:878",
+      "pub_date": "2026-04-30",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Commission Implementing Regulation (EU) 2026/996 of 29 April 2026 amending Implementing Regulations (EU) 2020/761 and (EU) 2020/1988 regarding the creation, amendment and management of certain tariff quotas following the Interim Agreement on Trade between the European Union, of the one part, and the Common Market of the South, the Argentine Republic, the Federative Republic of Brazil, the Republic of Paraguay and the Oriental Republic of Uruguay, of the other part",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:996",
+      "pub_date": "2026-04-30",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "Duurzaamheid",
+      "title": "COMMISSION NOTICE on the interpretation and implementation of certain legal provisions of the Disclosures Delegated Act under Article 8 of the EU Taxonomy Regulation, as amended by the Omnibus Delegated Act, on the reporting of Taxonomy-eligible and Taxonomy-aligned economic activities and assets (fourth notice)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:2558",
+      "pub_date": "2026-04-30",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "30-04-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "30-04-2026",
+      "relevant": 2,
+      "total": 21,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "30-04-2026",
+      "relevant": 0,
+      "total": 37,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "30-04-2026",
+      "relevant": 1,
+      "total": 140,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "30-04-2026",
+      "relevant": 0,
+      "total": 11,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "30-04-2026",
+      "relevant": 0,
+      "total": 34,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-04-30",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-04-30",
+      "relevant": 2,
+      "total": 14,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-04-30",
+      "relevant": 1,
+      "total": 24,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

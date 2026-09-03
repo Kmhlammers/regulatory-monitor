@@ -1,0 +1,141 @@
+{
+  "kind": "daily",
+  "id": "2026-07-22",
+  "label": "22 juli 2026",
+  "from": "2026-07-22",
+  "to": "2026-07-22",
+  "generated_at": "2026-09-03T13:29:41+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "ESPR/Ecodesign",
+      "title": "Advies Raad van State inzake het voorstel van wet, ter implementatie van richtlijn (EU) 2024/1799 van het Europees Parlement en de Raad van 13 juni 2024 betreffende gemeenschappelijke regels ter bevordering van de reparatie van goederen en tot wijziging van Verordening (EU) 2017/2394 en de Richtlijnen (EU) 2019/771 en (EU) 2020/1828 (Implementatiewet richtlijn bevordering van reparatie)",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-25703.html",
+      "pub_date": "2026-07-22",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "General product safety",
+      "title": "Advies Raad van State inzake het voorstel van wet tot uitvoering van Verordening (EU) 2024/1252 van het Europees Parlement en de Raad van 11 april 2024 tot vaststelling van een kader om een veilige en duurzame voorziening van kritieke grondstoffen te waarborgen, en tot wijziging van de Verordeningen (EU) nr. 168/2013, (EU) 2018/858, (EU) 2018/1724 en (EU) 2019/1020 (Uitvoeringswet verordening kritieke grondstoffen)",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-24979.html",
+      "pub_date": "2026-07-22",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie; Brief regering; Fiche: Mededeling Routekaart voor de uitfasering van dierproeven voor chemische veiligheidsbeoordelingen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1263573.html",
+      "pub_date": "2026-07-22",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Beslisnota bij Kamerbrief Fiche: Mededeling Routekaart voor de uitfasering van dierproeven voor chemische veiligheidsbeoordelingen",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1263574.html",
+      "pub_date": "2026-07-22",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Non-paper on Responsible Business Conduct legislation, CSDDD guidelines and transposition - by Germany, Sweden and Kingdom of The Netherlands",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1263570.html",
+      "pub_date": "2026-07-22",
+      "week": ""
+    },
+    {
+      "source": "refLex - Chrono",
+      "topic": "Duurzaamheid",
+      "title": "Wet van 22 juli 2026 tot omzetting van Richtlijn (EU) 2024/825 van het Europees Parlement en de Raad van 28 februari 2024 tot wijziging van de Richtlijnen 2005/29/EG en 2011/83/EU wat betreft het versterken van de positie van de consument voor de groene transitie door middel van betere informatie en door middel van bescherming tegen oneerlijke praktijken",
+      "url": "http://reflex.raadvst-consetat.be/reflex/page=chrono&c=detail_get&d=detail&docid=159696",
+      "pub_date": "2026-07-22",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "Medical devices",
+      "title": "Opinion of the European Economic and Social Committee – Proposal of the European Parliament and of the Council amending Regulations (EU) 2017/745 and (EU) 2017/746 as regards simplifying and reducing the burden of the rules on medical devices and in vitro diagnostic medical devices, and amending Regulation (EU) 2022/123 as regards the support of the European Medicines Agency for the expert panels on medical devices and Regulation (EU) 2024/1689 as regards the list of Union harmonisation legislation referred to in its Annex (COM(2025) 1023 final – 2025/0404 (COD))",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:3552",
+      "pub_date": "2026-07-22",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "22-07-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "22-07-2026",
+      "relevant": 2,
+      "total": 25,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "22-07-2026",
+      "relevant": 0,
+      "total": 54,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "22-07-2026",
+      "relevant": 3,
+      "total": 124,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "22-07-2026",
+      "relevant": 1,
+      "total": 10,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "22-07-2026",
+      "relevant": 0,
+      "total": 46,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-07-22",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-07-22",
+      "relevant": 0,
+      "total": 20,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-07-22",
+      "relevant": 1,
+      "total": 50,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

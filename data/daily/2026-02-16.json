@@ -1,0 +1,101 @@
+{
+  "kind": "daily",
+  "id": "2026-02-16",
+  "label": "16 februari 2026",
+  "from": "2026-02-16",
+  "to": "2026-02-16",
+  "generated_at": "2026-09-03T12:51:17+00:00",
+  "publications": [
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Batterijen",
+      "title": "23 januari 2026. - Koninklijk besluit waarbij algemeen verbindend wordt verklaard de collectieve arbeidsovereenkomst van 15 april 2025, gesloten in het Paritair Comité voor de Franstalige en Duitstalige welzijns- en gezondheidssector, betreffende de ",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-02-16&lg_txt=n&caller=sum&s_editie=1&2025009259=5&numac_search=2025009259&view_numac=",
+      "pub_date": "2026-02-16",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Commission Implementing Regulation (EU) 2026/329 of 13 February 2026 amending Implementing Regulation (EU) 2015/2447 as regards adding the Republic of Moldova and Montenegro to the list of countries in the guarantor’s undertakings for transit",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:329",
+      "pub_date": "2026-02-16",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "16-02-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "16-02-2026",
+      "relevant": 0,
+      "total": 18,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "16-02-2026",
+      "relevant": 0,
+      "total": 49,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "16-02-2026",
+      "relevant": 0,
+      "total": 75,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "16-02-2026",
+      "relevant": 0,
+      "total": 4,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "16-02-2026",
+      "relevant": 1,
+      "total": 27,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-02-16",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-02-16",
+      "relevant": 1,
+      "total": 15,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-02-16",
+      "relevant": 0,
+      "total": 54,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

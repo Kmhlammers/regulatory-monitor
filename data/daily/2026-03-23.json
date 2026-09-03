@@ -1,0 +1,149 @@
+{
+  "kind": "daily",
+  "id": "2026-03-23",
+  "label": "23 maart 2026",
+  "from": "2026-03-23",
+  "to": "2026-03-23",
+  "generated_at": "2026-09-03T12:58:25+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "General product safety",
+      "title": "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 13 maart 2026, kenmerk 4360218-1095270-WJZ, houdende wijziging van de Warenwetregeling algemene chemische productveiligheid en intrekking van de Nadere regels verpakking en aanduiding milieugevaarlijke stoffen en preparaten en de Warenwetregeling elektronische productnotificatie [KetenID WGK028590]",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-11004.html",
+      "pub_date": "2026-03-23",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Reactie over registratie en beoordeling van en de autorisatie en beperkingen ten aanzien van chemische stoffen",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1240325.html",
+      "pub_date": "2026-03-23",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Political dialogue on REACH revision",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1240326.html",
+      "pub_date": "2026-03-23",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Political dialogue on REACH revision",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1240327.html",
+      "pub_date": "2026-03-23",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Report on the EU REACH rapporteurship",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1240321.html",
+      "pub_date": "2026-03-23",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "REACH tweedekamer reply (NL)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1240322.html",
+      "pub_date": "2026-03-23",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "REACH tweedekamer reply (EN)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1240323.html",
+      "pub_date": "2026-03-23",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Politieke Dialoog met de Europese Commissie; Verslag van een politieke dialoog; Verslag van een politieke dialoog over de herziening van de REACH-verordening inzake chemische stoffen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-34463-9.html",
+      "pub_date": "2026-03-23",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "23-03-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "23-03-2026",
+      "relevant": 1,
+      "total": 11,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "23-03-2026",
+      "relevant": 0,
+      "total": 48,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "23-03-2026",
+      "relevant": 7,
+      "total": 88,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "23-03-2026",
+      "relevant": 0,
+      "total": 8,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "23-03-2026",
+      "relevant": 0,
+      "total": 26,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-03-23",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-03-23",
+      "relevant": 0,
+      "total": 12,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-03-23",
+      "relevant": 0,
+      "total": 74,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

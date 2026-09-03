@@ -1,0 +1,117 @@
+{
+  "kind": "daily",
+  "id": "2026-02-20",
+  "label": "20 februari 2026",
+  "from": "2026-02-20",
+  "to": "2026-02-20",
+  "generated_at": "2026-09-03T12:52:19+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Dienst/agentschap",
+      "topic": "General product safety",
+      "title": "Aanwijzing als Notified Body Marine Equipment Directive, Inspectie Leefomgeving en Transport",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-7777.html",
+      "pub_date": "2026-02-20",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Voorstel van wet van de leden Klaver en Ouwehand tot wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met de invoering van een vuurwerkverbod voor consumenten (Wet veilige jaarwisseling); Verslag van een schriftelijk overleg met de staatssecretaris van I&W over het Ontwerpbesluit veilige jaarwisseling",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35386-N.html",
+      "pub_date": "2026-02-20",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Batterijen",
+      "title": "Commission Implementing Decision (EU) 2026/371 of 19 February 2026 recognising that the report submitted by Spain under Article 31(2) of Directive (EU) 2018/2001 of the European Parliament and of the Council contains accurate data for the purposes of measuring the greenhouse gas emissions associated with the cultivation of wheat in that Member State",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:371",
+      "pub_date": "2026-02-20",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Batterijen",
+      "title": "Commission Implementing Decision (EU) 2026/364 of 19 February 2026 recognising that the report submitted by the Netherlands under Article 31(2) of Directive (EU) 2018/2001 of the European Parliament and of the Council contains accurate data for the purposes of measuring the greenhouse gas emissions associated with the cultivation of winter wheat, sugar beet, grain maize and winter rapeseed in that Member State",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:364",
+      "pub_date": "2026-02-20",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "20-02-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "20-02-2026",
+      "relevant": 0,
+      "total": 13,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "20-02-2026",
+      "relevant": 1,
+      "total": 45,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "20-02-2026",
+      "relevant": 1,
+      "total": 88,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "20-02-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "20-02-2026",
+      "relevant": 0,
+      "total": 27,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-02-20",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-02-20",
+      "relevant": 2,
+      "total": 20,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-02-20",
+      "relevant": 0,
+      "total": 10,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

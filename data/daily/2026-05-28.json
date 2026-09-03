@@ -1,0 +1,133 @@
+{
+  "kind": "daily",
+  "id": "2026-05-28",
+  "label": "28 mei 2026",
+  "from": "2026-05-28",
+  "to": "2026-05-28",
+  "generated_at": "2026-09-03T13:16:36+00:00",
+  "publications": [
+    {
+      "source": "Staatsblad NL",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Besluit van 4 mei 2026 tot wijziging van het Besluit prudentiële regels Wft, het Besluit Gedragstoezicht financiële ondernemingen Wft, het Besluit markttoegang financiële ondernemingen Wft en het Besluit bestuurlijke boetes financiële sector ter implementatie van Richtlijn (EU) 2024/927 tot wijziging van de richtlijnen 2011/61/EU en 2009/65/EG (Besluit implementatie gewijzigde AIFM-richtlijn en icbe-richtlijn)",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2026-122.html",
+      "pub_date": "2026-05-28",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Beslisnota bij Kamerbrief over uitvoering van de motie van het lid Flach c.s. over de versobering van de KIA niet door laten gaan en het tarief van de vrachtwagenheffing zo snel mogelijk verlagen (Kamerstuk 36933-30) en de motie van de leden Eerdmans en Wilders over de vrachtwagenheffing uitstellen tot 1 januari 2027 (Kamerstuk 36933-4)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1249864.html",
+      "pub_date": "2026-05-28",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Voorstel van wet van de leden Klaver en Ouwehand tot wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met de invoering van een vuurwerkverbod voor consumenten (Wet veilige jaarwisseling); Verslag van een nader schriftelijk overleg met de staatssecretaris van I&W over ontwerpbesluit veilige jaarwisseling",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35386-T.html",
+      "pub_date": "2026-05-28",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Medical devices",
+      "title": "Jaarverslag IVD 2025",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1249868.html",
+      "pub_date": "2026-05-28",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Noodpakket energie, mobiliteit en economie; Brief regering; Uitvoering van de motie van het lid Flach c.s. over de versobering van de KIA niet door laten gaan en het tarief van de vrachtwagenheffing zo snel mogelijk verlagen (Kamerstuk 36933-30) en de motie van de leden Eerdmans en Wilders over de vrachtwagenheffing uitstellen tot 1 januari 2027 (Kamerstuk 36933-4)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36933-37.html",
+      "pub_date": "2026-05-28",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Douane & Handelsbeleid",
+      "title": "10 december 2024. - Wet tot verlenging van de overgangsregeling voor de toepassing van het verlaagd btw-tarief van 6 % bij afbraak en heropbouw van een woning. - Duitse vertaling, bl. 29043.",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-05-28&lg_txt=n&caller=sum&s_editie=1&2026003643=4&numac_search=2026003643&view_numac=",
+      "pub_date": "2026-05-28",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "28-05-2026",
+      "relevant": 1,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "28-05-2026",
+      "relevant": 0,
+      "total": 8,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "28-05-2026",
+      "relevant": 0,
+      "total": 38,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "28-05-2026",
+      "relevant": 4,
+      "total": 290,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "28-05-2026",
+      "relevant": 0,
+      "total": 6,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "28-05-2026",
+      "relevant": 1,
+      "total": 21,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-05-28",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-05-28",
+      "relevant": 0,
+      "total": 10,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-05-28",
+      "relevant": 0,
+      "total": 15,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

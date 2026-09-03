@@ -1,0 +1,141 @@
+{
+  "kind": "daily",
+  "id": "2026-01-16",
+  "label": "16 januari 2026",
+  "from": "2026-01-16",
+  "to": "2026-01-16",
+  "generated_at": "2026-09-03T12:45:09+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "ESPR/Ecodesign",
+      "title": "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 8 januari 2026, kenmerk 4319786-1092344-PZo, houdende wijziging van de Regeling bijzondere neurochirurgie in verband met enkele kleine reparaties",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-897.html",
+      "pub_date": "2026-01-16",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "EUDR",
+      "title": "Vaststelling van de begrotingsstaat voor Buitenlandse Handel en Ontwikkelingshulp (XVII) voor het jaar 2026; Motie; Motie van de leden Teunissen en Dobbe over een jaarlijkse rapportage over de Nederlandse ontbossingsvoetafdruk",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36800-XVII-48.html",
+      "pub_date": "2026-01-16",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Medical devices",
+      "title": "Wijziging van de Wet medische hulpmiddelen in verband met de uitvoering van Verordening (EU) 2024/1860 betreffende de verplichting tot informeren in geval van onderbreking of stopzetting van de levering; Gewijzigd voorstel van wet",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36759-A.html",
+      "pub_date": "2026-01-16",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "EU-voorstel: Gezamenlijk witboek over de gereedheid van de Europese defensie 2030 JOIN(2025)120; Brief van de Europese Commissie inzake beantwoording vragen over Omnibusvoorstellen Europese Defensie Gereedheid 2030",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36741-K.html",
+      "pub_date": "2026-01-16",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "(duurzaamheids) eisen aan de woningbouw.",
+      "url": "https://zoek.officielebekendmakingen.nl/kv-tk-2026Z00695.html",
+      "pub_date": "2026-01-16",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "Elektrische apparaten",
+      "title": "Opinion of the European Economic and Social Committee a) Proposal for a Regulation of the European Parliament and of the Council amending Regulations (EU) 2016/679, (EU) 2016/1036, (EU) 2016/1037, (EU) 2017/1129, (EU) 2023/1542 and (EU) 2024/573 as regards the extension of certain mitigating measures available for small and medium sized enterprises to small mid-cap enterprises and further simplification measures (COM(2025) 501 final – 2025/0130 (COD)) and b) Proposal for a Directive of the European Parliament and of the Council amending Directives 2014/65/EU and (EU) 2022/2557 as regards the extension of certain mitigating measures available for small and medium sized enterprises to small mid-cap enterprises and further simplifying measures (COM(2025) 502 final – 2025/0131 (COD)) and c) Proposal for a Directive of the European Parliament and of the Council amending Directives 2000/14/EC, 2011/65/EU, 2013/53/EU, 2014/29/EU, 2014/30/EU, 2014/31/EU, 2014/32/EU, 2014/33/EU, 2014/34/EU, 2014/35/EU, 2014/53/EU, 2014/68/EU and 2014/90/EU of the European Parliament and of the Council as regards digitalisation and common specifications (COM(2025) 503 final – 2025/0133 (COD)) and d) Proposal for a Regulation of the European Parliament and of the Council amending Regulations (EU) No 765/2008, (EU) 2016/424, (EU) 2016/425, (EU) 2016/426, (EU) 2023/1230, (EU) 2023/1542 and (EU) 2024/1781 as regards digitalisation and common specifications (COM(2025) 504 final – 2025/0134 (COD))",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:29",
+      "pub_date": "2026-01-16",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "CLP",
+      "title": "Opinion of the European Economic and Social Committee a) Proposal for a Regulation of the European Parliament and of the Council on the acceleration of permit-granting for defence readiness projects (COM(2025) 821 final – 2025/0172 (COD)) and b) Proposal for a Regulation of the European Parliament and of the Council amending Regulations (EC) No 1907/2006, (EC) No 1272/2008, (EU) No 528/2012, (EU) 2019/1021 and (EU) 2021/697 as regards defence readiness and facilitating defence investments and conditions for defence industry (COM(2025) 822 final – 2025/0176 (COD)) and c) Proposal for a Directive of the European Parliament and of the Council amending Directives 2009/43/EC and 2009/81/EC, as regards the simplification of intra-EU transfers of defence-related products and the simplification of security and defence procurement (COM(2025) 823 final – 2025/0177 (COD))",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:30",
+      "pub_date": "2026-01-16",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "16-01-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "16-01-2026",
+      "relevant": 1,
+      "total": 13,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "16-01-2026",
+      "relevant": 0,
+      "total": 43,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "16-01-2026",
+      "relevant": 4,
+      "total": 87,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "16-01-2026",
+      "relevant": 0,
+      "total": 6,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "16-01-2026",
+      "relevant": 0,
+      "total": 34,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-01-16",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-01-16",
+      "relevant": 0,
+      "total": 16,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-01-16",
+      "relevant": 2,
+      "total": 51,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

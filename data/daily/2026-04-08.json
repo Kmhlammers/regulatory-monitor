@@ -1,0 +1,141 @@
+{
+  "kind": "daily",
+  "id": "2026-04-08",
+  "label": "8 april 2026",
+  "from": "2026-04-08",
+  "to": "2026-04-08",
+  "generated_at": "2026-09-03T13:02:04+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "EUDR",
+      "title": "Duurzame ontwikkeling en beleid; Verslag van een nader schriftelijk overleg met de minister van LVVN over het voorstel voor een Verordening tot wijziging van Verordening (EU) 2023/1115 wat betreft bepaalde verplichtingen van marktdeelnemers en handelaren",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-30196-O.html",
+      "pub_date": "2026-04-08",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "UWV Jaarplan 2026",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1242995.html",
+      "pub_date": "2026-04-08",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "SVB Jaarplan 2026",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1242996.html",
+      "pub_date": "2026-04-08",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "EUDR",
+      "title": "Beslisnota('s) bij de beantwoording van nadere vragen met betrekking tot de wijziging van de verordening ontbossingsvrije producten (EUDR)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1242863.html",
+      "pub_date": "2026-04-08",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "BIDN Jaarplan 2026",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1242997.html",
+      "pub_date": "2026-04-08",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "BKWI Jaarplan 2026",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1242998.html",
+      "pub_date": "2026-04-08",
+      "week": ""
+    },
+    {
+      "source": "refLex - Chrono",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Ministerieel besluit van 8 april 2026 tot vastlegging van de categorieën van de begunstigden die kunnen genieten van een verlaagd tarief en de bijhorende modaliteiten in uitvoering van artikel 46 van het koninklijk besluit van 1 februari 2000 tot vaststelling van de organieke voorschriften voor het beheer van de federale wetenschappelijke instellingen die ressorteren onder de Minister tot wie de bevoegdheid van het Wetenschapsbeleid behoort, als Staatsdiensten met afzonderlijk beheer",
+      "url": "http://reflex.raadvst-consetat.be/reflex/page=chrono&c=detail_get&d=detail&docid=159034",
+      "pub_date": "2026-04-08",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "08-04-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "08-04-2026",
+      "relevant": 0,
+      "total": 25,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "08-04-2026",
+      "relevant": 0,
+      "total": 51,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "08-04-2026",
+      "relevant": 6,
+      "total": 177,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "08-04-2026",
+      "relevant": 1,
+      "total": 2,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "08-04-2026",
+      "relevant": 0,
+      "total": 18,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-04-08",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-04-08",
+      "relevant": 0,
+      "total": 13,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-04-08",
+      "relevant": 0,
+      "total": 12,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

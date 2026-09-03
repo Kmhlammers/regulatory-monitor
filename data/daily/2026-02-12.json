@@ -1,0 +1,157 @@
+{
+  "kind": "daily",
+  "id": "2026-02-12",
+  "label": "12 februari 2026",
+  "from": "2026-02-12",
+  "to": "2026-02-12",
+  "generated_at": "2026-09-03T12:50:45+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "General product safety",
+      "title": "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 4 februari 2026, nr. 2026-0000017877, houdende de aanwijzing van LRQA Nederland B.V. als conformiteitsbeoordelingsinstantie inzake accreditatienorm NEN-EN-ISO/IEC 17021-1: 2015",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-4131.html",
+      "pub_date": "2026-02-12",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "General product safety",
+      "title": "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 4 februari 2026, nr. 2026-0000027976, tot het aanwijzen van ICI4YOU B.V. als conformiteitsbeoordelingsinstantie inzake accreditatienorm NEN-EN-ISO/IEC 17020:2012",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-4133.html",
+      "pub_date": "2026-02-12",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "General product safety",
+      "title": "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 3 februari 2026, nr. 2026-0000021688, tot het aanwijzen van Applus Netherlands B.V. als conformiteitsbeoordelingsinstantie inzake accreditatienorm NEN-EN-ISO/IEC 17020:2012",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-4127.html",
+      "pub_date": "2026-02-12",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Vervoer gevaarlijke stoffen; Brief regering; Berichtgeving ILT over druppellekkages bij vervoer van gevaarlijke stoffen over het spoor",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-30373-82.html",
+      "pub_date": "2026-02-12",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Kritieke grondstoffen",
+      "title": "Beslisnota bij Fiche: RESourceEU actieplan en voorstel tot aanpassing van de verordening kritieke grondstoffen",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1235647.html",
+      "pub_date": "2026-02-12",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Kritieke grondstoffen",
+      "title": "Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie; Brief regering; Fiche: RESourceEU actieplan en voorstel tot aanpassing van de verordening kritieke grondstoffen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-22112-4244.html",
+      "pub_date": "2026-02-12",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Beslisnota bij Kamerbrief inzake berichtgeving ILT over druppellekkages bij vervoer van gevaarlijke stoffen over het spoor",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1235687.html",
+      "pub_date": "2026-02-12",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "De terugroepactie van babyvoeding door Danone",
+      "url": "https://zoek.officielebekendmakingen.nl/kv-tk-2026Z03089.html",
+      "pub_date": "2026-02-12",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "REACH",
+      "title": "Summary of European Commission Decisions on authorisations for the placing on the market for the use and/or for use of substances listed in Annex XIV to Regulation (EC) No 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (Published pursuant to Article 64(9) of Regulation (EC) No 1907/2006)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:1009",
+      "pub_date": "2026-02-12",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "12-02-2026",
+      "relevant": 0,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "12-02-2026",
+      "relevant": 3,
+      "total": 25,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "12-02-2026",
+      "relevant": 0,
+      "total": 36,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "12-02-2026",
+      "relevant": 5,
+      "total": 177,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "12-02-2026",
+      "relevant": 0,
+      "total": 10,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "12-02-2026",
+      "relevant": 0,
+      "total": 25,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-02-12",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-02-12",
+      "relevant": 0,
+      "total": 34,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-02-12",
+      "relevant": 1,
+      "total": 18,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

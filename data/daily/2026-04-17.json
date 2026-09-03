@@ -1,0 +1,149 @@
+{
+  "kind": "daily",
+  "id": "2026-04-17",
+  "label": "17 april 2026",
+  "from": "2026-04-17",
+  "to": "2026-04-17",
+  "generated_at": "2026-09-03T13:04:02+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "BKWI Jaarplan 2026 (Bureau Keteninformatisering Werk en Inkomen, oktober 2025, 10 p.)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1244463.html",
+      "pub_date": "2026-04-17",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "UWV Jaarplan 2026 (Uitvoeringsinstituut Werknemersverzekeringen, 3 december 2025, 35 p.)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1244460.html",
+      "pub_date": "2026-04-17",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "SVB Jaarplan 2026 (Sociale Verzekeringsbank, 30 oktober 2025, 45 p.)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1244461.html",
+      "pub_date": "2026-04-17",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "BIDN Jaarplan 2026 (Bureau InformatieDiensten Nederland, april 2026, 26 p.)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1244462.html",
+      "pub_date": "2026-04-17",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Elektrische apparaten",
+      "title": "Antwoord op vragen van de leden El Boujdaini en Klos over het bericht 'Google en Microsoft houden energieverbruik van hyperscale-datacenters geheim voor de overheid'",
+      "url": "https://zoek.officielebekendmakingen.nl/ah-tk-20252026-1647.html",
+      "pub_date": "2026-04-17",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Elektrische apparaten",
+      "title": "Antwoord op vragen van het lid Jimmy Dijk over het bericht ‘Google en Microsoft houden energieverbruik van hyperscale-datacenters geheim voor de overheid’",
+      "url": "https://zoek.officielebekendmakingen.nl/ah-tk-20252026-1648.html",
+      "pub_date": "2026-04-17",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Elektrische apparaten",
+      "title": "Antwoord op vragen van de leden El Boujdaini en Klos over het bericht 'Google en Microsoft houden energieverbruik van hyperscale-datacenters geheim voor de overheid'",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1244450.html",
+      "pub_date": "2026-04-17",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Elektrische apparaten",
+      "title": "Antwoord op vragen van het lid Jimmy Dijk over het bericht ‘Google en Microsoft houden energieverbruik van hyperscale-datacenters geheim voor de overheid’",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1244452.html",
+      "pub_date": "2026-04-17",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "17-04-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "17-04-2026",
+      "relevant": 0,
+      "total": 21,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "17-04-2026",
+      "relevant": 0,
+      "total": 56,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "17-04-2026",
+      "relevant": 8,
+      "total": 171,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "17-04-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "17-04-2026",
+      "relevant": 0,
+      "total": 46,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-04-17",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-04-17",
+      "relevant": 0,
+      "total": 9,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-04-17",
+      "relevant": 0,
+      "total": 18,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

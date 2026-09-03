@@ -1,0 +1,93 @@
+{
+  "kind": "daily",
+  "id": "2026-08-06",
+  "label": "6 augustus 2026",
+  "from": "2026-08-06",
+  "to": "2026-08-06",
+  "generated_at": "2026-09-03T13:32:41+00:00",
+  "publications": [
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Commission Implementing Regulation (EU) 2026/1914 of 5 August 2026 imposing a provisional countervailing duty on imports of certain lightweight thermal paper originating in the People’s Republic of China",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1914",
+      "pub_date": "2026-08-06",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "06-08-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "06-08-2026",
+      "relevant": 0,
+      "total": 13,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "06-08-2026",
+      "relevant": 0,
+      "total": 24,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "06-08-2026",
+      "relevant": 0,
+      "total": 18,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "06-08-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "06-08-2026",
+      "relevant": 0,
+      "total": 13,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-08-06",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-08-06",
+      "relevant": 1,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-08-06",
+      "relevant": 0,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

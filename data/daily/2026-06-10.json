@@ -1,0 +1,109 @@
+{
+  "kind": "daily",
+  "id": "2026-06-10",
+  "label": "10 juni 2026",
+  "from": "2026-06-10",
+  "to": "2026-06-10",
+  "generated_at": "2026-09-03T13:19:28+00:00",
+  "publications": [
+    {
+      "source": "Staatsblad NL",
+      "topic": "Duurzaamheid",
+      "title": "Besluit van 5 juni 2026, houdende vaststelling van het tijdstip van inwerkingtreding van de wet van 1 april 2026 tot wijziging van de Wet milieubeheer en de Wet op de accijns in verband met de implementatie van Richtlijn (EU) 2023/2413 van het Europees Parlement en de Raad van 18 oktober 2023 tot wijziging van Richtlijn (EU) 2018/2001, verordening (EU) 2018/1999 en Richtlijn 98/70/EG wat de bevordering van energie uit hernieuwbare bronnen betreft, en tot intrekking van Richtlijn (EU) 2015/652 van de Raad (Stb. 2026, 83), en tot vaststelling van het tijdstip van inwerkingtreding van het besluit van 19 mei 2026 tot wijziging van het Besluit energie vervoer en het Besluit brandstoffen luchtverontreiniging in verband met de implementatie van Richtlijn (EU) 2023/2413 van het Europees Parlement en de Raad van 18 oktober 2023 tot wijziging van Richtlijn (EU) 2018/2001, verordening (EU) 2018/1999 en Richtlijn 98/70/EG wat de bevordering van energie uit hernieuwbare bronnen betreft, en tot intrekking van Richtlijn (EU) 2015/652 van de Raad (Stb. 2026, 102)",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2026-137.html",
+      "pub_date": "2026-06-10",
+      "week": ""
+    },
+    {
+      "source": "refLex - Chrono",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Ministerieel besluit van 10 juni 2026 tot bepaling van de nationale codes bedoeld in bijlage B bij Uitvoeringsverordening (EU) 2015/2447 van de Commissie van 24 november 2015 houdende nadere uitvoeringsvoorschriften voor enkele bepalingen van Verordening (EU) nr. 952/2013 van het Europees Parlement en de Raad tot vaststelling van het douanewetboek van de Unie",
+      "url": "http://reflex.raadvst-consetat.be/reflex/page=chrono&c=detail_get&d=detail&docid=159402",
+      "pub_date": "2026-06-10",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "PPWR",
+      "title": "Commission Notice – Guidance document for Regulation (EU) 2025/40 on packaging and packaging waste",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:3084",
+      "pub_date": "2026-06-10",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "10-06-2026",
+      "relevant": 1,
+      "total": 4,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "10-06-2026",
+      "relevant": 0,
+      "total": 22,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "10-06-2026",
+      "relevant": 0,
+      "total": 51,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "10-06-2026",
+      "relevant": 0,
+      "total": 122,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "10-06-2026",
+      "relevant": 1,
+      "total": 4,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "10-06-2026",
+      "relevant": 0,
+      "total": 27,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-06-10",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-06-10",
+      "relevant": 0,
+      "total": 23,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-06-10",
+      "relevant": 1,
+      "total": 11,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

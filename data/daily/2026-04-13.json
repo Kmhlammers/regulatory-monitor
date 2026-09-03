@@ -1,0 +1,109 @@
+{
+  "kind": "daily",
+  "id": "2026-04-13",
+  "label": "13 april 2026",
+  "from": "2026-04-13",
+  "to": "2026-04-13",
+  "generated_at": "2026-09-03T13:02:54+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Beslisnota bij Kamerbrief over versterking toezicht e-commerce ter uitvoering van de- minimis en Europese Handling Fee Douane – CW3.1 kader",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1243615.html",
+      "pub_date": "2026-04-13",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Wijziging van de begrotingsstaat van het Ministerie van Financiën (IXB) en de begrotingsstaat van Nationale Schuld (IXA) voor het jaar 2026 (wijziging samenhangende met de Voorjaarsnota); Brief regering; Versterking toezicht e-commerce ter uitvoering van de-minimis en Europese Handling Fee Douane – CW3.1 kader",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36915-IX-3.html",
+      "pub_date": "2026-04-13",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Douane & Handelsbeleid",
+      "title": "8 april 2026. - Ministerieel besluit tot vastlegging van de categorieën van de begunstigden die kunnen genieten van een verlaagd tarief en de bijhorende modaliteiten in uitvoering van artikel 46 van het koninklijk besluit van 1 februari 2000 tot vast",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-04-13&lg_txt=n&caller=sum&s_editie=1&2026002774=8&numac_search=2026002774&view_numac=",
+      "pub_date": "2026-04-13",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "13-04-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "13-04-2026",
+      "relevant": 0,
+      "total": 26,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "13-04-2026",
+      "relevant": 0,
+      "total": 49,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "13-04-2026",
+      "relevant": 2,
+      "total": 152,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "13-04-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "13-04-2026",
+      "relevant": 1,
+      "total": 16,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-04-13",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-04-13",
+      "relevant": 0,
+      "total": 9,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-04-13",
+      "relevant": 0,
+      "total": 75,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

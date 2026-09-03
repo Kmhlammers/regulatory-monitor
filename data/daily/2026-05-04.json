@@ -1,0 +1,149 @@
+{
+  "kind": "daily",
+  "id": "2026-05-04",
+  "label": "4 mei 2026",
+  "from": "2026-05-04",
+  "to": "2026-05-04",
+  "generated_at": "2026-09-03T13:11:10+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "General product safety",
+      "title": "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 23 april 2026, kenmerk 4375777-1097324-WJZ, houdende wijziging van de Warenwetregeling verpakkingen en gebruiksartikelen in verband met de Beschikking van het Benelux Comité van Ministers houdende vrijwaringsmaatregelen ten aanzien van keramische voorwerpen bestemd om met levensmiddelen in aanraking te komen [KetenID WGK028592]",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-16308.html",
+      "pub_date": "2026-05-04",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Beslisnota bij Kamerbrief over stand van zaken gedeeltelijk PFAS-lozingsverbod",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1246363.html",
+      "pub_date": "2026-05-04",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Medical devices",
+      "title": "22 april 2026. - Ministerieel besluit tot wijziging van hoofdstuk \"C. Oto-rhino-laryngologie\" van de lijst, gevoegd als bijlage 1 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de procedures, termijnen en voorwaarden inzake de tegem",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-05-04&lg_txt=n&caller=sum&s_editie=1&2026003131=9&numac_search=2026003131&view_numac=",
+      "pub_date": "2026-05-04",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "REACH",
+      "title": "Summary of European Commission Decisions on authorisations for the placing on the market for the use and/or for use of substances listed in Annex XIV to Regulation (EC) No 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (Published pursuant to Article 64(9) of Regulation (EC) No 1907/2006)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:2406",
+      "pub_date": "2026-05-04",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "REACH",
+      "title": "Summary of European Commission Decisions on authorisations for the placing on the market for the use and/or for use of substances listed in Annex XIV to Regulation (EC) No 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (Published pursuant to Article 64(9) of Regulation (EC) No 1907/2006)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:2537",
+      "pub_date": "2026-05-04",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "REACH",
+      "title": "Summary of European Commission Decisions on authorisations for the placing on the market for the use and/or for use of substances listed in Annex XIV to Regulation (EC) No 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (Published pursuant to Article 64(9) of Regulation (EC) No 1907/2006)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:2336",
+      "pub_date": "2026-05-04",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "REACH",
+      "title": "Summary of European Commission Decisions on authorisations for the placing on the market for the use and/or for use of substances listed in Annex XIV to Regulation (EC) No 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (Published pursuant to Article 64(9) of Regulation (EC) No 1907/2006)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:2407",
+      "pub_date": "2026-05-04",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "REACH",
+      "title": "Summary of European Commission Decisions on authorisations for the placing on the market for the use and/or for use of substances listed in Annex XIV to Regulation (EC) No 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (Published pursuant to Article 64(9) of Regulation (EC) No 1907/2006)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:2335",
+      "pub_date": "2026-05-04",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "04-05-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "04-05-2026",
+      "relevant": 1,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "04-05-2026",
+      "relevant": 0,
+      "total": 41,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "04-05-2026",
+      "relevant": 1,
+      "total": 86,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "04-05-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "04-05-2026",
+      "relevant": 1,
+      "total": 23,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-05-04",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-05-04",
+      "relevant": 0,
+      "total": 12,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-05-04",
+      "relevant": 5,
+      "total": 78,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

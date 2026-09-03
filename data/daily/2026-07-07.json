@@ -1,0 +1,125 @@
+{
+  "kind": "daily",
+  "id": "2026-07-07",
+  "label": "7 juli 2026",
+  "from": "2026-07-07",
+  "to": "2026-07-07",
+  "generated_at": "2026-09-03T13:26:03+00:00",
+  "publications": [
+    {
+      "source": "Staatsblad NL",
+      "topic": "REACH",
+      "title": "Besluit van 25 juni 2026 tot wijziging van het Vuurwerkbesluit en het Besluit vervoer gevaarlijke stoffen in verband met de Wet veilige jaarwisseling (Besluit veilige jaarwisseling)",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2026-168-n1.html",
+      "pub_date": "2026-07-07",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "Duurzaamheid",
+      "title": "Advies Raad van State inzake het voorstel van wet tot Wijziging van de Wet milieubeheer ten behoeve van de implementatie van de Verordening (EU) 2024/3012 van het Europees Parlement en de Raad van 27 november 2024 tot vaststelling van een certificeringskader van de Unie voor permanente koolstofverwijderingen, koolstoflandbeheer en koolstofopslag in producten (Uitvoeringswet verordening certificeringskader voor permanente koolstofverwijderingen, koolstoflandbeheer en koolstofopslag in producten)",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-23310.html",
+      "pub_date": "2026-07-07",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Voorstel van wet van de leden Klaver en Ouwehand tot wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met de invoering van een vuurwerkverbod voor consumenten (Wet veilige jaarwisseling); Brief regering; Nahang Besluit tot wijziging van het Vuurwerkbesluit en het Besluit vervoer gevaarlijke stoffen in verband met de Wet veilige jaarwisseling (Besluit veilige jaarwisseling)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1261674.html",
+      "pub_date": "2026-07-07",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Beslisnota bij Kamerbrief over nahang Besluit tot wijziging van het Vuurwerkbesluit en het Besluit vervoer gevaarlijke stoffen in verband met de Wet veilige jaarwisseling (Besluit veilige jaarwisseling)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1261676.html",
+      "pub_date": "2026-07-07",
+      "week": ""
+    },
+    {
+      "source": "refLex - Chrono",
+      "topic": "Medical devices",
+      "title": "Ministerieel besluit van 7 juli 2026 tot wijziging van hoofdstuk \"G. Bloedvatenheelkunde\" van de lijst, gevoegd als bijlage 1 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de procedures, termijnen en voorwaarden inzake de tegemoetkoming van de verplichte verzekering voor geneeskundige verzorging en uitkeringen in de kosten van implantaten en invasieve medische hulpmiddelen",
+      "url": "http://reflex.raadvst-consetat.be/reflex/page=chrono&c=detail_get&d=detail&docid=159710",
+      "pub_date": "2026-07-07",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "07-07-2026",
+      "relevant": 1,
+      "total": 5,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "07-07-2026",
+      "relevant": 1,
+      "total": 23,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "07-07-2026",
+      "relevant": 0,
+      "total": 33,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "07-07-2026",
+      "relevant": 2,
+      "total": 93,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "07-07-2026",
+      "relevant": 1,
+      "total": 2,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "07-07-2026",
+      "relevant": 0,
+      "total": 19,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-07-07",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-07-07",
+      "relevant": 0,
+      "total": 7,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-07-07",
+      "relevant": 0,
+      "total": 5,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

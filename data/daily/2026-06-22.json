@@ -1,0 +1,149 @@
+{
+  "kind": "daily",
+  "id": "2026-06-22",
+  "label": "22 juni 2026",
+  "from": "2026-06-22",
+  "to": "2026-06-22",
+  "generated_at": "2026-09-03T13:22:17+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Beslisnota bij Kamerbrief over het Jaarverslag 2025 van de Inlichtingen- en Opsporingsdienst (IOD) van de Nederlandse Voedsel- en Warenautoriteit (NVWA)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1255201.html",
+      "pub_date": "2026-06-22",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Nederlandse Voedsel- en Warenautoriteit (NVWA); Brief regering; Modern toezicht Nederlandse Voedsel- en Warenautoriteit (NVWA)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-33835-262.html",
+      "pub_date": "2026-06-22",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Onderzoek uitbreiding aanpak kunststof producten voor eenmalig gebruik",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1255097.html",
+      "pub_date": "2026-06-22",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Nederlandse Voedsel- en Warenautoriteit (NVWA); Brief regering; Jaarverslag 2025 van de Inlichtingen- en Opsporingsdienst (IOD) van de Nederlandse Voedsel- en Warenautoriteit (NVWA)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-33835-263.html",
+      "pub_date": "2026-06-22",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Beslisnota bij Kamerbrief over modern toezicht Nederlandse Voedsel- en Warenautoriteit (NVWA)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1255256.html",
+      "pub_date": "2026-06-22",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Jaarverslag 2025 van de Inlichtingen- en Opsporingsdienst (IOD) van de Nederlandse Voedsel- en Warenautoriteit (NVWA)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1255200.html",
+      "pub_date": "2026-06-22",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Regulation (EU) 2026/1395 of the European Parliament and of the Council of 17 June 2026 on applying a generalised scheme of tariff preferences and repealing Regulation (EU) No 978/2012",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1395",
+      "pub_date": "2026-06-22",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Elektrische apparaten",
+      "title": "Corrigendum to Commission Implementing Decision (EU) 2026/1231 of 11 June 2026 amending Implementing Decision (EU) 2021/1182 as regards harmonised standards for biological evaluation of medical devices, symbols to be used with information to be supplied by the manufacturer, medical electrical equipment, transfusion equipment for medical use, ophthalmic optics, non-active surgical implants, washer-disinfectors, prosthetics and sharps injury protection (OJ L, 2026/1231, 17.6.2026)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:corrigendum:2026-06-22",
+      "pub_date": "2026-06-22",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "22-06-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "22-06-2026",
+      "relevant": 0,
+      "total": 11,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "22-06-2026",
+      "relevant": 0,
+      "total": 55,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "22-06-2026",
+      "relevant": 6,
+      "total": 251,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "22-06-2026",
+      "relevant": 0,
+      "total": 14,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "22-06-2026",
+      "relevant": 0,
+      "total": 48,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-06-22",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-06-22",
+      "relevant": 2,
+      "total": 18,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-06-22",
+      "relevant": 0,
+      "total": 82,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

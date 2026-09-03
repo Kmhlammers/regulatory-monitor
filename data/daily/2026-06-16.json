@@ -1,0 +1,141 @@
+{
+  "kind": "daily",
+  "id": "2026-06-16",
+  "label": "16 juni 2026",
+  "from": "2026-06-16",
+  "to": "2026-06-16",
+  "generated_at": "2026-09-03T13:21:02+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Nederlandse Voedsel- en Warenautoriteit (NVWA); Brief regering; Reactie op de brandbrief Juridealist BV, namens Stichting Animal Rights, m.b.t. ondermijning van Wet open overheid (Woo) door NVWA",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-33835-261.html",
+      "pub_date": "2026-06-16",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Verslag van een schriftelijk overleg met de minister van LVVN over rapportages monitoring en evaluatie van het Programma Stikstofreductie en Natuurverbetering (PSN)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35334-CK.html",
+      "pub_date": "2026-06-16",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Wijziging van de Wet milieubeheer en enkele andere wetten ter uitvoering van Verordening (EU) 2024/1157 van het Europees Parlement en de Raad van 11 april 2024 betreffende de overbrenging van afvalstoffen, ter gedeeltelijke implementatie van een daaraan gerelateerde richtlijn, ter aanvullende implementatie van Richtlijn (EU) 2018/851 van het Europees Parlement en de Raad van 30 mei 2018 tot wijziging van Richtlijn 2008/98/EG betreffende afvalstoffen en in verband met het opnemen van een grondslag voor de uitvoering van Verordening (EU) 2023/1542 van het Europees Parlement en de Raad van 12 juli 2023 inzake batterijen en afgedankte batterijen (Wet uitvoering EU-verordening overbrenging van afvalstoffen en implementatie enkele andere EU-rechtshandelingen); Nota van wijziging; Nota van wijziging",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36880-7.html",
+      "pub_date": "2026-06-16",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "PPWR",
+      "title": "Jaarrapportage Landelijke Monitor Zwerfafval 2025",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1253958.html",
+      "pub_date": "2026-06-16",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "PBM",
+      "title": "Commission Implementing Decision (EU) 2026/1279 of 12 June 2026 on harmonised standards for personal protective equipment drafted in support of Regulation (EU) 2016/425 of the European Parliament and of the Council and repealing Commission Implementing Decision (EU) 2023/941",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1279",
+      "pub_date": "2026-06-16",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "REACH",
+      "title": "Commission Recommendation (EU) 2026/1307 of 11 June 2026 on the monitoring of perfluoroalkyl substances (PFAS) in feed",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1307",
+      "pub_date": "2026-06-16",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Communication in accordance with Article 34 (7)(a)(iii) of Regulation (EU) No 952/2013 of the European Parliament and of the Council, on decisions relating to binding information issued by the customs authorities of the Member States concerning the classification of goods in the customs nomenclature",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:3319",
+      "pub_date": "2026-06-16",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "16-06-2026",
+      "relevant": 0,
+      "total": 5,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "16-06-2026",
+      "relevant": 0,
+      "total": 14,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "16-06-2026",
+      "relevant": 0,
+      "total": 50,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "16-06-2026",
+      "relevant": 4,
+      "total": 244,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "16-06-2026",
+      "relevant": 0,
+      "total": 7,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "16-06-2026",
+      "relevant": 0,
+      "total": 28,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-06-16",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-06-16",
+      "relevant": 2,
+      "total": 21,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-06-16",
+      "relevant": 1,
+      "total": 19,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

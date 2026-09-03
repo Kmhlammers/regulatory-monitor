@@ -1,0 +1,125 @@
+{
+  "kind": "daily",
+  "id": "2026-04-01",
+  "label": "1 april 2026",
+  "from": "2026-04-01",
+  "to": "2026-04-01",
+  "generated_at": "2026-09-03T13:00:37+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Kennisnotitie 'Mogelijkheden voor onderzoek naar gezondheidseffecten van beroepsmatige blootstelling aan bestrijdingsmiddelen",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1242094.html",
+      "pub_date": "2026-04-01",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Beslisnota bij Kamerbrief Mogelijkheden onderzoek gezondheidseffecten beroepsmatige blootstelling aan bestrijdingsmiddelen",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1242095.html",
+      "pub_date": "2026-04-01",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Arbeidsomstandigheden; Brief regering; Mogelijkheden onderzoek gezondheidseffecten beroepsmatige blootstelling aan bestrijdingsmiddelen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-25883-547.html",
+      "pub_date": "2026-04-01",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Batterijen",
+      "title": "Commission Implementing Decision (EU) 2026/753 of 31 March 2026 recognising that the report submitted by Latvia under Article 31(2) of Directive (EU) 2018/2001 of the European Parliament and of the Council contains accurate data for the purposes of measuring the greenhouse gas emissions associated with the cultivation of rapeseed in that Member State",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:753",
+      "pub_date": "2026-04-01",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "REACH",
+      "title": "Corrigendum to Summary of European Commission Decisions on authorisations for the placing on the market for the use and/or for use of substances listed in Annex XIV to Regulation (EC) No 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (Published pursuant to Article 64(9) of Regulation (EC) No 1907/2006) (OJ C, C/2026/696, 6.2.2026)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:corrigendum:2026-04-01",
+      "pub_date": "2026-04-01",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "01-04-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "01-04-2026",
+      "relevant": 0,
+      "total": 27,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "01-04-2026",
+      "relevant": 0,
+      "total": 45,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "01-04-2026",
+      "relevant": 3,
+      "total": 235,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "01-04-2026",
+      "relevant": 0,
+      "total": 3,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "01-04-2026",
+      "relevant": 0,
+      "total": 12,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-04-01",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-04-01",
+      "relevant": 1,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-04-01",
+      "relevant": 1,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

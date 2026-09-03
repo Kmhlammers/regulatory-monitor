@@ -1,0 +1,141 @@
+{
+  "kind": "daily",
+  "id": "2026-01-13",
+  "label": "13 januari 2026",
+  "from": "2026-01-13",
+  "to": "2026-01-13",
+  "generated_at": "2026-09-03T12:44:19+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "Duurzaamheid",
+      "title": "Advies Raad van State inzake het voorstel van wet tot wijziging van de Wet milieubeheer en enkele andere wetten ter uitvoering van Verordening (EU) 2024/1157 van het Europees Parlement en de Raad van 11 april 2024 betreffende de overbrenging van afvalstoffen, ter gedeeltelijke implementatie van een daaraan gerelateerde richtlijn, ter aanvullende implementatie van Richtlijn (EU) 2018/851 van het Europees Parlement en de Raad van 30 mei 2018 tot wijziging van Richtlijn 2008/98/EG betreffende afvalstoffen en in verband met het opnemen van een grondslag voor de uitvoering van Verordening (EU) 2023/1542 van het Europees Parlement en de Raad van 12 juli 2023 inzake batterijen en afgedankte batterijen (Wet uitvoering EU-verordening overbrenging van afvalstoffen en implementatie enkele andere EU-rechtshandelingen)",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-715.html",
+      "pub_date": "2026-01-13",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Wijziging van de Wet op het financieel toezicht, de Bankwet 1998 en enige andere wetten in verband met de goede werking van het chartale betalingsverkeer (Wet chartaal betalingsverkeer); Amendement; Amendement van het lid Flach over voorwaarden voor de tariefvaststelling voor het gebruik van de chartale basisinfrastructuur",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36711-10.html",
+      "pub_date": "2026-01-13",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Wijziging van de Wet op het financieel toezicht, de Bankwet 1998 en enige andere wetten in verband met de goede werking van het chartale betalingsverkeer (Wet chartaal betalingsverkeer); Amendement (gewijzigd/nader/vervangend); Gewijzigd amendement van het lid Flach ter vervanging van nr. 10 over voorwaarden voor de tariefvaststelling voor het gebruik van de chartale basisinfrastructuur",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36711-14.html",
+      "pub_date": "2026-01-13",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Kritieke grondstoffen",
+      "title": "Antwoord op vragen van de leden Boswijk en Van Ark over berichtgeving rondom de ratificatie van de EU-Chili geavanceerde kaderovereenkomst (AFA) en de ontwikkeling van een Nederlandse strategie voor kritieke grondstoffen met Chili",
+      "url": "https://zoek.officielebekendmakingen.nl/ah-tk-20252026-850.html",
+      "pub_date": "2026-01-13",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Kritieke grondstoffen",
+      "title": "Antwoord op vragen van de leden Boswijk en Van Ark over berichtgeving rondom de ratificatie van de EU-Chili geavanceerde kaderovereenkomst (AFA) en de ontwikkeling van een Nederlandse strategie voor kritieke grondstoffen met Chili",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1230741.html",
+      "pub_date": "2026-01-13",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Medical devices",
+      "title": "11 december 2025. - Koninklijk besluit tot wijziging van het koninklijk besluit van 25 juni 2014 tot vaststelling van de procedures, termijnen en voorwaarden inzake de tegemoetkoming van de verplichte verzekering voor geneeskundige verzorging en uitk",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-01-13&lg_txt=n&caller=sum&s_editie=1&2025009566=3&numac_search=2025009566&view_numac=",
+      "pub_date": "2026-01-13",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Cosmetica",
+      "title": "Commission Regulation (EU) 2026/78 of 12 January 2026 amending Regulation (EC) No 1223/2009 of the European Parliament and of the Council as regards the use in cosmetic products of certain substances classified as carcinogenic, mutagenic or toxic for reproduction",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:78",
+      "pub_date": "2026-01-13",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "13-01-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "13-01-2026",
+      "relevant": 1,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "13-01-2026",
+      "relevant": 0,
+      "total": 37,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "13-01-2026",
+      "relevant": 4,
+      "total": 138,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "13-01-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "13-01-2026",
+      "relevant": 1,
+      "total": 31,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-01-13",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-01-13",
+      "relevant": 1,
+      "total": 13,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-01-13",
+      "relevant": 0,
+      "total": 13,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

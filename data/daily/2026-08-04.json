@@ -1,0 +1,133 @@
+{
+  "kind": "daily",
+  "id": "2026-08-04",
+  "label": "4 augustus 2026",
+  "from": "2026-08-04",
+  "to": "2026-08-04",
+  "generated_at": "2026-09-03T13:32:17+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Wijziging van de Wet milieubeheer in verband met de invoering van de verplichting tot het stellen van milieuprestatie-eisen in aanbestedingen voor grond-, weg- en waterbouwwerken; Memorie van toelichting; Memorie van toelichting",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1264881.html",
+      "pub_date": "2026-08-04",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Wijziging van de Wet milieubeheer in verband met de invoering van de verplichting tot het stellen van milieuprestatie-eisen in aanbestedingen voor grond-, weg- en waterbouwwerken; Koninklijke boodschap; Koninklijke boodschap",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36997-1.html",
+      "pub_date": "2026-08-04",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Beslisnota bij Wijziging van de Wet milieubeheer in verband met de invoering van de verplichting tot het stellen van milieuprestatie-eisen in aanbestedingen voor grond-, weg- en waterbouwwerken",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1264886.html",
+      "pub_date": "2026-08-04",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Wijziging van de Wet milieubeheer in verband met de invoering van de verplichting tot het stellen van milieuprestatie-eisen in aanbestedingen voor grond-, weg- en waterbouwwerken; Voorstel van wet; Voorstel van wet",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36997-2.html",
+      "pub_date": "2026-08-04",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Wijziging van de Wet milieubeheer in verband met de invoering van de verplichting tot het stellen van milieuprestatie-eisen in aanbestedingen voor grond-, weg- en waterbouwwerken; Advies Afdeling advisering Raad van State en Nader rapport; Advies Afdeling advisering Raad van State en Nader rapport",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1264887.html",
+      "pub_date": "2026-08-04",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Duurzaamheid",
+      "title": "22 juli 2026. - Wet tot omzetting van Richtlijn (EU) 2024/825 van het Europees Parlement en de Raad van 28 februari 2024 tot wijziging van de Richtlijnen 2005/29/EG en 2011/83/EU wat betreft het versterken van de positie van de consument voor de groe",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-08-04&lg_txt=n&caller=sum&s_editie=1&2026005912=5&numac_search=2026005912&view_numac=",
+      "pub_date": "2026-08-04",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "04-08-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "04-08-2026",
+      "relevant": 0,
+      "total": 7,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "04-08-2026",
+      "relevant": 0,
+      "total": 38,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "04-08-2026",
+      "relevant": 5,
+      "total": 16,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "04-08-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "04-08-2026",
+      "relevant": 1,
+      "total": 15,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-08-04",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-08-04",
+      "relevant": 0,
+      "total": 10,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-08-04",
+      "relevant": 0,
+      "total": 8,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

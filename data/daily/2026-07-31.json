@@ -1,0 +1,125 @@
+{
+  "kind": "daily",
+  "id": "2026-07-31",
+  "label": "31 juli 2026",
+  "from": "2026-07-31",
+  "to": "2026-07-31",
+  "generated_at": "2026-09-03T13:31:53+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Dienst/agentschap",
+      "topic": "General product safety",
+      "title": "Intrekking instellingsvergunning dierproeven; Nederlandse Voedsel- en Warenautoriteit (NVWA)",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-27355.html",
+      "pub_date": "2026-07-31",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Brief regering; Reactie op verzoek commissie over het rapport 'Haalbaarheidsstudie doelen Wet Stikstofreductie en Natuurherstel' van Greenpeace Nederland",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1264641.html",
+      "pub_date": "2026-07-31",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Maatschappelijk verantwoord ondernemen; Brief regering; Inkoopkracht van de overheid en vereenvoudiging aanbestedingsregels",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1264675.html",
+      "pub_date": "2026-07-31",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Duurzaamheid",
+      "title": "15 juli 2026. - Wet tot wijziging van artikel 116 van de wet van 2 december 2024 betreffende de openbaarmaking van duurzaamheidsinformatie door bepaalde vennootschappen en groepen en de assurance van duurzaamheidsinformatie en houdende diverse bepali",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-07-31&lg_txt=n&caller=sum&s_editie=1&2026005819=2&numac_search=2026005819&view_numac=",
+      "pub_date": "2026-07-31",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "PPWR",
+      "title": "Corrigendum to Commission Implementing Decision (EU) 2026/1425 of 30 June 2026 laying down rules for the application of Directive (EU) 2019/904 of the European Parliament and of the Council as regards the calculation, verification and reporting of data on recycled plastic content in single-use plastic beverage bottles and repealing Commission Implementing Decision (EU) 2023/2683 (OJ L, 2026/1425, 3.7.2026)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:corrigendum:2026-07-31",
+      "pub_date": "2026-07-31",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "31-07-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "31-07-2026",
+      "relevant": 0,
+      "total": 20,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "31-07-2026",
+      "relevant": 1,
+      "total": 68,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "31-07-2026",
+      "relevant": 2,
+      "total": 117,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "31-07-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "31-07-2026",
+      "relevant": 1,
+      "total": 25,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-07-31",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-07-31",
+      "relevant": 1,
+      "total": 23,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-07-31",
+      "relevant": 0,
+      "total": 30,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

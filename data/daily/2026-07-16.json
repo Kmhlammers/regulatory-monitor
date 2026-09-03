@@ -1,0 +1,141 @@
+{
+  "kind": "daily",
+  "id": "2026-07-16",
+  "label": "16 juli 2026",
+  "from": "2026-07-16",
+  "to": "2026-07-16",
+  "generated_at": "2026-09-03T13:28:31+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Digitaal pakket van de Europese Commissie COM(2025)835, COM(2025)836, COM(2025)837, COM(2025)838; Brief van de staatssecretarissen van EZ en van J&V over de voortgang van de onderhandelingen over de Omnibus Digitaal",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1262816.html",
+      "pub_date": "2026-07-16",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Beslisnota('s) bij de voortgang onderhandelingen Omnibus Digitaal",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1262817.html",
+      "pub_date": "2026-07-16",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "ESPR/Ecodesign",
+      "title": "Regels ter implementatie van richtlijn (EU) 2024/1799 van het Europees Parlement en de Raad van 13 juni 2024 betreffende gemeenschappelijke regels ter bevordering van de reparatie van goederen en tot wijziging van Verordening (EU) 2017/2394 en de Richtlijnen (EU) 2019/771 en (EU) 2020/1828 (Implementatiewet richtlijn bevordering van reparatie); Koninklijke boodschap; Koninklijke boodschap",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36996-1.html",
+      "pub_date": "2026-07-16",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "ESPR/Ecodesign",
+      "title": "Regels ter implementatie van richtlijn (EU) 2024/1799 van het Europees Parlement en de Raad van 13 juni 2024 betreffende gemeenschappelijke regels ter bevordering van de reparatie van goederen en tot wijziging van Verordening (EU) 2017/2394 en de Richtlijnen (EU) 2019/771 en (EU) 2020/1828 (Implementatiewet richtlijn bevordering van reparatie); Voorstel van wet; Voorstel van wet",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36996-2.html",
+      "pub_date": "2026-07-16",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "ESPR/Ecodesign",
+      "title": "Regels ter implementatie van richtlijn (EU) 2024/1799 van het Europees Parlement en de Raad van 13 juni 2024 betreffende gemeenschappelijke regels ter bevordering van de reparatie van goederen en tot wijziging van Verordening (EU) 2017/2394 en de Richtlijnen (EU) 2019/771 en (EU) 2020/1828 (Implementatiewet richtlijn bevordering van reparatie); Advies Afdeling advisering Raad van State en Nader rapport; Advies Afdeling advisering Raad van State en Nader rapport",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1262908.html",
+      "pub_date": "2026-07-16",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Verslag van een schriftelijk overleg met de minister van LVVN over concept opvolger legalisatieprogramma PAS-melders",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1262807.html",
+      "pub_date": "2026-07-16",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "ESPR/Ecodesign",
+      "title": "Regels ter implementatie van richtlijn (EU) 2024/1799 van het Europees Parlement en de Raad van 13 juni 2024 betreffende gemeenschappelijke regels ter bevordering van de reparatie van goederen en tot wijziging van Verordening (EU) 2017/2394 en de Richtlijnen (EU) 2019/771 en (EU) 2020/1828 (Implementatiewet richtlijn bevordering van reparatie); Memorie van toelichting; Memorie van toelichting",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1262902.html",
+      "pub_date": "2026-07-16",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "16-07-2026",
+      "relevant": 0,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "16-07-2026",
+      "relevant": 0,
+      "total": 31,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "16-07-2026",
+      "relevant": 0,
+      "total": 27,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "16-07-2026",
+      "relevant": 7,
+      "total": 100,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "16-07-2026",
+      "relevant": 0,
+      "total": 9,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "16-07-2026",
+      "relevant": 0,
+      "total": 15,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-07-16",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-07-16",
+      "relevant": 0,
+      "total": 14,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-07-16",
+      "relevant": 0,
+      "total": 12,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

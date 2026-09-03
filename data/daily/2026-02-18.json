@@ -1,0 +1,125 @@
+{
+  "kind": "daily",
+  "id": "2026-02-18",
+  "label": "18 februari 2026",
+  "from": "2026-02-18",
+  "to": "2026-02-18",
+  "generated_at": "2026-09-03T12:51:49+00:00",
+  "publications": [
+    {
+      "source": "Staatsblad NL",
+      "topic": "Medical devices",
+      "title": "Besluit van 16 februari 2026, houdende vaststelling van het tijdstip van inwerkingtreding van de Wet houdende wijziging van de Wet medische hulpmiddelen in verband met de uitvoering van Verordening (EU) 2024/1860 betreffende de verplichting tot informeren in geval van onderbreking of stopzetting van de levering (Stb. 2026, 23)",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2026-37.html",
+      "pub_date": "2026-02-18",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Wijziging van de Wet milieubeheer en enkele andere wetten ter uitvoering van Verordening (EU) 2024/1157 van het Europees Parlement en de Raad van 11 april 2024 betreffende de overbrenging van afvalstoffen, ter gedeeltelijke implementatie van een daaraan gerelateerde richtlijn, ter aanvullende implementatie van Richtlijn (EU) 2018/851 van het Europees Parlement en de Raad van 30 mei 2018 tot wijziging van Richtlijn 2008/98/EG betreffende afvalstoffen en in verband met het opnemen van een grondslag voor de uitvoering van Verordening (EU) 2023/1542 van het Europees Parlement en de Raad van 12 juli 2023 inzake batterijen en afgedankte batterijen (Wet uitvoering EU-verordening overbrenging van afvalstoffen en implementatie enkele andere EU-rechtshandelingen); Memorie van toelichting; Memorie van toelichting",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36880-3.html",
+      "pub_date": "2026-02-18",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Toezicht AP: Jaarplan 2026",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1236186.html",
+      "pub_date": "2026-02-18",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Wijziging van de Wet milieubeheer en enkele andere wetten ter uitvoering van Verordening (EU) 2024/1157 van het Europees Parlement en de Raad van 11 april 2024 betreffende de overbrenging van afvalstoffen, ter gedeeltelijke implementatie van een daaraan gerelateerde richtlijn, ter aanvullende implementatie van Richtlijn (EU) 2018/851 van het Europees Parlement en de Raad van 30 mei 2018 tot wijziging van Richtlijn 2008/98/EG betreffende afvalstoffen en in verband met het opnemen van een grondslag voor de uitvoering van Verordening (EU) 2023/1542 van het Europees Parlement en de Raad van 12 juli 2023 inzake batterijen en afgedankte batterijen (Wet uitvoering EU-verordening overbrenging van afvalstoffen en implementatie enkele andere EU-rechtshandelingen); Advies Afdeling advisering Raad van State en Nader rapport; Advies Afdeling advisering Raad van State en Nader rapport",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36880-4.html",
+      "pub_date": "2026-02-18",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Wijziging van de Wet milieubeheer en enkele andere wetten ter uitvoering van Verordening (EU) 2024/1157 van het Europees Parlement en de Raad van 11 april 2024 betreffende de overbrenging van afvalstoffen, ter gedeeltelijke implementatie van een daaraan gerelateerde richtlijn, ter aanvullende implementatie van Richtlijn (EU) 2018/851 van het Europees Parlement en de Raad van 30 mei 2018 tot wijziging van Richtlijn 2008/98/EG betreffende afvalstoffen en in verband met het opnemen van een grondslag voor de uitvoering van Verordening (EU) 2023/1542 van het Europees Parlement en de Raad van 12 juli 2023 inzake batterijen en afgedankte batterijen (Wet uitvoering EU-verordening overbrenging van afvalstoffen en implementatie enkele andere EU-rechtshandelingen); Voorstel van wet; Voorstel van wet",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36880-2.html",
+      "pub_date": "2026-02-18",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "18-02-2026",
+      "relevant": 1,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "18-02-2026",
+      "relevant": 0,
+      "total": 33,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "18-02-2026",
+      "relevant": 0,
+      "total": 33,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "18-02-2026",
+      "relevant": 4,
+      "total": 83,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "18-02-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "18-02-2026",
+      "relevant": 0,
+      "total": 15,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-02-18",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-02-18",
+      "relevant": 0,
+      "total": 18,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-02-18",
+      "relevant": 0,
+      "total": 14,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

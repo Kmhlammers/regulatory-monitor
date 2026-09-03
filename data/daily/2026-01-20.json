@@ -1,0 +1,125 @@
+{
+  "kind": "daily",
+  "id": "2026-01-20",
+  "label": "20 januari 2026",
+  "from": "2026-01-20",
+  "to": "2026-01-20",
+  "generated_at": "2026-09-03T12:45:44+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "REACH",
+      "title": "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat van 15 januari 2026, nr. IENW/BSK- 2025/322054, tot wijziging van de Regeling vervoer over land van gevaarlijke stoffen (tunnelcategorisering van de wisselbuis van de Gaasperdammertunnel)[KetenID WGK028572]",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-486.html",
+      "pub_date": "2026-01-20",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Dienst/agentschap",
+      "topic": "General product safety",
+      "title": "Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur van 5 december 2025 tot vaststelling van het Specifiek interventiebeleid NVWA fytosanitaire wetgeving (IB03-SPEC 04, versie 03)",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-1497.html",
+      "pub_date": "2026-01-20",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Beslisnota bij Kamerbrief Jaarplanbrief MIVD 2026",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1231693.html",
+      "pub_date": "2026-01-20",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Toezichtsverslagen AIVD en MIVD; Brief regering; Jaarplan MIVD 2026",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-29924-289.html",
+      "pub_date": "2026-01-20",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "PPWR",
+      "title": "25 december 2023. - Wet tot wijziging van de wet van 4 mei 2016 inzake het hergebruik van overheidsinformatie. - Duitse vertaling, bl. 2958.",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-01-20&lg_txt=n&caller=sum&s_editie=1&2025009644=2&numac_search=2025009644&view_numac=",
+      "pub_date": "2026-01-20",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "20-01-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "20-01-2026",
+      "relevant": 1,
+      "total": 13,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "20-01-2026",
+      "relevant": 1,
+      "total": 37,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "20-01-2026",
+      "relevant": 2,
+      "total": 154,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "20-01-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "20-01-2026",
+      "relevant": 1,
+      "total": 26,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-01-20",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-01-20",
+      "relevant": 0,
+      "total": 10,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-01-20",
+      "relevant": 0,
+      "total": 9,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

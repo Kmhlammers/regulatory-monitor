@@ -1,0 +1,141 @@
+{
+  "kind": "daily",
+  "id": "2026-06-08",
+  "label": "8 juni 2026",
+  "from": "2026-06-08",
+  "to": "2026-06-08",
+  "generated_at": "2026-09-03T13:18:50+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Beslisnota bij Kamerbrief TPI en dierproeven",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1252608.html",
+      "pub_date": "2026-06-08",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Dierproeven; Brief regering; Transitie Proefdiervrije Innovatie (TPI) en dierproeven",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-32336-173.html",
+      "pub_date": "2026-06-08",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Wijziging van de Boeken 6 en 7 van het Burgerlijk Wetboek en de Overgangswet nieuw Burgerlijk Wetboek ter implementatie van Richtlijn (EU) 2024/2853 van het Europees Parlement en de Raad van 23 oktober 2024 inzake aansprakelijkheid voor gebrekkige producten en tot intrekking van Richtlijn 85/374/EEG van de Raad (Implementatiewet richtlijn herziening productaansprakelijkheid); Verslag (initiatief)wetsvoorstel (nader); Verslag",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36906-5.html",
+      "pub_date": "2026-06-08",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "ZoDoende 2024 Jaaroverzicht dierproeven en proefdieren ",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1252605.html",
+      "pub_date": "2026-06-08",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "EU-voorstellen: Omnibus I (CSRD & CSDDD) COM (2025) 80 en COM (2025) 81; Verslag van een rapporteur; Tussentijds verslag van de rapporteurs over de implementatie van de Corporate Sustainability Due Diligence Directive (CSDDD)/Omnibus I",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36712-11.html",
+      "pub_date": "2026-06-08",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Medical devices",
+      "title": "18 mei 2026. - Ministerieel besluit tot wijziging van hoofd-stuk \"G. Bloedvatenheelkunde\" van de lijst, gevoegd als bijlage 1 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de procedures, termijnen en voorwaarden inzake de tegemoetk",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-06-08&lg_txt=n&caller=sum&s_editie=1&2026003775=30&numac_search=2026003775&view_numac=",
+      "pub_date": "2026-06-08",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Commission Implementing Regulation (EU) 2026/1200 of 5 June 2026 amending Implementing Regulation (EU) 2015/2447 as regards the rules on the implementation of the temporary EUR 3 customs duty on distance sales of imported goods in a consignment with an intrinsic value not exceeding EUR 150",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1200",
+      "pub_date": "2026-06-08",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "08-06-2026",
+      "relevant": 0,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "08-06-2026",
+      "relevant": 0,
+      "total": 23,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "08-06-2026",
+      "relevant": 0,
+      "total": 42,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "08-06-2026",
+      "relevant": 5,
+      "total": 152,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "08-06-2026",
+      "relevant": 0,
+      "total": 3,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "08-06-2026",
+      "relevant": 1,
+      "total": 40,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-06-08",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-06-08",
+      "relevant": 1,
+      "total": 10,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-06-08",
+      "relevant": 0,
+      "total": 85,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

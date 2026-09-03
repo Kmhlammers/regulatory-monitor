@@ -1,0 +1,141 @@
+{
+  "kind": "daily",
+  "id": "2026-01-26",
+  "label": "26 januari 2026",
+  "from": "2026-01-26",
+  "to": "2026-01-26",
+  "generated_at": "2026-09-03T12:46:57+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Medical devices",
+      "title": "Toezichtsverslagen AIVD en MIVD; Verslag van een commissiedebat; Verslag van een commissiedebat, gehouden op 17 december 2025, over IVD-aangelegenheden",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-29924-290.html",
+      "pub_date": "2026-01-26",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Beslisnota bij Uitwerking van de motie van het lid Tony van Dijck over de nationale kop ten aanzien van etikettering uit het Warenwetbesluit informatie levensmiddelen schrappen (Kamerstuk 36800-IX-9)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1232785.html",
+      "pub_date": "2026-01-26",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Stimulering duurzame energieproductie; Brief regering; Handhavingsbesluit met betrekking tot de duurzaamheid van houtpellets uit Maleisië",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-31239-443.html",
+      "pub_date": "2026-01-26",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Handhavingsbesluit duurzaamheid houtpellets uit Maleisië",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1232766.html",
+      "pub_date": "2026-01-26",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "NEa onderzoek duurzaamheid houtpellets Maleisië",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1232767.html",
+      "pub_date": "2026-01-26",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Beslisnota bij Kamerbrief Handhavingsbesluit met betrekking tot de duurzaamheid van houtpellets uit Maleisië",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1232769.html",
+      "pub_date": "2026-01-26",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Vaststelling van de begrotingsstaat van het Ministerie van Financiën (IXB) en de begrotingsstaat van Nationale Schuld (IXA) voor het jaar 2026; Brief regering; Uitwerking van de motie van het lid Tony van Dijck over de nationale kop ten aanzien van etikettering uit het Warenwetbesluit informatie levensmiddelen schrappen (Kamerstuk 36800-IX-9)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36800-IX-42.html",
+      "pub_date": "2026-01-26",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "26-01-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "26-01-2026",
+      "relevant": 0,
+      "total": 19,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "26-01-2026",
+      "relevant": 0,
+      "total": 56,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "26-01-2026",
+      "relevant": 7,
+      "total": 162,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "26-01-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "26-01-2026",
+      "relevant": 0,
+      "total": 30,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-01-26",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-01-26",
+      "relevant": 0,
+      "total": 14,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-01-26",
+      "relevant": 0,
+      "total": 109,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

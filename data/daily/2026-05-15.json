@@ -1,0 +1,117 @@
+{
+  "kind": "daily",
+  "id": "2026-05-15",
+  "label": "15 mei 2026",
+  "from": "2026-05-15",
+  "to": "2026-05-15",
+  "generated_at": "2026-09-03T13:13:50+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "Medical devices",
+      "title": "Mededeling van de Minister van Volksgezondheid, Welzijn en Sport van 29 april 2026, houdende verlening van een ontheffing op grond van de Wet medische hulpmiddelen",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-17537.html",
+      "pub_date": "2026-05-15",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "Medical devices",
+      "title": "Mededeling van de Minister van Volksgezondheid, Welzijn en Sport van 29 april 2026, houdende verlening van een ontheffing op grond van de Wet medische hulpmiddelen",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-17538.html",
+      "pub_date": "2026-05-15",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Voorstel van wet van de leden Klaver en Ouwehand tot wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met de invoering van een vuurwerkverbod voor consumenten (Wet veilige jaarwisseling); Brief regering; Ontwerpbesluit houdende vaststelling van het tijdstip van inwerkingtreding van de Wet veilige jaarwisseling",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35386-41.html",
+      "pub_date": "2026-05-15",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Voorstel van wet van de leden Klaver en Ouwehand tot wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met de invoering van een vuurwerkverbod voor consumenten (Wet veilige jaarwisseling); Brief regering; Nadeelcompensatieregeling vuurwerkbedrijven Wet veilige jaarwisseling",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35386-42.html",
+      "pub_date": "2026-05-15",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "15-05-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "15-05-2026",
+      "relevant": 2,
+      "total": 24,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "15-05-2026",
+      "relevant": 0,
+      "total": 58,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "15-05-2026",
+      "relevant": 2,
+      "total": 153,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "15-05-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "15-05-2026",
+      "relevant": 0,
+      "total": 24,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-05-15",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-05-15",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-05-15",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

@@ -1,0 +1,109 @@
+{
+  "kind": "daily",
+  "id": "2026-03-05",
+  "label": "5 maart 2026",
+  "from": "2026-03-05",
+  "to": "2026-03-05",
+  "generated_at": "2026-09-03T12:54:50+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Dienst/agentschap",
+      "topic": "General product safety",
+      "title": "Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister van Volksgezondheid, Welzijn en Sport van 23 februari 2026 tot vaststelling van het Specifiek interventiebeleid NVWA voedselveiligheid bij horeca, ambachtelijke productie, retail en instellingen (IB03-SPEC 37, versie 11)",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-8641.html",
+      "pub_date": "2026-03-05",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Digitaal pakket van de Europese Commissie COM(2025)835, COM(2025)836, COM(2025)837, COM(2025)838; Brief aan de Europese Commissie met vragen over de Omnibus Digitaal, Omnibus AI en Data Unie Strategie",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36890-G.html",
+      "pub_date": "2026-03-05",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Speelgoed",
+      "title": "Uitstel beantwoording vragen van de leden Beckerman, Jimmy Dijk en Dobbe over de berichten ‘Laboratoria vinden nog veel meer asbest in speelgoed, ook in “magisch” speelzand’ en ‘Asbest in speelzand voor kinderen: “Dit is echt heel ernstig”’",
+      "url": "https://zoek.officielebekendmakingen.nl/ah-tk-20252026-1226.html",
+      "pub_date": "2026-03-05",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "05-03-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "05-03-2026",
+      "relevant": 0,
+      "total": 19,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "05-03-2026",
+      "relevant": 1,
+      "total": 33,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "05-03-2026",
+      "relevant": 2,
+      "total": 92,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "05-03-2026",
+      "relevant": 0,
+      "total": 7,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "05-03-2026",
+      "relevant": 0,
+      "total": 36,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-03-05",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-03-05",
+      "relevant": 0,
+      "total": 24,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-03-05",
+      "relevant": 0,
+      "total": 9,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

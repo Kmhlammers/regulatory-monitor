@@ -1,0 +1,133 @@
+{
+  "kind": "daily",
+  "id": "2026-04-16",
+  "label": "16 april 2026",
+  "from": "2026-04-16",
+  "to": "2026-04-16",
+  "generated_at": "2026-09-03T13:03:44+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Dienst/agentschap",
+      "topic": "General product safety",
+      "title": "Samenwerkingsafspraken tussen de waterschappen en de Nederlandse Voedsel- en Warenautoriteit",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-14274.html",
+      "pub_date": "2026-04-16",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Digitaal pakket van de Europese Commissie COM(2025)835, COM(2025)836, COM(2025)837, COM(2025)838; Verslag van een mondeling overleg over het parlementair behandelvoorbehoud bij de Omnibus Digitaal COM(2025)837 en Omnibus AI COM(2025)836",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36890-Q.html",
+      "pub_date": "2026-04-16",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie; Brief regering; Reactie op verzoek commissie over herziening REACH-verordening (Kamerstuk 34463-9)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-22112-4311.html",
+      "pub_date": "2026-04-16",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Integrale visie op de woningmarkt; Motie (gewijzigd/nader); Gewijzigde motie van het lid Nobel over onderzoeken hoe strenger handhaven op afschaffing van lokale duurzaamheidseisen kan bijdragen aan hogere en uniformere duurzaamheidsambities (t.v.v. 32847-1438)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-32847-1444.html",
+      "pub_date": "2026-04-16",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Beslisnota bij Kamerbrief met Reactie op verzoek commissie over herziening REACH-verordening (Kamerstuk 34463-9)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1244138.html",
+      "pub_date": "2026-04-16",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Elektrische apparaten",
+      "title": "Commission Recommendation (EU) 2026/839 of 11 March 2026 setting out guidelines for the design of cost-benefit methodologies for the application of the energy efficiency first principle pursuant to Article 3(6) of Directive (EU) 2023/1791 of the European Parliament and of the Council",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:839",
+      "pub_date": "2026-04-16",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "16-04-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "16-04-2026",
+      "relevant": 0,
+      "total": 19,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "16-04-2026",
+      "relevant": 1,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "16-04-2026",
+      "relevant": 4,
+      "total": 193,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "16-04-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "16-04-2026",
+      "relevant": 0,
+      "total": 36,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-04-16",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-04-16",
+      "relevant": 1,
+      "total": 83,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-04-16",
+      "relevant": 0,
+      "total": 10,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

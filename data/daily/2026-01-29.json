@@ -1,0 +1,133 @@
+{
+  "kind": "daily",
+  "id": "2026-01-29",
+  "label": "29 januari 2026",
+  "from": "2026-01-29",
+  "to": "2026-01-29",
+  "generated_at": "2026-09-03T12:47:52+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Vaststelling van de begrotingsstaten van het Ministerie van Klimaat en Groene Groei (XXIII) voor het jaar 2026; Brief regering; Jaarplan 2026 Staatstoezicht op de Mijnen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36800-XXIII-9.html",
+      "pub_date": "2026-01-29",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Medical devices",
+      "title": "Wijziging van de Wet medische hulpmiddelen in verband met de uitvoering van Verordening (EU) 2024/1860 betreffende de verplichting tot informeren in geval van onderbreking of stopzetting van de levering; Blanco verslag",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36759-B.html",
+      "pub_date": "2026-01-29",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Jaarplan Staatstoezicht op de Mijnen 2026",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1233442.html",
+      "pub_date": "2026-01-29",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Beslisnota bij Kamerbrief over Jaarplan 2026 Staatstoezicht op de Mijnen",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1233443.html",
+      "pub_date": "2026-01-29",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Medical devices",
+      "title": "11 december 2025. - Ministerieel besluit tot wijziging van hoofdstuk \"L. Orthopedie en traumatologie\" van de lijst en van de nominatieve lijsten, gevoegd als bijlagen 1 en 2 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de procedur",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-01-29&lg_txt=n&caller=sum&s_editie=1&2025009630=1&numac_search=2025009630&view_numac=",
+      "pub_date": "2026-01-29",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Speelgoed",
+      "title": "Commission Directive (EU) 2026/192 of 28 January 2026 amending Appendix A of Annex II to Directive 2009/48/EC of the European Parliament and of the Council on the safety of toys, as regards cobalt",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:192",
+      "pub_date": "2026-01-29",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "29-01-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "29-01-2026",
+      "relevant": 0,
+      "total": 18,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "29-01-2026",
+      "relevant": 0,
+      "total": 29,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "29-01-2026",
+      "relevant": 4,
+      "total": 247,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "29-01-2026",
+      "relevant": 0,
+      "total": 6,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "29-01-2026",
+      "relevant": 1,
+      "total": 12,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-01-29",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-01-29",
+      "relevant": 1,
+      "total": 21,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-01-29",
+      "relevant": 0,
+      "total": 12,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

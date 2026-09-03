@@ -1,0 +1,117 @@
+{
+  "kind": "daily",
+  "id": "2026-07-24",
+  "label": "24 juli 2026",
+  "from": "2026-07-24",
+  "to": "2026-07-24",
+  "generated_at": "2026-09-03T13:30:19+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "General product safety",
+      "title": "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 16 juli 2026, nr. 2026-0000247143, tot aanwijzing van DNV Business Assurance B.V. als conformiteitsbeoordelingsinstantie inzake accreditatienorm NEN-EN-ISO/IEC 17024:2012",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-26451.html",
+      "pub_date": "2026-07-24",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Dienst/agentschap",
+      "topic": "General product safety",
+      "title": "Beleidsregel van de Inspecteur-Generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Minister en de Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Minister en de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 16 juli 2026, NVWA/2026/010054479 over het prioriteringsbeleid bij de behandeling van handhavingsverzoeken (Beleidsregel prioriteringsbeleid handhavingsverzoeken NVWA 2026)",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-26483.html",
+      "pub_date": "2026-07-24",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Duurzaamheid",
+      "title": "Regulation (EU) 2026/1744 of the European Parliament and of the Council of 8 July 2026 amending Regulations (EU) 2024/1689, (EU) 2018/1139 and (EU) 2023/1230 as regards the simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI) (Text with EEA relevance)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1744",
+      "pub_date": "2026-07-24",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "General product safety",
+      "title": "Regulation (EU) 2026/1738 of the European Parliament and of the Council of 8 July 2026 on circularity requirements for vehicle design and on management of end-of-life vehicles, amending Regulations (EU) No 168/2013, (EU) 2018/858, (EU) 2019/1020 and (EU) 2023/1542 and repealing Directives 2000/53/EC and 2005/64/EC (Text with EEA relevance)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1738",
+      "pub_date": "2026-07-24",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "24-07-2026",
+      "relevant": 0,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "24-07-2026",
+      "relevant": 1,
+      "total": 18,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "24-07-2026",
+      "relevant": 1,
+      "total": 28,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "24-07-2026",
+      "relevant": 0,
+      "total": 84,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "24-07-2026",
+      "relevant": 0,
+      "total": 4,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "24-07-2026",
+      "relevant": 0,
+      "total": 21,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-07-24",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-07-24",
+      "relevant": 2,
+      "total": 23,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-07-24",
+      "relevant": 0,
+      "total": 32,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

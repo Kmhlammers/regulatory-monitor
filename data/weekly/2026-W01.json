@@ -1,0 +1,133 @@
+{
+  "kind": "weekly",
+  "id": "2026-W01",
+  "label": "week 1 · 2026",
+  "from": "2025-12-29",
+  "to": "2026-01-04",
+  "generated_at": "2026-09-03T13:34:20+00:00",
+  "publications": [
+    {
+      "source": "E-justice België (Justel)",
+      "topic": "PPWR",
+      "title": "4 december 2025. - Besluit van de Waalse Regering tot wijziging van het besluit van de Waalse Regering van 3 april 2014 tot erkenning, de uitoefeningsvoorwaarden en compensatie van de verenigingen zonder winstoogmerk en de ondernemingen uit de social",
+      "url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=nl&caller=list&numac_search=2025009812",
+      "pub_date": "2025-12-29",
+      "week": "2026-W01"
+    }
+  ],
+  "counts": [
+    {
+      "label": "COM-documenten",
+      "date_str": "2025-12-29 t/m 2026-01-04",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "JOIN-documenten",
+      "date_str": "2025-12-29 t/m 2026-01-04",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "SEC/SWD",
+      "date_str": "2025-12-29 t/m 2026-01-04",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "ROW",
+      "date_str": "2025-12-29 t/m 2026-01-04",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "E-justice België (Justel)",
+      "date_str": "29-12-2025 t/m 04-01-2026",
+      "relevant": 1,
+      "total": 110,
+      "api_error": false,
+      "note": "Justel-index loopt enkele dagen achter op het Belgisch Staatsblad — draai zo nodig ook de voorgaande week"
+    },
+    {
+      "label": "Nieuws en media | NVWA",
+      "date_str": "2025-12-29 t/m 2026-01-04",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Documenten | NVWA",
+      "date_str": "2025-12-29 t/m 2026-01-04",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Nieuws | Nederlandse Arbeidsinspectie",
+      "date_str": "2025-12-29 t/m 2026-01-04",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Publicaties | Nederlandse Arbeidsinspectie",
+      "date_str": "2025-12-29 t/m 2026-01-04",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Nieuws | ACM",
+      "date_str": "2025-12-29 t/m 2026-01-04",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Publicaties | Federaal Agentschap voor de veiligheid van de voedselketen",
+      "date_str": "2025-12-29 t/m 2026-01-04",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:129:8: mismatched tag"
+    },
+    {
+      "label": "Nieuws | Federaal Agentschap voor de veiligheid van de voedselketen",
+      "date_str": "2025-12-29 t/m 2026-01-04",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:128:8: mismatched tag"
+    },
+    {
+      "label": "Nieuws | FOD Volksgezondheid",
+      "date_str": "2025-12-29 t/m 2026-01-04",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "News - ECHA",
+      "date_str": "2025-12-29 t/m 2026-01-04",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "403 Client Error: Forbidden for url: https://echa.europa.eu/nl/rss/news"
+    }
+  ],
+  "antidumping": []
+}

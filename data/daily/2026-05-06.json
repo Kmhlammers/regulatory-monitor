@@ -1,0 +1,141 @@
+{
+  "kind": "daily",
+  "id": "2026-05-06",
+  "label": "6 mei 2026",
+  "from": "2026-05-06",
+  "to": "2026-05-06",
+  "generated_at": "2026-09-03T13:11:44+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Stand van zaken gedeeltelijk PFAS-lozingsverbod",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35334-444.html",
+      "pub_date": "2026-05-06",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Medical devices",
+      "title": "Vaststelling van de begrotingsstaten van het Ministerie van Defensie (X) voor het jaar 2026; Beleidsreactie IVD-veiligheidsadvies “Onnodig letsel”",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36800-X-76.html",
+      "pub_date": "2026-05-06",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Medical devices",
+      "title": "22 april 2026. - Ministerieel besluit tot wijziging van de lijst, gevoegd als bijlage 1 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de procedures, termijnen en voorwaarden inzake de tegemoetkoming van de verplichte verzekering vo",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-05-06&lg_txt=n&caller=sum&s_editie=1&2026003130=7&numac_search=2026003130&view_numac=",
+      "pub_date": "2026-05-06",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "PPWR",
+      "title": "Commission Delegated Decision (EU) 2026/429 of 25 February 2026 on supplementing Regulation (EU) 2025/40 of the European Parliament and of the Council by exempting certain economic operators that use pallet wrappings and straps from the 100 % reuse requirements of these packaging formats",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:429",
+      "pub_date": "2026-05-06",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "Duurzaamheid",
+      "title": "P10_TA(2025)0324 – Certain corporate sustainability reporting and due diligence requirements – European Parliament legislative resolution of 16 December 2025 on the proposal for a directive of the European Parliament and of the Council amending Directives 2006/43/EC, 2013/34/EU, (EU) 2022/2464 and (EU) 2024/1760 as regards certain corporate sustainability reporting and due diligence requirements (COM(2025)0081 – C10-0037/2025 – 2025/0045(COD)) (Ordinary legislative procedure: first reading)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:2171",
+      "pub_date": "2026-05-06",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "EUDR",
+      "title": "P10_TA(2025)0331 – Deforestation Regulation: certain obligations of operators and traders – European Parliament legislative resolution of 17 December 2025 on the proposal for a regulation of the European Parliament and of the Council amending Regulation (EU) 2023/1115 as regards certain obligations of operators and traders (COM(2025)0652 – C10-0263/2025 – 2025/0329(COD)) (Ordinary legislative procedure: first reading)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:2175",
+      "pub_date": "2026-05-06",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "REACH",
+      "title": "Summary of European Commission Decisions on authorisations for the placing on the market for the use and/or for use of substances listed in Annex XIV to Regulation (EC) No 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (Published pursuant to Article 64(9) of Regulation (EC) No 1907/2006)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:2440",
+      "pub_date": "2026-05-06",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "06-05-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "06-05-2026",
+      "relevant": 0,
+      "total": 12,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "06-05-2026",
+      "relevant": 0,
+      "total": 64,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "06-05-2026",
+      "relevant": 2,
+      "total": 84,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "06-05-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "06-05-2026",
+      "relevant": 1,
+      "total": 14,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-05-06",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-05-06",
+      "relevant": 1,
+      "total": 12,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-05-06",
+      "relevant": 3,
+      "total": 42,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

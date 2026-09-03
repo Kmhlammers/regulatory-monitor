@@ -1,0 +1,125 @@
+{
+  "kind": "daily",
+  "id": "2026-07-23",
+  "label": "23 juli 2026",
+  "from": "2026-07-23",
+  "to": "2026-07-23",
+  "generated_at": "2026-09-03T13:30:01+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Stemmingen moties Food and Feed Safety Simplification Omnibus",
+      "url": "https://zoek.officielebekendmakingen.nl/h-tk-20252026-70-13.html",
+      "pub_date": "2026-07-23",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Maatregelen verkeersveiligheid; Brief regering; Halfjaarlijkse rapportage markttoezichts- en handhavingsacties elektrische fietsen en evaluatie helmplicht snorfiets",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-29398-1251.html",
+      "pub_date": "2026-07-23",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Non paper REACH",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1263785.html",
+      "pub_date": "2026-07-23",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Maatschappelijk verantwoord ondernemen; Brief regering; Jaarlijkse overzicht exportkredietverzekering (ekv) 2025",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1263805.html",
+      "pub_date": "2026-07-23",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Beslisnota bij Kamerbrief over halfjaarlijkse rapportage markttoezichts- en handhavingsacties elektrische fietsen en evaluatie helmplicht snorfiets",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1263813.html",
+      "pub_date": "2026-07-23",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "23-07-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "23-07-2026",
+      "relevant": 0,
+      "total": 19,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "23-07-2026",
+      "relevant": 0,
+      "total": 33,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "23-07-2026",
+      "relevant": 5,
+      "total": 210,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "23-07-2026",
+      "relevant": 0,
+      "total": 4,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "23-07-2026",
+      "relevant": 0,
+      "total": 20,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-07-23",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-07-23",
+      "relevant": 0,
+      "total": 61,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-07-23",
+      "relevant": 0,
+      "total": 8,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

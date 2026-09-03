@@ -1,0 +1,157 @@
+{
+  "kind": "weekly",
+  "id": "2026-W16",
+  "label": "week 16 · 2026",
+  "from": "2026-04-13",
+  "to": "2026-04-19",
+  "generated_at": "2026-09-03T13:38:15+00:00",
+  "publications": [
+    {
+      "source": "COM-documenten",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Proposal for a COUNCIL DECISION on the position to be taken on behalf of the European Union within the Technical Committees on Customs Valuation and on Rules of Origin, established under the auspices of the World Customs Organization, with regard to the adoption of advisory opinions, commentaries, explanatory notes, case studies, studies and similar acts concerning the valuation of imported goods for customs purposes under the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade 1994, and the adoption of advisory opinions, information and advice and similar acts concerning the determination of the origin of goods under the Agreement on Rules of Origin",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0154",
+      "pub_date": "2026-04-14",
+      "week": "2026-W16"
+    },
+    {
+      "source": "COM-documenten",
+      "topic": "PPWR",
+      "title": "REPORT FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT AND THE COUNCIL on Member States’ reporting on single-use plastic (SUP) items and on fishing gear under Directive (EU) 2019/904​",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026DC0160",
+      "pub_date": "2026-04-16",
+      "week": "2026-W16"
+    },
+    {
+      "source": "E-justice België (Justel)",
+      "topic": "Douane & Handelsbeleid",
+      "title": "8 april 2026. - Ministerieel besluit tot vastlegging van de categorieën van de begunstigden die kunnen genieten van een verlaagd tarief en de bijhorende modaliteiten in uitvoering van artikel 46 van het koninklijk besluit van 1 februari 2000 tot vast",
+      "url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=nl&caller=list&numac_search=2026002774",
+      "pub_date": "2026-04-13",
+      "week": "2026-W16"
+    },
+    {
+      "source": "E-justice België (Justel)",
+      "topic": "Duurzaamheid",
+      "title": "2 december 2024. - Wet betreffende de openbaarmaking van duurzaamheidsinformatie door bepaalde vennootschappen en groepen en de assurance van duurzaamheidsinformatie en houdende diverse bepalingen. - Officieuze coördinatie in het Duits",
+      "url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=nl&caller=list&numac_search=2026002484",
+      "pub_date": "2026-04-15",
+      "week": "2026-W16"
+    }
+  ],
+  "counts": [
+    {
+      "label": "COM-documenten",
+      "date_str": "2026-04-13 t/m 2026-04-19",
+      "relevant": 2,
+      "total": 5,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "JOIN-documenten",
+      "date_str": "2026-04-13 t/m 2026-04-19",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "SEC/SWD",
+      "date_str": "2026-04-13 t/m 2026-04-19",
+      "relevant": 0,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "ROW",
+      "date_str": "2026-04-13 t/m 2026-04-19",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "E-justice België (Justel)",
+      "date_str": "13-04-2026 t/m 19-04-2026",
+      "relevant": 2,
+      "total": 32,
+      "api_error": false,
+      "note": "6 vertaal-herpublicaties overgeslagen. Justel-index loopt enkele dagen achter op het Belgisch Staatsblad — draai zo nodig ook de voorgaande week"
+    },
+    {
+      "label": "Nieuws en media | NVWA",
+      "date_str": "2026-04-13 t/m 2026-04-19",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Documenten | NVWA",
+      "date_str": "2026-04-13 t/m 2026-04-19",
+      "relevant": 0,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Nieuws | Nederlandse Arbeidsinspectie",
+      "date_str": "2026-04-13 t/m 2026-04-19",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Publicaties | Nederlandse Arbeidsinspectie",
+      "date_str": "2026-04-13 t/m 2026-04-19",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Nieuws | ACM",
+      "date_str": "2026-04-13 t/m 2026-04-19",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Publicaties | Federaal Agentschap voor de veiligheid van de voedselketen",
+      "date_str": "2026-04-13 t/m 2026-04-19",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:129:8: mismatched tag"
+    },
+    {
+      "label": "Nieuws | Federaal Agentschap voor de veiligheid van de voedselketen",
+      "date_str": "2026-04-13 t/m 2026-04-19",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:128:8: mismatched tag"
+    },
+    {
+      "label": "Nieuws | FOD Volksgezondheid",
+      "date_str": "2026-04-13 t/m 2026-04-19",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "News - ECHA",
+      "date_str": "2026-04-13 t/m 2026-04-19",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "403 Client Error: Forbidden for url: https://echa.europa.eu/nl/rss/news"
+    }
+  ],
+  "antidumping": []
+}

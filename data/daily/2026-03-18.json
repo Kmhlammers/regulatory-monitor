@@ -1,0 +1,173 @@
+{
+  "kind": "daily",
+  "id": "2026-03-18",
+  "label": "18 maart 2026",
+  "from": "2026-03-18",
+  "to": "2026-03-18",
+  "generated_at": "2026-09-03T12:57:30+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Motie; Motie van het lid Chris Jansen over aanvullende, objectieve bewijsmiddelen toestaan voor de wintergarten",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35334-435.html",
+      "pub_date": "2026-03-18",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Motie; Motie van het lid Grinwis over een analyse en aanpak om de vergunningverlening in Nederland weer op gang te brengen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35334-436.html",
+      "pub_date": "2026-03-18",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Motie; Motie van het lid Van der Plas over geen generieke kortingen op productierechten of dieraantallen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35334-430.html",
+      "pub_date": "2026-03-18",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Motie; Motie van het lid Flach c.s. over het overleg met de waterschappen afronden en de lijst van NV-gebieden actualiseren",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35334-437.html",
+      "pub_date": "2026-03-18",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Motie; Motie van het lid Van der Plas over uitspreken dat stikstofreductie niet gelijkgesteld kan worden aan natuurherstel",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35334-431.html",
+      "pub_date": "2026-03-18",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Motie; Motie van het lid Flach over meerjarige boomkwekerijgewassen onder het zevende actieprogramma Nitraatrichtlijn opnemen als rustgewas",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35334-438.html",
+      "pub_date": "2026-03-18",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Motie; Motie van het lid Bromet over een maatregelenpakket voor de 2030-doelen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35334-432.html",
+      "pub_date": "2026-03-18",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Motie; Motie van het lid Goudzwaard over in overleg treden met provincies en gemeentes over het beoordelingskader voor RENURE-vergunningverlening",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35334-439.html",
+      "pub_date": "2026-03-18",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Voorstel van wet van de leden Klaver en Ouwehand tot wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met de invoering van een vuurwerkverbod voor consumenten (Wet veilige jaarwisseling); Brief regering; Planning brief nadeelcompensatie en relatie hiervan tot het Besluit veilige jaarwisseling",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35386-37.html",
+      "pub_date": "2026-03-18",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Motie; Motie van het lid Bromet over de natuuropgaven in samenhang bezien",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35334-433.html",
+      "pub_date": "2026-03-18",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Motie; Motie van het lid Kostic over de conclusies van de ecologische evaluatie van agrarisch natuurbeheer doorvertalen in beleid",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35334-434.html",
+      "pub_date": "2026-03-18",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "18-03-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "18-03-2026",
+      "relevant": 0,
+      "total": 14,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "18-03-2026",
+      "relevant": 0,
+      "total": 37,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "18-03-2026",
+      "relevant": 11,
+      "total": 170,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "18-03-2026",
+      "relevant": 0,
+      "total": 3,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "18-03-2026",
+      "relevant": 0,
+      "total": 28,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-03-18",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-03-18",
+      "relevant": 0,
+      "total": 20,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-03-18",
+      "relevant": 0,
+      "total": 10,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

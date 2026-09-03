@@ -1,0 +1,165 @@
+{
+  "kind": "weekly",
+  "id": "2026-W06",
+  "label": "week 6 · 2026",
+  "from": "2026-02-02",
+  "to": "2026-02-08",
+  "generated_at": "2026-09-03T13:35:42+00:00",
+  "publications": [
+    {
+      "source": "COM-documenten",
+      "topic": "POPs",
+      "title": "Proposal for a COUNCIL DECISION on the submission, on behalf of the European Union, of a proposal for the listing of TBPH in Annex A or Annex B to the Stockholm Convention on Persistent Organic Pollutants",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0051",
+      "pub_date": "2026-02-04",
+      "week": "2026-W06"
+    },
+    {
+      "source": "E-justice België (Justel)",
+      "topic": "PPWR",
+      "title": "8 januari 2026. - Besluit van de Waalse Regering tot uitvoering van het decreet van 24 november 2022 betreffende de verspreiding en het hergebruik van de overheidsinformatie voor de aangelegenheden geregeld krachtens artikel 138 van de Grondwet (\"Ope",
+      "url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=nl&caller=list&numac_search=2026000726",
+      "pub_date": "2026-02-06",
+      "week": "2026-W06"
+    },
+    {
+      "source": "E-justice België (Justel)",
+      "topic": "PPWR",
+      "title": "8 januari 2026. - Besluit van de Waalse Regering tot uitvoering van het decreet van 24 november 2022 betreffende de verspreiding en het hergebruik van de overheidsinformatie (\"Open Data\")",
+      "url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=nl&caller=list&numac_search=2026000912",
+      "pub_date": "2026-02-06",
+      "week": "2026-W06"
+    },
+    {
+      "source": "E-justice België (Justel)",
+      "topic": "REACH",
+      "title": "18 december 2025. - Besluit van de Waalse Regering tot wijziging van het koninklijk besluit van 29 mei 2013 betreffende de bescherming van proefdieren en het koninklijk besluit van 30 november 2001 houdende verbod op sommige dierproeven",
+      "url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=nl&caller=list&numac_search=2026000678",
+      "pub_date": "2026-02-02",
+      "week": "2026-W06"
+    },
+    {
+      "source": "E-justice België (Justel)",
+      "topic": "Medical devices",
+      "title": "14 januari 2026. - Ministerieel besluit tot wijziging van hoofdstuk \"F. Heelkunde op de thorax en cardiologie\" van de lijst en van de nominatieve lijsten, gevoegd als bijlagen 1 en 2 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de",
+      "url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=nl&caller=list&numac_search=2026000741",
+      "pub_date": "2026-02-05",
+      "week": "2026-W06"
+    }
+  ],
+  "counts": [
+    {
+      "label": "COM-documenten",
+      "date_str": "2026-02-02 t/m 2026-02-08",
+      "relevant": 1,
+      "total": 7,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "JOIN-documenten",
+      "date_str": "2026-02-02 t/m 2026-02-08",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "SEC/SWD",
+      "date_str": "2026-02-02 t/m 2026-02-08",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "ROW",
+      "date_str": "2026-02-02 t/m 2026-02-08",
+      "relevant": 0,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "E-justice België (Justel)",
+      "date_str": "02-02-2026 t/m 08-02-2026",
+      "relevant": 4,
+      "total": 72,
+      "api_error": false,
+      "note": "10 vertaal-herpublicaties overgeslagen. Justel-index loopt enkele dagen achter op het Belgisch Staatsblad — draai zo nodig ook de voorgaande week"
+    },
+    {
+      "label": "Nieuws en media | NVWA",
+      "date_str": "2026-02-02 t/m 2026-02-08",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Documenten | NVWA",
+      "date_str": "2026-02-02 t/m 2026-02-08",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Nieuws | Nederlandse Arbeidsinspectie",
+      "date_str": "2026-02-02 t/m 2026-02-08",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Publicaties | Nederlandse Arbeidsinspectie",
+      "date_str": "2026-02-02 t/m 2026-02-08",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Nieuws | ACM",
+      "date_str": "2026-02-02 t/m 2026-02-08",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Publicaties | Federaal Agentschap voor de veiligheid van de voedselketen",
+      "date_str": "2026-02-02 t/m 2026-02-08",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:129:8: mismatched tag"
+    },
+    {
+      "label": "Nieuws | Federaal Agentschap voor de veiligheid van de voedselketen",
+      "date_str": "2026-02-02 t/m 2026-02-08",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:128:8: mismatched tag"
+    },
+    {
+      "label": "Nieuws | FOD Volksgezondheid",
+      "date_str": "2026-02-02 t/m 2026-02-08",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "News - ECHA",
+      "date_str": "2026-02-02 t/m 2026-02-08",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "403 Client Error: Forbidden for url: https://echa.europa.eu/nl/rss/news"
+    }
+  ],
+  "antidumping": []
+}

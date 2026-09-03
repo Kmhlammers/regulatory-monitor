@@ -1,0 +1,133 @@
+{
+  "kind": "daily",
+  "id": "2026-05-20",
+  "label": "20 mei 2026",
+  "from": "2026-05-20",
+  "to": "2026-05-20",
+  "generated_at": "2026-09-03T13:14:46+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Dienst/agentschap",
+      "topic": "Duurzaamheid",
+      "title": "Beleidsregel van de Staatssecretaris van Infrastructuur en Waterstaat van 28 april 2026, nr. ILT-2026/19736, over de kwalificatie van verontreinigd papier- en metaalafval in verband met de bestuursrechtelijke handhaving van Verordening (EU) nr. 2024/1157 van het Europees Parlement en Raad van 11 april 2024 betreffende de overbrenging van afvalstoffen",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-18527.html",
+      "pub_date": "2026-05-20",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Onderzoeksrapport SEO 'Beleidsopties gebruik IASP-lidstaatoptie in de CSRD'",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1248512.html",
+      "pub_date": "2026-05-20",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie; Motie (gewijzigd/nader); Gewijzigde motie van de leden Bromet en Kostić over bij de Omnibus Food and Feed voorstellen doen die Nederland in staat stellen om de doelen van de Kaderrichtlijn Water sneller te behalen (t.v.v. 22112-4334)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-22112-4349.html",
+      "pub_date": "2026-05-20",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Beslisnota bij Kamerbrief over kabinetsreactie op onderzoeksrapport IASP-lidstaatoptie in de CSRD",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1248513.html",
+      "pub_date": "2026-05-20",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Wijziging van de Wet toezicht accountantsorganisaties, de Wet op het financieel toezicht, het Burgerlijk Wetboek en enige andere wetten in verband met de implementatie van Richtlijn (EU) 2022/2464 met betrekking tot duurzaamheidsrapportering door ondernemingen (Wet implementatie richtlijn duurzaamheidsrapportering); Brief regering; Kabinetsreactie op onderzoeksrapport IASP- lidstaatoptie in de CSRD",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36678-12.html",
+      "pub_date": "2026-05-20",
+      "week": ""
+    },
+    {
+      "source": "refLex - Chrono",
+      "topic": "REACH",
+      "title": "Koninklijk besluit van 20 mei 2026 tot wijziging van het koninklijk besluit van 23 maart 2020 betreffende de informatie die elke leverancier van een voorwerp moet doen toekomen aan het Europees agentschap voor chemische stoffen",
+      "url": "http://reflex.raadvst-consetat.be/reflex/page=chrono&c=detail_get&d=detail&docid=159272",
+      "pub_date": "2026-05-20",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "20-05-2026",
+      "relevant": 0,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "20-05-2026",
+      "relevant": 0,
+      "total": 22,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "20-05-2026",
+      "relevant": 1,
+      "total": 58,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "20-05-2026",
+      "relevant": 4,
+      "total": 311,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "20-05-2026",
+      "relevant": 1,
+      "total": 2,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "20-05-2026",
+      "relevant": 0,
+      "total": 16,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-05-20",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-05-20",
+      "relevant": 0,
+      "total": 7,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-05-20",
+      "relevant": 0,
+      "total": 22,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

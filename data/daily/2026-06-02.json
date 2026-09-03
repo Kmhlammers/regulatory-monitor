@@ -1,0 +1,125 @@
+{
+  "kind": "daily",
+  "id": "2026-06-02",
+  "label": "2 juni 2026",
+  "from": "2026-06-02",
+  "to": "2026-06-02",
+  "generated_at": "2026-09-03T13:17:34+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Elektrische apparaten",
+      "title": "Beslisnota bij Kamerbrief Besluit van 19 mei 2026 tot wijziging van het Besluit energie vervoer en het Besluit brandstoffen luchtverontreiniging (Stb. 2026, 102) in verband met de implementatie van Richtlijn (EU) 2023/2413 (RED III)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1251584.html",
+      "pub_date": "2026-06-02",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Elektrische apparaten",
+      "title": "Kabinetsaanpak Klimaatbeleid; Brief regering; Besluit van 19 mei 2026 tot wijziging van het Besluit energie vervoer en het Besluit brandstoffen luchtverontreiniging (Stb. 2026, 102) in verband met de implementatie van Richtlijn (EU) 2023/2413 (RED III)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-32813-1563.html",
+      "pub_date": "2026-06-02",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Antwoord op vragen van het lid Zalinyan over de maatschappelijke kosten van PFAS-vervuiling in Europa",
+      "url": "https://zoek.officielebekendmakingen.nl/ah-tk-20252026-2103.html",
+      "pub_date": "2026-06-02",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Antwoord op vragen van het lid Zalinyan over de maatschappelijke kosten van PFAS-vervuiling in Europa",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1251499.html",
+      "pub_date": "2026-06-02",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "REACH",
+      "title": "Commission Regulation (EU) 2026/1168 of 1 June 2026 amending Annex XVII to Regulation (EC) No 1907/2006 of the European Parliament and of the Council as regards synthetic polymer microparticles",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1168",
+      "pub_date": "2026-06-02",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "02-06-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "02-06-2026",
+      "relevant": 0,
+      "total": 18,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "02-06-2026",
+      "relevant": 0,
+      "total": 44,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "02-06-2026",
+      "relevant": 4,
+      "total": 202,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "02-06-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "02-06-2026",
+      "relevant": 0,
+      "total": 24,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-06-02",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-06-02",
+      "relevant": 1,
+      "total": 11,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-06-02",
+      "relevant": 0,
+      "total": 8,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

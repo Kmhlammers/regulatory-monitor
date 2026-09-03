@@ -1,0 +1,93 @@
+{
+  "kind": "daily",
+  "id": "2026-02-13",
+  "label": "13 februari 2026",
+  "from": "2026-02-13",
+  "to": "2026-02-13",
+  "generated_at": "2026-09-03T12:51:01+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Speelgoed",
+      "title": "De berichten ‘Laboratoria vinden nog veel meer asbest in speelgoed, ook in “magisch” speelzand’ en ‘Asbest in speelzand voor kinderen: “Dit is echt heel ernstig”’",
+      "url": "https://zoek.officielebekendmakingen.nl/kv-tk-2026Z03245.html",
+      "pub_date": "2026-02-13",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "13-02-2026",
+      "relevant": 0,
+      "total": 4,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "13-02-2026",
+      "relevant": 0,
+      "total": 10,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "13-02-2026",
+      "relevant": 0,
+      "total": 62,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "13-02-2026",
+      "relevant": 1,
+      "total": 84,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "13-02-2026",
+      "relevant": 0,
+      "total": 8,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "13-02-2026",
+      "relevant": 0,
+      "total": 21,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-02-13",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-02-13",
+      "relevant": 0,
+      "total": 13,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-02-13",
+      "relevant": 0,
+      "total": 5,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

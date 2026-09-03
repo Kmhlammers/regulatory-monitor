@@ -1,0 +1,109 @@
+{
+  "kind": "daily",
+  "id": "2026-06-05",
+  "label": "5 juni 2026",
+  "from": "2026-06-05",
+  "to": "2026-06-05",
+  "generated_at": "2026-09-03T13:18:32+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "EU-voorstel: Gezamenlijk witboek over de gereedheid van de Europese defensie 2030 JOIN(2025)120; Brief van de Europese Commissie inzake beantwoording nadere vragen over het Omnibuspakket voorstellen Defensie Gereedheid 2030",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36741-P.html",
+      "pub_date": "2026-06-05",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Voorstel van wet van de leden Klaver en Ouwehand tot wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met de invoering van een vuurwerkverbod voor consumenten (Wet veilige jaarwisseling); Motie (gewijzigd/nader); Gewijzigde motie van het lid Zwinkels c.s. over een voorwaarde opnemen van lokale binding voor verenigingen en stichtingen die een ontheffing aanvragen (t.v.v. 35386-47)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35386-49.html",
+      "pub_date": "2026-06-05",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Voorstel van wet van de leden Klaver en Ouwehand tot wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met de invoering van een vuurwerkverbod voor consumenten (Wet veilige jaarwisseling); Motie (gewijzigd/nader); Gewijzigde motie van de leden Mathlouti en Zwinkels over bij de verdere uitwerking van het ontheffingsstelsel handhaafbaarheid nadrukkelijk meewegen (t.v.v. 35386-48)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35386-50.html",
+      "pub_date": "2026-06-05",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "05-06-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "05-06-2026",
+      "relevant": 0,
+      "total": 15,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "05-06-2026",
+      "relevant": 0,
+      "total": 52,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "05-06-2026",
+      "relevant": 3,
+      "total": 89,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "05-06-2026",
+      "relevant": 0,
+      "total": 26,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "05-06-2026",
+      "relevant": 0,
+      "total": 32,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-06-05",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-06-05",
+      "relevant": 0,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-06-05",
+      "relevant": 0,
+      "total": 8,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

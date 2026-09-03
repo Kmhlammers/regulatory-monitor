@@ -1,0 +1,165 @@
+{
+  "kind": "weekly",
+  "id": "2026-W26",
+  "label": "week 26 · 2026",
+  "from": "2026-06-22",
+  "to": "2026-06-28",
+  "generated_at": "2026-09-03T13:40:58+00:00",
+  "publications": [
+    {
+      "source": "COM-documenten",
+      "topic": "Elektrische apparaten",
+      "title": "REPORT FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT AND THE COUNCIL Report on the Implementation of Regulation (EU) 2017/1369 setting a framework for energy labelling",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026DC0319",
+      "pub_date": "2026-06-24",
+      "week": "2026-W26"
+    },
+    {
+      "source": "COM-documenten",
+      "topic": "Elektrische apparaten",
+      "title": "Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2017/1369 and Regulation (EU) 2020/740 as regards simplification and better use of digital options for energy and tyre labelling",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026PC0565",
+      "pub_date": "2026-06-24",
+      "week": "2026-W26"
+    },
+    {
+      "source": "SEC/SWD",
+      "topic": "Elektrische apparaten",
+      "title": "COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT REPORT Accompanying the document Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2017/1369 and Regulation (EU) 2020/740 as regards simplification and better use of digital options for energy and tyre labelling (Text with EEA relevance)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026SC0565",
+      "pub_date": "2026-06-24",
+      "week": "2026-W26"
+    },
+    {
+      "source": "SEC/SWD",
+      "topic": "Elektrische apparaten",
+      "title": "COMMISSION STAFF WORKING DOCUMENT EXECUTIVE SUMMARY OF THE IMPACT ASSESSMENT REPORT Accompanying the document Proposal for a Regulation of the European Parliament and of the Council amending Regulation (EU) 2017/1369 and Regulation (EU) 2020/740 as regards simplification and better use of digital options for energy and tyre labelling",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026SC0566",
+      "pub_date": "2026-06-24",
+      "week": "2026-W26"
+    },
+    {
+      "source": "E-justice België (Justel)",
+      "topic": "Elektrische apparaten",
+      "title": "12 juni 2026. - Ministerieel besluit tot wijziging van het ministerieel besluit van 28 december 2018 houdende algemene bepalingen inzake de energieprestatieregelgeving, energieprestatiecertificaten, de certificering van aannemers en installateurs, en",
+      "url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=nl&caller=list&numac_search=2026004567",
+      "pub_date": "2026-06-24",
+      "week": "2026-W26"
+    }
+  ],
+  "counts": [
+    {
+      "label": "COM-documenten",
+      "date_str": "2026-06-22 t/m 2026-06-28",
+      "relevant": 2,
+      "total": 25,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "JOIN-documenten",
+      "date_str": "2026-06-22 t/m 2026-06-28",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "SEC/SWD",
+      "date_str": "2026-06-22 t/m 2026-06-28",
+      "relevant": 2,
+      "total": 22,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "ROW",
+      "date_str": "2026-06-22 t/m 2026-06-28",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "E-justice België (Justel)",
+      "date_str": "22-06-2026 t/m 28-06-2026",
+      "relevant": 1,
+      "total": 61,
+      "api_error": false,
+      "note": "12 vertaal-herpublicaties overgeslagen. Justel-index loopt enkele dagen achter op het Belgisch Staatsblad — draai zo nodig ook de voorgaande week"
+    },
+    {
+      "label": "Nieuws en media | NVWA",
+      "date_str": "2026-06-22 t/m 2026-06-28",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Documenten | NVWA",
+      "date_str": "2026-06-22 t/m 2026-06-28",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Nieuws | Nederlandse Arbeidsinspectie",
+      "date_str": "2026-06-22 t/m 2026-06-28",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Publicaties | Nederlandse Arbeidsinspectie",
+      "date_str": "2026-06-22 t/m 2026-06-28",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Nieuws | ACM",
+      "date_str": "2026-06-22 t/m 2026-06-28",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Publicaties | Federaal Agentschap voor de veiligheid van de voedselketen",
+      "date_str": "2026-06-22 t/m 2026-06-28",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:129:8: mismatched tag"
+    },
+    {
+      "label": "Nieuws | Federaal Agentschap voor de veiligheid van de voedselketen",
+      "date_str": "2026-06-22 t/m 2026-06-28",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:128:8: mismatched tag"
+    },
+    {
+      "label": "Nieuws | FOD Volksgezondheid",
+      "date_str": "2026-06-22 t/m 2026-06-28",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "News - ECHA",
+      "date_str": "2026-06-22 t/m 2026-06-28",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "403 Client Error: Forbidden for url: https://echa.europa.eu/nl/rss/news"
+    }
+  ],
+  "antidumping": []
+}

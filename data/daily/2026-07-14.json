@@ -1,0 +1,101 @@
+{
+  "kind": "daily",
+  "id": "2026-07-14",
+  "label": "14 juli 2026",
+  "from": "2026-07-14",
+  "to": "2026-07-14",
+  "generated_at": "2026-09-03T13:27:54+00:00",
+  "publications": [
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Duurzaamheid",
+      "title": "Commission Implementing Regulation (EU) 2026/1565 of 13 July 2026 amending Implementing Regulation (EU) 2024/3084 as regards the submission of due diligence statements, simplified declarations for micro or small primary operators, contingency arrangements and other measures simplifying the use of the information system",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1565",
+      "pub_date": "2026-07-14",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "General product safety",
+      "title": "Commission Implementing Regulation (EU) 2026/1566 of 13 July 2026 laying down the technical specifications of data requirements and the deadlines for submission of annual metadata and quality reports for the topic ICT usage and e-commerce for the reference year 2027, pursuant to Regulation (EU) 2019/2152 of the European Parliament and of the Council",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1566",
+      "pub_date": "2026-07-14",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "14-07-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "14-07-2026",
+      "relevant": 0,
+      "total": 28,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "14-07-2026",
+      "relevant": 0,
+      "total": 61,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "14-07-2026",
+      "relevant": 0,
+      "total": 163,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "14-07-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "14-07-2026",
+      "relevant": 0,
+      "total": 24,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-07-14",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-07-14",
+      "relevant": 2,
+      "total": 20,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-07-14",
+      "relevant": 0,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

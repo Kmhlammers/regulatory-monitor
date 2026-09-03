@@ -1,0 +1,125 @@
+{
+  "kind": "daily",
+  "id": "2026-07-30",
+  "label": "30 juli 2026",
+  "from": "2026-07-30",
+  "to": "2026-07-30",
+  "generated_at": "2026-09-03T13:31:33+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Dierproeven; Brief regering; Toekomst van onderzoek met apen in Nederland",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1264445.html",
+      "pub_date": "2026-07-30",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Nederlandse Voedsel- en Warenautoriteit (NVWA); Reactie op verzoek commissie over voortgang opvolging aanbevelingen agentschapsdoorlichting NVWA",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1264474.html",
+      "pub_date": "2026-07-30",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Speelgoed",
+      "title": "19 juli 2026. - Koninklijk besluit tot wijziging van het koninklijk besluit van 19 januari 2011 betreffende de veiligheid van speelgoed, wat betreft kobalt, bl. 41278.",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-07-30&lg_txt=n&caller=sum&s_editie=2&2026005784=5&numac_search=2026005784&view_numac=",
+      "pub_date": "2026-07-30",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Duurzaamheid",
+      "title": "Commission Delegated Regulation (EU) 2026/904 of 24 April 2026 supplementing Regulation (EU) 2024/3005 of the European Parliament and of the Council with regard to rules of procedure on fines and periodic penalty payments imposed to ESG rating providers by the European Securities and Markets Authority",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:904",
+      "pub_date": "2026-07-30",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Duurzaamheid",
+      "title": "Commission Delegated Regulation (EU) 2026/910 of 24 April 2026 supplementing Regulation (EU) 2024/3005 of the European Parliament and of the Council with regard to fees charged by the European Securities and Markets Authority to ESG rating providers",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:910",
+      "pub_date": "2026-07-30",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "30-07-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "30-07-2026",
+      "relevant": 0,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "30-07-2026",
+      "relevant": 0,
+      "total": 47,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "30-07-2026",
+      "relevant": 2,
+      "total": 94,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "30-07-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "30-07-2026",
+      "relevant": 1,
+      "total": 26,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-07-30",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-07-30",
+      "relevant": 2,
+      "total": 22,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-07-30",
+      "relevant": 0,
+      "total": 9,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

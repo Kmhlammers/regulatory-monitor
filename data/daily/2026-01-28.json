@@ -1,0 +1,109 @@
+{
+  "kind": "daily",
+  "id": "2026-01-28",
+  "label": "28 januari 2026",
+  "from": "2026-01-28",
+  "to": "2026-01-28",
+  "generated_at": "2026-09-03T12:47:33+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Voorstel van wet van de leden Klaver en Ouwehand tot wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met de invoering van een vuurwerkverbod voor consumenten (Wet veilige jaarwisseling); Brief aan de staatssecretaris van I&W over het stuiten van de voorhangtermijn bij het ontwerpbesluit veilige jaarwisseling",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35386-M.html",
+      "pub_date": "2026-01-28",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Elektrische apparaten",
+      "title": "Uitstel beantwoording vragen van het lid Jimmy Dijk over het bericht ‘Google en Microsoft houden energieverbruik van hyperscale-datacenters geheim voor de overheid’",
+      "url": "https://zoek.officielebekendmakingen.nl/ah-tk-20252026-975.html",
+      "pub_date": "2026-01-28",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "PPWR",
+      "title": "Bericht in toepassing van het artikel 13,  §  1, 12°  van het samenwerkingsakkoord van 4 november 2008 betreffende de preventie en het beheer van verpakkingsafval, bl. 4519.",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-01-28&lg_txt=n&caller=sum&s_editie=1&2026000707=42&numac_search=2026000707&view_numac=",
+      "pub_date": "2026-01-28",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "28-01-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "28-01-2026",
+      "relevant": 0,
+      "total": 10,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "28-01-2026",
+      "relevant": 0,
+      "total": 35,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "28-01-2026",
+      "relevant": 2,
+      "total": 183,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "28-01-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "28-01-2026",
+      "relevant": 1,
+      "total": 18,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-01-28",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-01-28",
+      "relevant": 0,
+      "total": 9,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-01-28",
+      "relevant": 0,
+      "total": 14,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

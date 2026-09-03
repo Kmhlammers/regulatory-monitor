@@ -1,0 +1,149 @@
+{
+  "kind": "weekly",
+  "id": "2026-W33",
+  "label": "week 33 · 2026",
+  "from": "2026-08-10",
+  "to": "2026-08-16",
+  "generated_at": "2026-09-03T13:42:46+00:00",
+  "publications": [
+    {
+      "source": "Publicaties | Nederlandse Arbeidsinspectie",
+      "topic": "General product safety",
+      "title": "Nationale markttoezichtstrategie 2026 2030",
+      "url": "https://www.nlarbeidsinspectie.nl/documenten/2026/08/13/nationale-markttoezichtstrategie-2026-2030",
+      "pub_date": "2026-08-13",
+      "week": "2026-W33"
+    },
+    {
+      "source": "Nieuws | ACM",
+      "topic": "Duurzaamheid",
+      "title": "Cruiseaanbieder past duurzaamheidsclaims aan na actie ACM",
+      "url": "https://www.acm.nl/nl/publicaties/cruiseaanbieder-past-duurzaamheidsclaims-aan-na-actie-acm",
+      "pub_date": "2026-08-13",
+      "week": "2026-W33"
+    },
+    {
+      "source": "Nieuws | FOD Volksgezondheid",
+      "topic": "PPWR",
+      "title": "Europese Commissie verduidelijkt begrip ‘fabrikant’ in de verpakkingsverordening",
+      "url": "https://www.health.belgium.be/nl/nieuws/2026-8-europese-commissie-verduidelijkt-begrip-fabrikant-verpakkingsverordening",
+      "pub_date": "2026-08-14",
+      "week": "2026-W33"
+    }
+  ],
+  "counts": [
+    {
+      "label": "COM-documenten",
+      "date_str": "2026-08-10 t/m 2026-08-16",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "JOIN-documenten",
+      "date_str": "2026-08-10 t/m 2026-08-16",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "SEC/SWD",
+      "date_str": "2026-08-10 t/m 2026-08-16",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "ROW",
+      "date_str": "2026-08-10 t/m 2026-08-16",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "E-justice België (Justel)",
+      "date_str": "10-08-2026 t/m 16-08-2026",
+      "relevant": 0,
+      "total": 48,
+      "api_error": false,
+      "note": "3 vertaal-herpublicaties overgeslagen. Justel-index loopt enkele dagen achter op het Belgisch Staatsblad — draai zo nodig ook de voorgaande week"
+    },
+    {
+      "label": "Nieuws en media | NVWA",
+      "date_str": "2026-08-10 t/m 2026-08-16",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Documenten | NVWA",
+      "date_str": "2026-08-10 t/m 2026-08-16",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Nieuws | Nederlandse Arbeidsinspectie",
+      "date_str": "2026-08-10 t/m 2026-08-16",
+      "relevant": 0,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Publicaties | Nederlandse Arbeidsinspectie",
+      "date_str": "2026-08-10 t/m 2026-08-16",
+      "relevant": 1,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Nieuws | ACM",
+      "date_str": "2026-08-10 t/m 2026-08-16",
+      "relevant": 1,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Publicaties | Federaal Agentschap voor de veiligheid van de voedselketen",
+      "date_str": "2026-08-10 t/m 2026-08-16",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:129:8: mismatched tag"
+    },
+    {
+      "label": "Nieuws | Federaal Agentschap voor de veiligheid van de voedselketen",
+      "date_str": "2026-08-10 t/m 2026-08-16",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:128:8: mismatched tag"
+    },
+    {
+      "label": "Nieuws | FOD Volksgezondheid",
+      "date_str": "2026-08-10 t/m 2026-08-16",
+      "relevant": 1,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "News - ECHA",
+      "date_str": "2026-08-10 t/m 2026-08-16",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "403 Client Error: Forbidden for url: https://echa.europa.eu/nl/rss/news"
+    }
+  ],
+  "antidumping": []
+}

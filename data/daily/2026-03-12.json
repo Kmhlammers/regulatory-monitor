@@ -1,0 +1,149 @@
+{
+  "kind": "daily",
+  "id": "2026-03-12",
+  "label": "12 maart 2026",
+  "from": "2026-03-12",
+  "to": "2026-03-12",
+  "generated_at": "2026-09-03T12:56:16+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Dienst/agentschap",
+      "topic": "General product safety",
+      "title": "Aanwijzing als Notified Body Marine Equipment Directive, Inspectie Leefomgeving en Transport",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-10198.html",
+      "pub_date": "2026-03-12",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Beslisnota bij Lijst van vragen en antwoorden over het Jaarplan 2026 Kustwacht voor het Koninkrijk der Nederlanden in het Caribisch gebied (Kamerstuk 36800-X-16)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1239117.html",
+      "pub_date": "2026-03-12",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Vaststelling van de begrotingsstaten van het Ministerie van Defensie (X) voor het jaar 2026; Lijst van vragen en antwoorden; Lijst van vragen en antwoorden over het Jaarplan 2026 Kustwacht voor het Koninkrijk der Nederlanden in het Caribisch gebied (Kamerstuk 36800-X-16)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36800-X-30.html",
+      "pub_date": "2026-03-12",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie; Verslag van een schriftelijk overleg; Verslag van een schriftelijk overleg over o.a. Fiche: Omnibus AI en Omnibus Digitaal (Kamerstuk 22112-4223)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-22112-4288.html",
+      "pub_date": "2026-03-12",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Beslisnota bij het Verslag van een schriftelijk overleg over o.a. Fiche: Omnibus AI en Omnibus Digitaal (Kamerstuk 22112-4223)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1239114.html",
+      "pub_date": "2026-03-12",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Medical devices",
+      "title": "15 juni 2022. - Wet betreffende medische hulpmiddelen voor in-vitro-diagnostiek. - Officieuze coördinatie in het Duits, bl. 14167.",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-03-12&lg_txt=n&caller=sum&s_editie=1&2026001601=2&numac_search=2026001601&view_numac=",
+      "pub_date": "2026-03-12",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Medical devices",
+      "title": "2 maart 2026. - Ministerieel besluit tot wijziging van hoofdstuk \"K. Heelkunde in het algemeen\" van de lijst, gevoegd als bijlage 1 bij het koninklijk besluit van 25 juni 2014 tot vaststelling van de procedures, termijnen en voorwaarden inzake de teg",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-03-12&lg_txt=n&caller=sum&s_editie=1&2026001694=7&numac_search=2026001694&view_numac=",
+      "pub_date": "2026-03-12",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Commission Implementing Regulation (EU) 2026/524 of 11 March 2026 amending Implementing Regulation (EU) 2023/2834 as regards fixing representative prices in the poultrymeat and egg sectors and for egg albumin and Implementing Regulation (EU) 2020/1988 as regards the administration of import tariff quotas in accordance with the first come, first served principle, and repealing Regulation (EC) No 1484/95",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:524",
+      "pub_date": "2026-03-12",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "12-03-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "12-03-2026",
+      "relevant": 0,
+      "total": 15,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "12-03-2026",
+      "relevant": 1,
+      "total": 38,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "12-03-2026",
+      "relevant": 4,
+      "total": 72,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "12-03-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "12-03-2026",
+      "relevant": 2,
+      "total": 24,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-03-12",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-03-12",
+      "relevant": 1,
+      "total": 23,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-03-12",
+      "relevant": 0,
+      "total": 24,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

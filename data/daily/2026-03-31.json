@@ -1,0 +1,125 @@
+{
+  "kind": "daily",
+  "id": "2026-03-31",
+  "label": "31 maart 2026",
+  "from": "2026-03-31",
+  "to": "2026-03-31",
+  "generated_at": "2026-09-03T13:00:17+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Nota Ruimte; Motie; Motie van de leden Zalinyan en Grinwis over expliciet borgen hoe ruimtelijke voorwaarden voor een circulaire economie worden meegenomen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-29435-289.html",
+      "pub_date": "2026-03-31",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "Batterijen",
+      "title": "P10_TA(2025)0164 – Amending Regulation (EU) 2023/1542 as regards obligations of economic operators concerning battery due diligence policies – European Parliament legislative resolution of 10 July 2025 on the proposal for a regulation of the European Parliament and of the Council amending Regulation (EU) 2023/1542 as regards obligations of economic operators concerning battery due diligence policies (COM(2025)0258 – C10-0089/2025 – 2025/0129(COD)) (Ordinary legislative procedure: first reading)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:1459",
+      "pub_date": "2026-03-31",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "General product safety",
+      "title": "P10_TA(2025)0154 – Product safety and regulatory compliance in e-commerce and non-EU imports – European Parliament resolution of 9 July 2025 on product safety and regulatory compliance in e-commerce and non-EU imports (2025/2037(INI))",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:1436",
+      "pub_date": "2026-03-31",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "Kritieke grondstoffen",
+      "title": "P10_TA(2025)0166 – Tackling China's critical raw materials export restrictions – European Parliament resolution of 10 July 2025 on tackling China’s critical raw materials export restrictions (2025/2800(RSP))",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:1447",
+      "pub_date": "2026-03-31",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "EUDR",
+      "title": "P10_TA(2025)0149 – Deforestation Regulation - list of countries presenting a low or high risk – European Parliament resolution of 9 July 2025 on Commission Implementing Regulation (EU) 2025/1093 of 22 May 2025 laying down rules for the application of Regulation (EU) 2023/1115 of the European Parliament and of the Council as regards a list of countries that present a low or high risk of producing relevant commodities for which the relevant products do not comply with Article 3, point (a) (2025/2739(RSP))",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:1435",
+      "pub_date": "2026-03-31",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "31-03-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "31-03-2026",
+      "relevant": 0,
+      "total": 31,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "31-03-2026",
+      "relevant": 0,
+      "total": 32,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "31-03-2026",
+      "relevant": 1,
+      "total": 201,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "31-03-2026",
+      "relevant": 0,
+      "total": 5,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "31-03-2026",
+      "relevant": 0,
+      "total": 30,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-03-31",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-03-31",
+      "relevant": 0,
+      "total": 22,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-03-31",
+      "relevant": 4,
+      "total": 72,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

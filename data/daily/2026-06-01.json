@@ -1,0 +1,109 @@
+{
+  "kind": "daily",
+  "id": "2026-06-01",
+  "label": "1 juni 2026",
+  "from": "2026-06-01",
+  "to": "2026-06-01",
+  "generated_at": "2026-09-03T13:17:14+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Antwoord op vragen die het lid Goudzwaard over het afschaffen van het verlaagde btw-tarief op sierteelt",
+      "url": "https://zoek.officielebekendmakingen.nl/ah-tk-20252026-2091.html",
+      "pub_date": "2026-06-01",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Antwoord op vragen die het lid Goudzwaard over het afschaffen van het verlaagde btw-tarief op sierteelt",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1251379.html",
+      "pub_date": "2026-06-01",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "POPs",
+      "title": "15 april 2026. - Nationale Loterij. - Reglement van het instantspel op afstand Lucky Pops, bl. 29608.",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-06-01&lg_txt=n&caller=sum&s_editie=1&2026003135=42&numac_search=2026003135&view_numac=",
+      "pub_date": "2026-06-01",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "01-06-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "01-06-2026",
+      "relevant": 0,
+      "total": 7,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "01-06-2026",
+      "relevant": 0,
+      "total": 50,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "01-06-2026",
+      "relevant": 2,
+      "total": 155,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "01-06-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "01-06-2026",
+      "relevant": 1,
+      "total": 28,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-06-01",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-06-01",
+      "relevant": 0,
+      "total": 4,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-06-01",
+      "relevant": 0,
+      "total": 11,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

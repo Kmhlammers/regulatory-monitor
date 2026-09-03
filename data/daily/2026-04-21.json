@@ -1,0 +1,133 @@
+{
+  "kind": "daily",
+  "id": "2026-04-21",
+  "label": "21 april 2026",
+  "from": "2026-04-21",
+  "to": "2026-04-21",
+  "generated_at": "2026-09-03T13:04:39+00:00",
+  "publications": [
+    {
+      "source": "Staatsblad NL",
+      "topic": "Duurzaamheid",
+      "title": "Wet van 1 april 2026 tot wijziging van de Wet milieubeheer en de Wet op de accijns in verband met de implementatie van Richtlijn (EU) 2023/2413 van het Europees Parlement en de Raad van 18 oktober 2023 tot wijziging van Richtlijn (EU) 2018/2001, verordening (EU) 2018/1999 en Richtlijn 98/70/EG wat de bevordering van energie uit hernieuwbare bronnen betreft, en tot intrekking van Richtlijn (EU) 2015/652 van de Raad",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2026-83.html",
+      "pub_date": "2026-04-21",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "REACH",
+      "title": "Besluit van de Minister van Landbouw, Visserij, Voedselzekerheid en Natuur, van 9 april 2026, nr. BPZ / 103993466, houdende benoeming van een lid van het Nationaal Comité advies dierproevenbeleid",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-14717.html",
+      "pub_date": "2026-04-21",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Brief van de minister van LVVN ter aanbieding van rapportages over monitoring en evaluatie Programma Stikstofreductie en Natuurverbetering",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-35334-CI.html",
+      "pub_date": "2026-04-21",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Douane & Handelsbeleid",
+      "title": "2 april 2026. - Besluit van de Waalse Regering tot goedkeuring van de beslissing van de Raad van bestuur van de \"Société wallonne de financement complémentaire des Infrastructures\" (Waalse Maatschappij voor de aanvullende Financiering van de Infrastr",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-04-21&lg_txt=n&caller=sum&s_editie=1&2026002950=11&numac_search=2026002950&view_numac=",
+      "pub_date": "2026-04-21",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Commission Implementing Regulation (EU) 2026/888 of 20 April 2026 laying down rules for the application of Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards opening and providing for the management of Union tariff quotas for products originating in Mercosur",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:888",
+      "pub_date": "2026-04-21",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "REACH",
+      "title": "Commission Regulation (EU) 2026/859 of 20 April 2026 amending Annex XVII to Regulation (EC) No 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) as regards 2,4-dinitrotoluene in articles",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:859",
+      "pub_date": "2026-04-21",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "21-04-2026",
+      "relevant": 1,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "21-04-2026",
+      "relevant": 1,
+      "total": 21,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "21-04-2026",
+      "relevant": 0,
+      "total": 54,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "21-04-2026",
+      "relevant": 1,
+      "total": 161,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "21-04-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "21-04-2026",
+      "relevant": 1,
+      "total": 18,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-04-21",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-04-21",
+      "relevant": 2,
+      "total": 20,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-04-21",
+      "relevant": 0,
+      "total": 7,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

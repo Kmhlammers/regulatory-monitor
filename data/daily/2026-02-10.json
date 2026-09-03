@@ -1,0 +1,125 @@
+{
+  "kind": "daily",
+  "id": "2026-02-10",
+  "label": "10 februari 2026",
+  "from": "2026-02-10",
+  "to": "2026-02-10",
+  "generated_at": "2026-09-03T12:50:11+00:00",
+  "publications": [
+    {
+      "source": "Staatsblad NL",
+      "topic": "Medical devices",
+      "title": "Wet van 4 februari 2026 tot wijziging van de Wet medische hulpmiddelen in verband met de uitvoering van Verordening (EU) 2024/1860 betreffende de verplichting tot informeren in geval van onderbreking of stopzetting van de levering",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2026-23.html",
+      "pub_date": "2026-02-10",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Beslisnota bij Kamerbrief met Reactie op brief van Brancheorganisatie Kringloop Nederland (BKN) over het Nationaal Programma Circulaire Economie (NPCE) 2025",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1235242.html",
+      "pub_date": "2026-02-10",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Grondstoffenvoorzieningszekerheid; Brief regering; Reactie op verzoek commissie over de brief van Brancheorganisatie Kringloop Nederland (BKN) over het Nationaal Programma Circulaire Economie (NPCE) 2025",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-32852-399.html",
+      "pub_date": "2026-02-10",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Speelgoed",
+      "title": "Het bericht ‘Asbest in speelzand voor kinderen: ‘Dit is echt heel ernstig’’ (Ad.nl, 4 februari 2026)",
+      "url": "https://zoek.officielebekendmakingen.nl/kv-tk-2026Z02790.html",
+      "pub_date": "2026-02-10",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "ESPR/Ecodesign",
+      "title": "Commission Implementing Regulation (EU) 2026/2 of 9 February 2026 laying down rules for the application of Regulation (EU) 2024/1781 of the European Parliament and of the Council as regards the details and format for the disclosure of information on discarded unsold consumer products",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:2",
+      "pub_date": "2026-02-10",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "10-02-2026",
+      "relevant": 1,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "10-02-2026",
+      "relevant": 0,
+      "total": 16,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "10-02-2026",
+      "relevant": 0,
+      "total": 72,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "10-02-2026",
+      "relevant": 3,
+      "total": 180,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "10-02-2026",
+      "relevant": 0,
+      "total": 6,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "10-02-2026",
+      "relevant": 0,
+      "total": 14,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-02-10",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-02-10",
+      "relevant": 1,
+      "total": 16,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-02-10",
+      "relevant": 0,
+      "total": 14,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

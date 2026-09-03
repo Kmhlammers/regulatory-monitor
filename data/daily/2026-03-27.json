@@ -1,0 +1,147 @@
+{
+  "kind": "daily",
+  "id": "2026-03-27",
+  "label": "27 maart 2026",
+  "from": "2026-03-27",
+  "to": "2026-03-27",
+  "generated_at": "2026-09-03T12:59:40+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "ESPR/Ecodesign",
+      "title": "Vaststelling van de begrotingsstaat van het Mobiliteitsfonds voor het jaar 2026; Motie; Motie van de leden Stoffer en Grinwis over een deel van de gereserveerde middelen voor beheer en onderhoud beschikbaar stellen voor reparaties bij en onderhoud van infrastructuur",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36800-A-52.html",
+      "pub_date": "2026-03-27",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Landbouw- en Visserijraad; Motie; Motie van de leden Den Hollander en Bromet over zorgdragen dat het Omnibus voorstel niet tot versoepeling ten koste van veiligheid leidt",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-21501-32-1771.html",
+      "pub_date": "2026-03-27",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Wijziging van de Wet milieubeheer en de Wet op de accijns in verband met de implementatie van Richtlijn (EU) 2023/2413 van het Europees Parlement en de Raad van 18 oktober 2023 tot wijziging van Richtlijn (EU) 2018/2001, verordening (EU) 2018/1999 en Richtlijn 98/70/EG wat de bevordering van energie uit hernieuwbare bronnen betreft, en tot intrekking van Richtlijn (EU) 2015/652 van de Raad; Brief van de staatssecretaris van I&W met antwoorden op tijdens het debat gestelde vragen over dierlijk vet",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36766-H.html",
+      "pub_date": "2026-03-27",
+      "week": ""
+    },
+    {
+      "source": "refLex - Chrono",
+      "topic": "Duurzaamheid",
+      "title": "Decreet van 27 maart 2026 tot instemming met het samenwerkingsakkoord van 9 februari 2026 tussen het Vlaamse Gewest, het Waalse Gewest en het Brussels Hoofdstedelijk Gewest betreffende het kader voor de uitgebreide producentenverantwoordelijkheid voor bepaalde afvalstromen en voor zwerfvuil",
+      "url": "http://reflex.raadvst-consetat.be/reflex/page=chrono&c=detail_get&d=detail&docid=159003",
+      "pub_date": "2026-03-27",
+      "week": ""
+    },
+    {
+      "source": "Belgisch Staatsblad",
+      "topic": "Kritieke grondstoffen",
+      "title": "6 maart 2026. - Decreet tot wijziging van verschillende decreten van het beleidsdomein Omgeving, in het kader van de implementatie van Europese regelgeving over hernieuwbare energie, kritieke grondstoffen en nettonultechnologie, bl. 18997.",
+      "url": "https://www.ejustice.just.fgov.be/cgi/article.pl?language=nl&sum_date=2026-03-27&lg_txt=n&caller=sum&s_editie=2&2026002345=24&numac_search=2026002345&view_numac=",
+      "pub_date": "2026-03-27",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Duurzaamheid",
+      "title": "Commission Decision (EU) 2026/681 of 20 March 2026 entrusting the European Anti-Fraud Office (OLAF) with certain enforcement actions under Regulation (EU) 2024/1157 of the European Parliament and of the Council on shipments of waste",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:681",
+      "pub_date": "2026-03-27",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Commission Implementing Regulation (EU) 2026/716 of 26 March 2026 correcting Implementing Regulation (EU) 2025/2328 amending Implementing Regulation (EU) 2021/328 imposing a definitive countervailing duty on imports of certain continuous glass fibre products originating in the People’s Republic of China following a partial interim review, limited to injury and correcting Implementing Regulation (EU) 2025/2337 amending Implementing Regulation (EU) 2023/1452 imposing a definitive anti-dumping duty on imports of certain continuous glass fibre products originating in the People’s Republic of China following a full interim review",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:716",
+      "pub_date": "2026-03-27",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "27-03-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "27-03-2026",
+      "relevant": 0,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "27-03-2026",
+      "relevant": 0,
+      "total": 36,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "27-03-2026",
+      "relevant": 3,
+      "total": 155,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "27-03-2026",
+      "relevant": 1,
+      "total": 3,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "27-03-2026",
+      "relevant": 1,
+      "total": 47,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-03-27",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-03-27",
+      "relevant": 2,
+      "total": 26,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-03-27",
+      "relevant": 0,
+      "total": 13,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": [
+    {
+      "source": "EUR-Lex OJ L",
+      "title": "Commission Implementing Regulation (EU) 2026/716 of 26 March 2026 correcting Implementing Regulation (EU) 2025/2328 amending Implementing Regulation (EU) 2021/328 imposing a definitive countervailing duty on imports of certain continuous glass fibre products originating in the People’s Republic of China following a partial interim review, limited to injury and correcting Implementing Regulation (EU) 2025/2337 amending Implementing Regulation (EU) 2023/1452 imposing a definitive anti-dumping duty on imports of certain continuous glass fibre products originating in the People’s Republic of China following a full interim review",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:716"
+    }
+  ]
+}

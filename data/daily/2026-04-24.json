@@ -1,0 +1,157 @@
+{
+  "kind": "daily",
+  "id": "2026-04-24",
+  "label": "24 april 2026",
+  "from": "2026-04-24",
+  "to": "2026-04-24",
+  "generated_at": "2026-09-03T13:05:34+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Voorjaarsnota 2026; Motie; Motie van de leden Grinwis en Stultiens over inzicht in het implementeren van het tarief voor de aftrekposten in box 1 als zelfstandige tariefknop bij de Belastingdienst",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-36915-19.html",
+      "pub_date": "2026-04-24",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Speelgoed",
+      "title": "Uitstel beantwoording vragen van de leden Beckerman, Jimmy Dijk en Dobbe over het bericht 'NVWA: Maatregelen nodig tegen speelgoed met hoge concentraties asbest, controleer alles waar zand in zit'",
+      "url": "https://zoek.officielebekendmakingen.nl/ah-tk-20252026-1755.html",
+      "pub_date": "2026-04-24",
+      "week": ""
+    },
+    {
+      "source": "refLex - Chrono",
+      "topic": "Duurzaamheid",
+      "title": "Decreet van 24 april 2026 tot oprichting van een Vlaams fonds voor uitgebreide producentenverantwoordelijkheid",
+      "url": "http://reflex.raadvst-consetat.be/reflex/page=chrono&c=detail_get&d=detail&docid=159198",
+      "pub_date": "2026-04-24",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "EUDR",
+      "title": "P10_TA(2025)0295 – Deforestation Regulation: certain obligations of operators and traders – Amendments adopted by the European Parliament on 26 November 2025 on the proposal for a regulation of the European Parliament and of the Council amending Regulation (EU) 2023/1115 as regards certain obligations of operators and traders (COM(2025)0652 – C10-0263/2025 – 2025/0329(COD)) (Ordinary legislative procedure: first reading)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:1730",
+      "pub_date": "2026-04-24",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "REACH",
+      "title": "Summary of European Commission Decisions on authorisations for the placing on the market for the use and/or for use of substances listed in Annex XIV to Regulation (EC) No 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (Published pursuant to Article 64(9) of Regulation (EC) No 1907/2006)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:2308",
+      "pub_date": "2026-04-24",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "REACH",
+      "title": "Summary of European Commission Decisions on authorisations for the placing on the market for the use and/or for use of substances listed in Annex XIV to Regulation (EC) No 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (Published pursuant to Article 64(9) of Regulation (EC) No 1907/2006)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:2186",
+      "pub_date": "2026-04-24",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "Speelgoed",
+      "title": "P10_TA(2025)0279 – Safety of toys and repealing Directive 2009/48/EC – European Parliament legislative resolution of 25 November 2025 on the Council position at first reading with a view to the adoption of a regulation of the European Parliament and of the Council on the safety of toys and repealing Directive 2009/48/EC (09663/1/2025 – C10-0251/2025 – 2023/0290(COD)) (Ordinary legislative procedure: second reading)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:1723",
+      "pub_date": "2026-04-24",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "REACH",
+      "title": "Summary of European Commission Decisions on authorisations for the placing on the market for the use and/or for use of substances listed in Annex XIV to Regulation (EC) No 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (Published pursuant to Article 64(9) of Regulation (EC) No 1907/2006)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:2118",
+      "pub_date": "2026-04-24",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "General product safety",
+      "title": "P10_TA(2025)0301 – Protecting EU consumers against the practices of certain e-commerce platforms: the case of child-like sex dolls, weapons and other illegal products and material – European Parliament resolution of 26 November 2025 on protection of EU consumers against the practices of certain e-commerce platforms: the case of child-like sex dolls, weapons and other illegal products and materials (2025/2971(RSP))",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:1710",
+      "pub_date": "2026-04-24",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "24-04-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "24-04-2026",
+      "relevant": 0,
+      "total": 21,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "24-04-2026",
+      "relevant": 0,
+      "total": 34,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "24-04-2026",
+      "relevant": 2,
+      "total": 144,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "24-04-2026",
+      "relevant": 1,
+      "total": 19,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "24-04-2026",
+      "relevant": 0,
+      "total": 31,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-04-24",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-04-24",
+      "relevant": 0,
+      "total": 7,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-04-24",
+      "relevant": 6,
+      "total": 57,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
