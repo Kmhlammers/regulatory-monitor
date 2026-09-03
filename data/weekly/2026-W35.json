@@ -4,17 +4,8 @@
   "label": "week 35 · 2026",
   "from": "2026-08-24",
   "to": "2026-08-30",
-  "generated_at": "2026-09-03T12:09:08+00:00",
-  "publications": [
-    {
-      "source": "E-justice België (Justel)",
-      "topic": "Douane & Handelsbeleid",
-      "title": "21 augustus 2026. - Ministerieel besluit tot wijziging van het ministerieel besluit van 15 maart 2013 tot vaststelling van het tarief van de vergoedingen ten laste van de gemeenten voor de uitreiking van de elektronische identiteitskaarten voor Belge",
-      "url": "https://www.ejustice.just.fgov.be/cgi_loi/article.pl?language=nl&caller=list&numac_search=2026005896",
-      "pub_date": "2026-08-28",
-      "week": "2026-W35"
-    }
-  ],
+  "generated_at": "2026-09-03T12:16:59+00:00",
+  "publications": [],
   "counts": [
     {
       "label": "COM-documenten",
@@ -51,10 +42,10 @@
     {
       "label": "E-justice België (Justel)",
       "date_str": "24-08-2026 t/m 30-08-2026",
-      "relevant": 1,
-      "total": 33,
+      "relevant": 0,
+      "total": 0,
       "api_error": false,
-      "note": "14 vertaal-herpublicaties overgeslagen. Justel-index loopt enkele dagen achter op het Belgisch Staatsblad — draai zo nodig ook de voorgaande week"
+      "note": "Justel-index loopt enkele dagen achter op het Belgisch Staatsblad — draai zo nodig ook de voorgaande week"
     },
     {
       "label": "Nieuws en media | NVWA",
@@ -102,7 +93,7 @@
       "relevant": 0,
       "total": 0,
       "api_error": true,
-      "note": "RSS-feed kon niet geparsed worden: <unknown>:129:8: mismatched tag"
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:18:97: not well-formed (invalid token)"
     },
     {
       "label": "Nieuws | Federaal Agentschap voor de veiligheid van de voedselketen",
@@ -110,7 +101,7 @@
       "relevant": 0,
       "total": 0,
       "api_error": true,
-      "note": "RSS-feed kon niet geparsed worden: <unknown>:128:8: mismatched tag"
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:18:97: not well-formed (invalid token)"
     },
     {
       "label": "Nieuws | FOD Volksgezondheid",
