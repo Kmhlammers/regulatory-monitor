@@ -1,0 +1,141 @@
+{
+  "kind": "daily",
+  "id": "2026-09-02",
+  "label": "2 september 2026",
+  "from": "2026-09-02",
+  "to": "2026-09-02",
+  "generated_at": "2026-09-03T12:08:40+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "General product safety",
+      "title": "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 26 augustus 2026, nr. 2026-0000288356, tot het aanwijzen van ICI4YOU B.V. als conformiteitsbeoordelingsinstantie inzake accreditatienorm NEN-EN-ISO/IEC 17020:2012",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-30884.html",
+      "pub_date": "2026-09-02",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "Duurzaamheid",
+      "title": "Regeling van de Minister van Klimaat en Groene Groei van 30 augustus 2026, nr. WJZ/106712209, tot wijziging van de Regeling nationale EZ-, LVVN- en KGG-subsidies en de Regeling openstelling EZ-, LVVN- en KGG-subsidies 2026 in verband met de wijziging en openstelling van innovatiethema’s 1. Circulaire economie en 4. Kritieke grondstoffen binnen de subsidiemodule EKOO [KetenID WGK29250]",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-31380.html",
+      "pub_date": "2026-09-02",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "General product safety",
+      "title": "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 26 augustus 2026, nr. 2026-0000288112, tot het aanwijzen van DEKRA Certification B.V. als conformiteitsbeoordelingsinstantie inzake accreditatienorm NEN-EN-ISO/IEC 17065:2012",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-30896.html",
+      "pub_date": "2026-09-02",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Wijziging van de Wet milieubeheer en de Crisis- en herstelwet in verband met de uitvoering van Richtlijn 2014/52/EU van het Europees Parlement en de Raad van 16 april 2014 tot wijziging van Richtlijn 2011/92/EU betreffende de milieueffectbeoordeling van bepaalde openbare en particuliere projecten (PbEU 2014, L 124) (implementatie herziening mer-richtlijn); Verslag van een mondeling overleg op 16 juni 2026 over de milieueffectrapportage",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1267111.html",
+      "pub_date": "2026-09-02",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "Douane & Handelsbeleid",
+      "title": "P10_TA(2026)0101 – EU-China Agreement: modification of concessions on all the tariff rate quotas included in the EU Schedule CLXXV – European Parliament legislative resolution of 26 March 2026 on the draft Council decision on the conclusion, on behalf of the Union, of the Agreement in the form of an Exchange of Letters between the European Union and the People`s Republic of China pursuant to Article XXVIII of the General Agreement on Tariffs and Trade (GATT) 1994 relating to the modification of concessions on all the tariff rate quotas included in the EU Schedule CLXXV as a consequence of the United Kingdom’s withdrawal from the European Union (10844/2023 – C10-0282/2025 – 2023/0183(NLE)) (Consent)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:4048",
+      "pub_date": "2026-09-02",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "Duurzaamheid",
+      "title": "P10_TA(2026)0098 – Simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI) – Amendments adopted by the European Parliament on 26 March 2026 on the proposal for a regulation of the European Parliament and of the Council amending Regulations (EU) 2024/1689 and (EU) 2018/1139 as regards the simplification of the implementation of harmonised rules on artificial intelligence (Digital Omnibus on AI) (COM(2025)0836 – C10-0304/2025 – 2025/0359(COD)) (Ordinary legislative procedure: first reading)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:4045",
+      "pub_date": "2026-09-02",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "Douane & Handelsbeleid",
+      "title": "P10_TA(2026)0096 – Adjustment of customs duties and opening of tariff quotas for the import of certain goods originating in the United States of America – Amendments adopted by the European Parliament on 26 March 2026 on the proposal for a regulation of the European Parliament and of the Council on the adjustment of customs duties on the import of certain goods originating in the United States of America and opening of tariff quotas for imports of certain goods originating in the United States of America (COM(2025)0471 – C10-0193/2025 – 2025/0261(COD)) (Ordinary legislative procedure: first reading)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:4043",
+      "pub_date": "2026-09-02",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "02-09-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "02-09-2026",
+      "relevant": 3,
+      "total": 45,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "02-09-2026",
+      "relevant": 0,
+      "total": 41,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "02-09-2026",
+      "relevant": 1,
+      "total": 135,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "02-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Handmatig verifiëren op reflex.raadvst-consetat.be — telling kan afwijken"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "02-09-2026",
+      "relevant": 0,
+      "total": 11,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-09-02",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-09-02",
+      "relevant": 0,
+      "total": 7,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-09-02",
+      "relevant": 3,
+      "total": 37,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}

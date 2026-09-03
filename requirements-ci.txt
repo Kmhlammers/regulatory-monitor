@@ -1,0 +1,6 @@
+# Runtime deps for the pipeline + static site build (no Streamlit/pandas).
+requests
+beautifulsoup4
+lxml
+feedparser
+truststore

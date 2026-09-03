@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.claude/
+
+# Generated static site — rebuilt from data/ on every run, deployed straight to Pages.
+/public/
+
+# Local CLI output
+/regulatory_results*
+
+# Internal Précon monitoring workbook — NOT for the public repo (used only for
+# local validation against the pipeline output).
+/historyData/
