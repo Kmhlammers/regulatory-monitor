@@ -4,7 +4,7 @@
   "label": "2 september 2026",
   "from": "2026-09-02",
   "to": "2026-09-02",
-  "generated_at": "2026-09-03T12:32:50+00:00",
+  "generated_at": "2026-09-03T18:31:25+00:00",
   "publications": [
     {
       "source": "Staatscourant – Ministerie",
@@ -102,7 +102,7 @@
       "relevant": 0,
       "total": 0,
       "api_error": true,
-      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=9 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7f6c49e715b0>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=9 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7f1497272b10>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
     },
     {
       "label": "BE Staatsblad",
@@ -116,7 +116,7 @@
       "label": "EC Nieuws",
       "date_str": "2026-09-02",
       "relevant": 0,
-      "total": 2,
+      "total": 3,
       "api_error": false,
       "note": ""
     },
