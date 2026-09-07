@@ -1,0 +1,101 @@
+{
+  "kind": "daily",
+  "id": "2026-09-06",
+  "label": "4–6 september 2026",
+  "from": "2026-09-04",
+  "to": "2026-09-06",
+  "generated_at": "2026-09-07T10:26:16+00:00",
+  "publications": [
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Elektrische apparaten",
+      "title": "Corrigendum to Commission Regulation (EU) 2024/1834 of 3 July 2024 implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements for fans driven by motors with an electric input power between 125 W and 500 kW and repealing Commission Regulation (EU) No 327/2011 (OJ L, 2024/1834, 4.7.2024)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:corrigendum:2026-09-04",
+      "pub_date": "2026-09-04",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "PBM",
+      "title": "Commission Implementing Decision (EU) 2026/1971 of 3 September 2026 amending Implementing Decision (EU) 2026/1279 as regards the harmonised standards for protective gloves for hairdressers, protective clothing against rain, and eye and face protection for occupational use drafted in support of Regulation (EU) 2016/425 of the European Parliament and of the Council",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1971",
+      "pub_date": "2026-09-04",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "04-09-2026 t/m 06-09-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "04-09-2026 t/m 06-09-2026",
+      "relevant": 0,
+      "total": 12,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "04-09-2026 t/m 06-09-2026",
+      "relevant": 0,
+      "total": 38,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "04-09-2026 t/m 06-09-2026",
+      "relevant": 0,
+      "total": 110,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "04-09-2026 t/m 06-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=9 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7f4371c72d70>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "04-09-2026 t/m 06-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-09-04 t/m 2026-09-06",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-09-04 t/m 2026-09-06",
+      "relevant": 2,
+      "total": 8,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-09-04 t/m 2026-09-06",
+      "relevant": 0,
+      "total": 6,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
