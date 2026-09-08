@@ -1,0 +1,117 @@
+{
+  "kind": "daily",
+  "id": "2026-09-07",
+  "label": "7 september 2026",
+  "from": "2026-09-07",
+  "to": "2026-09-07",
+  "generated_at": "2026-09-08T09:47:25+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "General product safety",
+      "title": "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 28 augustus 2026, nr. 2026-0000297590, tot het aanwijzen van Veturo B.V. als conformiteitsbeoordelingsinstantie inzake accreditatienorm NEN-EN-ISO/IEC 17020:2012",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-31297.html",
+      "pub_date": "2026-09-07",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "POPs",
+      "title": "Kennisgeving zienswijzenprocedure van het Nationaal Implementatieplan voor Nederland in het kader van het Verdrag van Stockholm betreffende Persistente Organische Verontreinigende Stoffen, Ministerie van Infrastructuur en Waterstaat",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-30318.html",
+      "pub_date": "2026-09-07",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie; Brief regering; Voortgang onderhandelingen Omnibus Digitaal en nadere informatie over bepaalde aspecten van online tracking",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1267726.html",
+      "pub_date": "2026-09-07",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Beslisnota bij Kamerbrief Voortgang onderhandelingen Omnibus Digitaal en nadere informatie over bepaalde aspecten van online tracking",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1267727.html",
+      "pub_date": "2026-09-07",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "07-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "07-09-2026",
+      "relevant": 2,
+      "total": 18,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "07-09-2026",
+      "relevant": 0,
+      "total": 41,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "07-09-2026",
+      "relevant": 2,
+      "total": 114,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "07-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=9 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7f8d42473490>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "07-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-09-07",
+      "relevant": 0,
+      "total": 8,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-09-07",
+      "relevant": 0,
+      "total": 8,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-09-07",
+      "relevant": 0,
+      "total": 48,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
