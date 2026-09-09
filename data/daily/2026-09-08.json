@@ -1,0 +1,117 @@
+{
+  "kind": "daily",
+  "id": "2026-09-08",
+  "label": "8 september 2026",
+  "from": "2026-09-08",
+  "to": "2026-09-08",
+  "generated_at": "2026-09-09T09:52:03+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Digitaal pakket van de Europese Commissie COM(2025)835, COM(2025)836, COM(2025)837, COM(2025)838; Verslag van de rapporteurs Omnibus AI en Omnibus Digitaal betreffende de gevoerde gesprekken met wetenschappers, maatschappelijke organisaties, toezichthouders en vertegenwoordigers van het bedrijfsleven over de Omnibus AI en de Omnibus Digitaal",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1267843.html",
+      "pub_date": "2026-09-08",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Digitaal pakket van de Europese Commissie COM(2025)835, COM(2025)836, COM(2025)837, COM(2025)838; Verslag van een mondeling overleg over de Omnibus AI en Omnibus Digitaal",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1267845.html",
+      "pub_date": "2026-09-08",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "REACH",
+      "title": "Corrigendum to Commission Regulation (EU) 2025/1988 of 2 October 2025 amending Annex XVII to Regulation (EC) No 1907/2006 of the European Parliament and of the Council as regards per- and polyfluoroalkyl substances in firefighting foams (OJ L, 2025/1988, 3.10.2025)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:corrigendum:2026-09-08",
+      "pub_date": "2026-09-08",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "PPWR",
+      "title": "Commission Notice – Updating Commission guidelines on single-use plastic products in accordance with Directive (EU) 2019/904 of the European Parliament and of the Council on the reduction of the impact of certain plastic products on the environment",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:4813",
+      "pub_date": "2026-09-08",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "08-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "08-09-2026",
+      "relevant": 0,
+      "total": 12,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "08-09-2026",
+      "relevant": 0,
+      "total": 40,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "08-09-2026",
+      "relevant": 2,
+      "total": 150,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "08-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=9 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7f7e3b8728b0>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "08-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-09-08",
+      "relevant": 0,
+      "total": 5,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-09-08",
+      "relevant": 1,
+      "total": 16,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-09-08",
+      "relevant": 1,
+      "total": 27,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
