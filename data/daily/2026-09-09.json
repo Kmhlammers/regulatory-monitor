@@ -1,0 +1,133 @@
+{
+  "kind": "daily",
+  "id": "2026-09-09",
+  "label": "9 september 2026",
+  "from": "2026-09-09",
+  "to": "2026-09-09",
+  "generated_at": "2026-09-10T09:50:06+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Nationale Veiligheid; Motie; Motie van het lid Mutluer over in kaart brengen of er met de huidige specialistische capaciteit in heel Nederland tijdig en veilig kan worden opgetreden bij incidenten met gevaarlijke stoffen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-30821-351.html",
+      "pub_date": "2026-09-09",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Antwoord op vragen van de leden Zwinkels en Poortman over het bericht \"Stoppen Green Deal Duurzame Zorg onverstandig\"",
+      "url": "https://zoek.officielebekendmakingen.nl/ah-1268190.html",
+      "pub_date": "2026-09-09",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "De duurzaamheidsvoorwaarden aan de subsidie van Indirecte Kosten Compensatie (IKC)",
+      "url": "https://zoek.officielebekendmakingen.nl/kv-1268005.html",
+      "pub_date": "2026-09-09",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Antwoord op vragen van de leden Zwinkels en Poortman over het bericht \"Stoppen Green Deal Duurzame Zorg onverstandig\"",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1268191.html",
+      "pub_date": "2026-09-09",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Inbreng schriftelijk overleg Nederlandse Voedsel- en Warenautoriteit (NVWA)",
+      "url": "https://zoek.officielebekendmakingen.nl/nds-1268136.html",
+      "pub_date": "2026-09-09",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "REACH",
+      "title": "Commission Implementing Decision (EU) 2026/1977 of 8 September 2026 laying down the final import response on behalf of the Union concerning the future import of carbosulfan and of fenthion (ultra-low-volume formulations at or above 640 g active ingredient/L) pursuant to Regulation (EU) No 649/2012 of the European Parliament and of the Council",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1977",
+      "pub_date": "2026-09-09",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "09-09-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "09-09-2026",
+      "relevant": 0,
+      "total": 15,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "09-09-2026",
+      "relevant": 0,
+      "total": 40,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "09-09-2026",
+      "relevant": 5,
+      "total": 225,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "09-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=9 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7fdc172723f0>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "09-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-09-09",
+      "relevant": 0,
+      "total": 6,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-09-09",
+      "relevant": 1,
+      "total": 7,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-09-09",
+      "relevant": 0,
+      "total": 8,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
