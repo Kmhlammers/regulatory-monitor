@@ -1,0 +1,109 @@
+{
+  "kind": "daily",
+  "id": "2026-09-10",
+  "label": "10 september 2026",
+  "from": "2026-09-10",
+  "to": "2026-09-10",
+  "generated_at": "2026-09-11T09:48:36+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Industriebeleid; Motie; Motie van het lid Vermeer over geen aanvullende duurzaamheidsverplichtingen voor de industrie invoeren voordat er voldoende energie-infrastructuur is",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-29826-324.html",
+      "pub_date": "2026-09-10",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Wijziging van de Wet milieubeheer ten behoeve van de implementatie van de Verordening (EU) 2024/3012 van het Europees Parlement en de Raad van 27 november 2024 tot vaststelling van een certificeringskader van de Unie voor permanente koolstofverwijderingen, koolstoflandbeheer en koolstofopslag in producten (Uitvoeringswet verordening certificeringskader voor permanente koolstofverwijderingen, koolstoflandbeheer en koolstofopslag in producten); Verslag (initiatief)wetsvoorstel (nader); Verslag",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1268346.html",
+      "pub_date": "2026-09-10",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "POPs",
+      "title": "Commission Delegated Regulation (EU) 2026/1423 of 30 June 2026 amending Regulation (EU) 2019/1021 of the European Parliament and of the Council as regards chlorpyrifos",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1423",
+      "pub_date": "2026-09-10",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "10-09-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "10-09-2026",
+      "relevant": 0,
+      "total": 13,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "10-09-2026",
+      "relevant": 0,
+      "total": 49,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "10-09-2026",
+      "relevant": 2,
+      "total": 144,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "10-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=9 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7fd473072b10>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "10-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-09-10",
+      "relevant": 0,
+      "total": 8,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-09-10",
+      "relevant": 1,
+      "total": 128,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-09-10",
+      "relevant": 0,
+      "total": 12,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
