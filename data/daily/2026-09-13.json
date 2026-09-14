@@ -1,0 +1,117 @@
+{
+  "kind": "daily",
+  "id": "2026-09-13",
+  "label": "11–13 september 2026",
+  "from": "2026-09-11",
+  "to": "2026-09-13",
+  "generated_at": "2026-09-14T10:46:25+00:00",
+  "publications": [
+    {
+      "source": "Staatsblad NL",
+      "topic": "General product safety",
+      "title": "Besluit van 5 september 2026, houdende regels ter gedeeltelijke uitvoering van Verordening (EU) nr. 2023/1542 van het Europees Parlement en de Raad van 12 juli 2023 inzake batterijen en afgedankte batterijen, tot wijziging van Richtlijn 2008/98/EG en Verordening (EU) 2019/1020 en tot intrekking van Richtlijn 2006/66/EG (Uitvoeringsbesluit hoofdstuk VIII EU-verordening batterijen) [KetenID WGK027364]",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2026-258.html",
+      "pub_date": "2026-09-11",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "Batterijen",
+      "title": "Regeling van de Minister van Klimaat en Groene Groei van 13 augustus 2026, nr. IENW/BSK-2026/114177, tot wijziging en intrekking van enkele ministeriële regelingen in verband met de EU-verordening batterijen [KetenID WGK27845]",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-31673.html",
+      "pub_date": "2026-09-11",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "Batterijen",
+      "title": "Besluit Inspectie Gezondheidszorg en Jeugd van 8 september 2026, kenmerk 2026-3203409/IT2064872, houdende de verlenging van de verleende vrijstelling voor het afleveren van een geneesmiddel zonder handelsvergunning in Nederland vanwege een tekort aan Lithiumcarbonaat Teva 300 mg, tabletten (RVG 55991",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-32519.html",
+      "pub_date": "2026-09-11",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Wijziging van de Wet milieubeheer en enkele andere wetten ter uitvoering van Verordening (EU) 2024/1157 van het Europees Parlement en de Raad van 11 april 2024 betreffende de overbrenging van afvalstoffen, ter gedeeltelijke implementatie van een daaraan gerelateerde richtlijn, ter aanvullende implementatie van Richtlijn (EU) 2018/851 van het Europees Parlement en de Raad van 30 mei 2018 tot wijziging van Richtlijn 2008/98/EG betreffende afvalstoffen en in verband met het opnemen van een grondslag voor de uitvoering van Verordening (EU) 2023/1542 van het Europees Parlement en de Raad van 12 juli 2023 inzake batterijen en afgedankte batterijen (Wet uitvoering EU-verordening overbrenging van afvalstoffen en implementatie enkele andere EU-rechtshandelingen); Gewijzigd voorstel van wet",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1268450.html",
+      "pub_date": "2026-09-11",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "11-09-2026 t/m 13-09-2026",
+      "relevant": 1,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "11-09-2026 t/m 13-09-2026",
+      "relevant": 2,
+      "total": 19,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "11-09-2026 t/m 13-09-2026",
+      "relevant": 0,
+      "total": 34,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "11-09-2026 t/m 13-09-2026",
+      "relevant": 1,
+      "total": 66,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "11-09-2026 t/m 13-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=9 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7f85aac728b0>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "11-09-2026 t/m 13-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-09-11 t/m 2026-09-13",
+      "relevant": 0,
+      "total": 6,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-09-11 t/m 2026-09-13",
+      "relevant": 0,
+      "total": 23,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-09-11 t/m 2026-09-13",
+      "relevant": 0,
+      "total": 8,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
