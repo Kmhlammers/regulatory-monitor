@@ -1,0 +1,109 @@
+{
+  "kind": "daily",
+  "id": "2026-09-14",
+  "label": "14 september 2026",
+  "from": "2026-09-14",
+  "to": "2026-09-14",
+  "generated_at": "2026-09-15T10:09:39+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Brief regering; Prioriteiten Taskforce Landbouw, Natuur en Stikstof",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1268665.html",
+      "pub_date": "2026-09-14",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Inbreng verslag van een schriftelijk overleg over het Fiche: Omnibusrichtlijn directe belastingen (Kamerstuk 22112-4421)",
+      "url": "https://zoek.officielebekendmakingen.nl/nds-1268551.html",
+      "pub_date": "2026-09-14",
+      "week": ""
+    },
+    {
+      "source": "EC Nieuws",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Remarks by Commissioner Šefčovič at the European Parliament Plenary debate on the Union Customs Code and Customs Authority",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1867",
+      "pub_date": "2026-09-14",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "14-09-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "14-09-2026",
+      "relevant": 0,
+      "total": 12,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "14-09-2026",
+      "relevant": 0,
+      "total": 39,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "14-09-2026",
+      "relevant": 2,
+      "total": 149,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "14-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=9 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7fac229723f0>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "14-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-09-14",
+      "relevant": 1,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-09-14",
+      "relevant": 0,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-09-14",
+      "relevant": 0,
+      "total": 44,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
