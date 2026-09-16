@@ -1,0 +1,123 @@
+{
+  "kind": "daily",
+  "id": "2026-09-15",
+  "label": "15 september 2026",
+  "from": "2026-09-15",
+  "to": "2026-09-15",
+  "generated_at": "2026-09-16T10:01:47+00:00",
+  "publications": [
+    {
+      "source": "EC Nieuws",
+      "topic": "Duurzaamheid",
+      "title": "Speech by Commissioner Kubilius at the European Parliament plenary session on Defence Readiness Omnibus",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_1882",
+      "pub_date": "2026-09-15",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Batterijen",
+      "title": "Commission Implementing Regulation (EU) 2026/2049 of 14 September 2026 making imports of primary cells and primary batteries of alkaline manganese dioxide originating in People’s Republic of China subject to registration with a view to allowing the levy of anti-dumping duties on the imports subject to registration",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:2049",
+      "pub_date": "2026-09-15",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Statement of the Council’s reasons: Position (EU) No 10/2026 of the Council at first reading with a view to the adoption of a Regulation of the European Parliament and of the Council establishing the Union Customs Code and the European Union Customs Authority, and repealing Regulation (EU) No 952/2013",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:4832",
+      "pub_date": "2026-09-15",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Position (EU) No 10/2026 of the Council at first reading with a view to the adoption of a Regulation of the European Parliament and of the Council establishing the Union Customs Code and the European Union Customs Authority, and repealing Regulation (EU) No 952/2013 – Adopted by the Council on 3 September 2026 (Text with EEA relevance)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:4825",
+      "pub_date": "2026-09-15",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "15-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "15-09-2026",
+      "relevant": 0,
+      "total": 14,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "15-09-2026",
+      "relevant": 0,
+      "total": 38,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "15-09-2026",
+      "relevant": 0,
+      "total": 120,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "15-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=9 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7f7627e48c30>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "15-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-09-15",
+      "relevant": 1,
+      "total": 7,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-09-15",
+      "relevant": 1,
+      "total": 10,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-09-15",
+      "relevant": 2,
+      "total": 12,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": [
+    {
+      "source": "EUR-Lex OJ L",
+      "title": "Commission Implementing Regulation (EU) 2026/2049 of 14 September 2026 making imports of primary cells and primary batteries of alkaline manganese dioxide originating in People’s Republic of China subject to registration with a view to allowing the levy of anti-dumping duties on the imports subject to registration",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:2049"
+    }
+  ]
+}
