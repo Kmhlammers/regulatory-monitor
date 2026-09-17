@@ -1,0 +1,125 @@
+{
+  "kind": "daily",
+  "id": "2026-09-16",
+  "label": "16 september 2026",
+  "from": "2026-09-16",
+  "to": "2026-09-16",
+  "generated_at": "2026-09-17T10:04:20+00:00",
+  "publications": [
+    {
+      "source": "Staatsblad NL",
+      "topic": "General product safety",
+      "title": "Besluit van 9 september 2026, houdende de vaststelling van regels in verband met de uitvoering van Verordening (EU) 2023/1230 betreffende machines en keuringen van arbeidsmiddelen (Warenwetbesluit machines 2026) [Keten ID WGK027758]",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2026-261.html",
+      "pub_date": "2026-09-16",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "POPs",
+      "title": "HERDRUK Kennisgeving zienswijzenprocedure van het Nationaal Implementatieplan voor Nederland in het kader van het Verdrag van Stockholm betreffende Persistente Organische Verontreinigende Stoffen, Ministerie van Infrastructuur en Waterstaat",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-30318-n1.html",
+      "pub_date": "2026-09-16",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Dienst/agentschap",
+      "topic": "REACH",
+      "title": "Kennisgeving melding Besluit activiteiten leefomgeving buisleiding met gevaarlijke stoffen Zaak:H1988642 Groningen, Inspectie Leefomgeving en Transport",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-32575.html",
+      "pub_date": "2026-09-16",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Dienst/agentschap",
+      "topic": "REACH",
+      "title": "Kennisgeving melding Besluit activiteiten leefomgeving buisleiding met gevaarlijke stoffen Zaak:H1987256 Biddinghuizen, Inspectie Leefomgeving en Transport",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-32572.html",
+      "pub_date": "2026-09-16",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Batterijen",
+      "title": "Commission Implementing Decision (EU) 2026/2048 of 14 September 2026 on the harmonised standard for batteries drafted in support of Regulation (EU) 2023/1542",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:2048",
+      "pub_date": "2026-09-16",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "16-09-2026",
+      "relevant": 1,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "16-09-2026",
+      "relevant": 1,
+      "total": 25,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "16-09-2026",
+      "relevant": 2,
+      "total": 35,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "16-09-2026",
+      "relevant": 0,
+      "total": 116,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "16-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=9 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7fe00ed48c30>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "16-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-09-16",
+      "relevant": 0,
+      "total": 6,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-09-16",
+      "relevant": 1,
+      "total": 6,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-09-16",
+      "relevant": 0,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
