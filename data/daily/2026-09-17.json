@@ -1,0 +1,141 @@
+{
+  "kind": "daily",
+  "id": "2026-09-17",
+  "label": "17 september 2026",
+  "from": "2026-09-17",
+  "to": "2026-09-17",
+  "generated_at": "2026-09-18T09:51:40+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Beslisnota('s) bij de beantwoording van nadere schriftelijke vragen over de Omnibus Digitaal",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1269180.html",
+      "pub_date": "2026-09-17",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "EU-voorstellen: Omnibus I (CSRD & CSDDD) COM (2025) 80 en COM (2025) 81; Verslag van een rapporteur; Tussentijds verslag van de rapporteurs over de implementatie van de Corporate Sustainability Due Diligence Directive (CSDDD)/Omnibus I",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1269250.html",
+      "pub_date": "2026-09-17",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Digitaal pakket van de Europese Commissie COM(2025)835, COM(2025)836, COM(2025)837, COM(2025)838; Verslag van een nader schriftelijk overleg met de staatssecretaris van EZ en de staatssecretaris van J&V over de Omnibus Digitaal",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1269178.html",
+      "pub_date": "2026-09-17",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "EUDR",
+      "title": "Commission Delegated Regulation (EU) 2026/2102 of 13 July 2026 amending Regulation (EU) 2023/1115 of the European Parliament and of the Council as regards the list of relevant commodities and relevant products",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:2102",
+      "pub_date": "2026-09-17",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "REACH",
+      "title": "Summary of European Commission Decisions on authorisations for the placing on the market for the use and/or for use of substances listed in Annex XIV to Regulation (EC) No 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (Published pursuant to Article 64(9) of Regulation (EC) No 1907/2006)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:4742",
+      "pub_date": "2026-09-17",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "REACH",
+      "title": "Summary of European Commission Decisions on authorisations for the placing on the market for the use and/or for use of substances listed in Annex XIV to Regulation (EC) No 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (Published pursuant to Article 64(9) of Regulation (EC) No 1907/2006)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:4745",
+      "pub_date": "2026-09-17",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "REACH",
+      "title": "Summary of European Commission Decisions on authorisations for the placing on the market for the use and/or for use of substances listed in Annex XIV to Regulation (EC) No 1907/2006 of the European Parliament and of the Council concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (Published pursuant to Article 64(9) of Regulation (EC) No 1907/2006)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:4746",
+      "pub_date": "2026-09-17",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "17-09-2026",
+      "relevant": 0,
+      "total": 4,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "17-09-2026",
+      "relevant": 0,
+      "total": 19,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "17-09-2026",
+      "relevant": 0,
+      "total": 30,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "17-09-2026",
+      "relevant": 3,
+      "total": 184,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "17-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=9 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7f4b24b2b360>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "17-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-09-17",
+      "relevant": 0,
+      "total": 8,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-09-17",
+      "relevant": 1,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-09-17",
+      "relevant": 3,
+      "total": 18,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
