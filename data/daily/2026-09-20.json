@@ -1,0 +1,109 @@
+{
+  "kind": "daily",
+  "id": "2026-09-20",
+  "label": "18–20 september 2026",
+  "from": "2026-09-18",
+  "to": "2026-09-20",
+  "generated_at": "2026-09-21T10:50:33+00:00",
+  "publications": [
+    {
+      "source": "EC Nieuws",
+      "topic": "Elektrische apparaten",
+      "title": "Commission enhances energy efficiency and sustainability of data centres in the EU",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1667",
+      "pub_date": "2026-09-20",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Commission Implementing Regulation (EU) 2026/2133 of 18 September 2026 imposing a provisional safeguard measure with regard to imports of certain grain-oriented flat-rolled products of silicon-electrical steel",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:2133",
+      "pub_date": "2026-09-18",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Regulation (EU) 2026/2108 of the European Parliament and of the Council of 16 September 2026 establishing the Union Customs Code and the European Union Customs Authority, and repealing Regulation (EU) No 952/2013 (Text with EEA relevance)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:2108",
+      "pub_date": "2026-09-19",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "2026-09-18",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "503 Server Error: Service Unavailable for url: https://repository.overheid.nl/sru?version=1.2&operation=searchRetrieve&query=%28c.product-area%3D%3Dofficielepublicaties%29and%28dt.available%3D%3D2026-09-18%29and%28w.publicatienaam%3D%3D%22Staatsblad%22%29&maximumRecords=100&startRecord=1"
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "2026-09-18",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "503 Server Error: Service Unavailable for url: https://repository.overheid.nl/sru?version=1.2&operation=searchRetrieve&query=%28c.product-area%3D%3Dofficielepublicaties%29and%28dt.available%3D%3D2026-09-18%29and%28w.publicatienaam%3D%3D%22Staatscourant%22%29&maximumRecords=100&startRecord=1"
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "2026-09-18",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "503 Server Error: Service Unavailable for url: https://repository.overheid.nl/sru?version=1.2&operation=searchRetrieve&query=%28c.product-area%3D%3Dofficielepublicaties%29and%28dt.available%3D%3D2026-09-18%29and%28w.publicatienaam%3D%3D%22Staatscourant%22%29&maximumRecords=100&startRecord=1"
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "2026-09-18",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "503 Server Error: Service Unavailable for url: https://repository.overheid.nl/sru?version=1.2&operation=searchRetrieve&query=%28c.product-area%3D%3Dofficielepublicaties%29and%28dt.available%3D%3D2026-09-18%29and%28w.publicatienaam%3D%3D%22Agenda%22%29&maximumRecords=100&startRecord=1"
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "18-09-2026 t/m 20-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=9 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7fc198a4a060>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "18-09-2026 t/m 20-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-09-18 t/m 2026-09-20",
+      "relevant": 1,
+      "total": 9,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-09-18 t/m 2026-09-20",
+      "relevant": 2,
+      "total": 23,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-09-18 t/m 2026-09-20",
+      "relevant": 0,
+      "total": 12,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
