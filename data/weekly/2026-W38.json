@@ -1,0 +1,133 @@
+{
+  "kind": "weekly",
+  "id": "2026-W38",
+  "label": "week 38 · 2026",
+  "from": "2026-09-14",
+  "to": "2026-09-20",
+  "generated_at": "2026-09-21T12:52:11+00:00",
+  "publications": [
+    {
+      "source": "SEC/SWD",
+      "topic": "EUDR",
+      "title": "COMMISSION STAFF WORKING DOCUMENT Accompanying Proposal for a Council Regulation amending Regulations (EU) No 1380/2013, (EU) No 1308/2013, (EU) 2023/1115 and (EU) 2024/1348 of the European Parliament and of the Council, and Council Regulation (EU) 2023/2720 as regards adaptation of certain requirements and reduction of administrative burden in the Union outermost regions and Proposal for a Council Decision amending Decision (EU) 2021/991 concerning the dock dues scheme in the French outermost regions",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026SC0661R(01)",
+      "pub_date": "2026-09-17",
+      "week": "2026-W38"
+    }
+  ],
+  "counts": [
+    {
+      "label": "COM-documenten",
+      "date_str": "2026-09-14 t/m 2026-09-20",
+      "relevant": 0,
+      "total": 12,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "JOIN-documenten",
+      "date_str": "2026-09-14 t/m 2026-09-20",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "SEC/SWD",
+      "date_str": "2026-09-14 t/m 2026-09-20",
+      "relevant": 1,
+      "total": 21,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "ROW",
+      "date_str": "2026-09-14 t/m 2026-09-20",
+      "relevant": 0,
+      "total": 5,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "E-justice België (Justel)",
+      "date_str": "14-09-2026 t/m 20-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Justel-index loopt enkele dagen achter op het Belgisch Staatsblad — draai zo nodig ook de voorgaande week"
+    },
+    {
+      "label": "Nieuws en media | NVWA",
+      "date_str": "2026-09-14 t/m 2026-09-20",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Documenten | NVWA",
+      "date_str": "2026-09-14 t/m 2026-09-20",
+      "relevant": 0,
+      "total": 33,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Nieuws | Nederlandse Arbeidsinspectie",
+      "date_str": "2026-09-14 t/m 2026-09-20",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Publicaties | Nederlandse Arbeidsinspectie",
+      "date_str": "2026-09-14 t/m 2026-09-20",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Nieuws | ACM",
+      "date_str": "2026-09-14 t/m 2026-09-20",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Publicaties | Federaal Agentschap voor de veiligheid van de voedselketen",
+      "date_str": "2026-09-14 t/m 2026-09-20",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:15:87: not well-formed (invalid token)"
+    },
+    {
+      "label": "Nieuws | Federaal Agentschap voor de veiligheid van de voedselketen",
+      "date_str": "2026-09-14 t/m 2026-09-20",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:15:87: not well-formed (invalid token)"
+    },
+    {
+      "label": "Nieuws | FOD Volksgezondheid",
+      "date_str": "2026-09-14 t/m 2026-09-20",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPSConnectionPool(host='www.health.belgium.be', port=443): Max retries exceeded with url: /nl/nieuws (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "label": "News - ECHA",
+      "date_str": "2026-09-14 t/m 2026-09-20",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "403 Client Error: Forbidden for url: https://echa.europa.eu/nl/rss/news"
+    }
+  ],
+  "antidumping": []
+}
