@@ -1,0 +1,181 @@
+{
+  "kind": "daily",
+  "id": "2026-09-21",
+  "label": "21 september 2026",
+  "from": "2026-09-21",
+  "to": "2026-09-21",
+  "generated_at": "2026-09-22T10:04:14+00:00",
+  "publications": [
+    {
+      "source": "Staatsblad NL",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Besluit van 3 september 2026 tot wijziging van het Besluit prudentiële regels Wft, het Besluit Markttoegang financiële ondernemingen Wft en enkele andere besluiten in verband met de implementatie van Richtlijn (EU) 2024/1619 betreffende kapitaalvereisten voor banken (Implementatiebesluit kapitaalvereisten 2026) [KetenID WGK026837]",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2026-268.html",
+      "pub_date": "2026-09-21",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "Batterijen",
+      "title": "Advies Raad van State inzake het Uitvoeringsbesluit hoofdstuk VIII EU-verordening batterijen",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-32176.html",
+      "pub_date": "2026-09-21",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "EUDR",
+      "title": "Afschrift brief aan SOWP m.b.t. urgentie ontbossingsproject Zuid-Papua",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1269624.html",
+      "pub_date": "2026-09-21",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "EUDR",
+      "title": "Beslisnota bij Kamerbrief met reactie op verzoek commissie over de brief van de SOWP met betrekking tot urgentie ontbossingsproject Zuid-Papua",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1269625.html",
+      "pub_date": "2026-09-21",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Vaststelling van de begrotingsstaten van het Ministerie van Infrastructuur en Waterstaat (XII) voor het jaar 2027; Brief regering; Jaarplan ILT 2027",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1269657.html",
+      "pub_date": "2026-09-21",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "ILT jaarplan 2027",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1269658.html",
+      "pub_date": "2026-09-21",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Nationale Markttoezichtstrategie 2026-2030",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1269633.html",
+      "pub_date": "2026-09-21",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Beslisnota bij Kamerbrief over aanbieding ILT jaarplan 2027",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1269659.html",
+      "pub_date": "2026-09-21",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "EUDR",
+      "title": "Duurzame ontwikkeling en beleid; Brief regering; Reactie op verzoek commissie over de brief van de SOWP met betrekking tot urgentie ontbossingsproject Zuid-Papua",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1269623.html",
+      "pub_date": "2026-09-21",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Uitstel beantwoording vragen van het lid Kostić over de uitspraak van de Reclame Code Commissie dat Tata Steel het publiek misleidt met duurzaamheidsreclame.",
+      "url": "https://zoek.officielebekendmakingen.nl/ah-1269586.html",
+      "pub_date": "2026-09-21",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Duurzaamheid",
+      "title": "Commission Delegated Regulation (EU) 2026/1560 of 3 July 2026 supplementing Directive 2013/34/EU of the European Parliament and of the Council by establishing sustainability reporting standards for voluntary use by undertakings protected by the value chain cap",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1560",
+      "pub_date": "2026-09-21",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Duurzaamheid",
+      "title": "Commission Delegated Regulation (EU) 2026/1563 of 3 July 2026 amending Delegated Regulation (EU) 2023/2772 as regards the simplification of certain sustainability reporting standards",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1563",
+      "pub_date": "2026-09-21",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "21-09-2026",
+      "relevant": 1,
+      "total": 4,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "21-09-2026",
+      "relevant": 1,
+      "total": 18,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "21-09-2026",
+      "relevant": 0,
+      "total": 57,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "21-09-2026",
+      "relevant": 8,
+      "total": 185,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "21-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=9 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7f3cd324f5c0>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "21-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-09-21",
+      "relevant": 0,
+      "total": 4,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-09-21",
+      "relevant": 2,
+      "total": 31,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-09-21",
+      "relevant": 0,
+      "total": 45,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
