@@ -1,0 +1,109 @@
+{
+  "kind": "daily",
+  "id": "2026-09-24",
+  "label": "24 september 2026",
+  "from": "2026-09-24",
+  "to": "2026-09-24",
+  "generated_at": "2026-09-25T10:16:24+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Dienst/agentschap",
+      "topic": "REACH",
+      "title": "Kennisgeving besluit: Nobian Industrial Chemicals B.V. omgevingsvergunning voor het aanleggen en tjdelijk in stand houden van een uitstroomvoorziening t.b.v. bronneringswater aan de rechteroever van het Twentekanaal te Hengelo (Ov)",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-33936.html",
+      "pub_date": "2026-09-24",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Inbreng verslag van een schriftelijk overleg over het Fiche: Omnibusrichtlijn directe belastingen (Kamerstuk 22112-4421)",
+      "url": "https://zoek.officielebekendmakingen.nl/nds-tk-2026D42835.html",
+      "pub_date": "2026-09-24",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "FCM",
+      "title": "Corrigendum to the Note for Guidance on the implementation of Commission Regulation (EU) 2024/3190 on the use of bisphenol A (BPA) and other bisphenols and bisphenol derivatives with harmonised classification for specific hazardous properties in certain materials and articles intended to come into contact with food (OJ C, C/2025/6721, 17.12.2025)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:corrigendum:2026-09-24",
+      "pub_date": "2026-09-24",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "24-09-2026",
+      "relevant": 0,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "24-09-2026",
+      "relevant": 0,
+      "total": 25,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "24-09-2026",
+      "relevant": 1,
+      "total": 50,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "24-09-2026",
+      "relevant": 1,
+      "total": 92,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "24-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=9 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7fb75e14be10>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "24-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-09-24",
+      "relevant": 0,
+      "total": 8,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-09-24",
+      "relevant": 0,
+      "total": 48,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-09-24",
+      "relevant": 1,
+      "total": 12,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
