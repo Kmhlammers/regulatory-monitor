@@ -1,0 +1,93 @@
+{
+  "kind": "daily",
+  "id": "2026-09-27",
+  "label": "25–27 september 2026",
+  "from": "2026-09-25",
+  "to": "2026-09-27",
+  "generated_at": "2026-09-28T11:47:08+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "Medical devices",
+      "title": "Beleidsregel van de Minister van Volksgezondheid, Welzijn en Sport van 17 september 2026, kenmerk 4507714-1101919-GMT, houdende wijziging van de Beleidsregels gunstbetoon Wet medische hulpmiddelen en de Beleidsregels gunstbetoon Geneesmiddelen 2018 in verband met indexering van de vergoeding voor deelnamekosten en gastvrijheid",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-33583.html",
+      "pub_date": "2026-09-25",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "25-09-2026 t/m 27-09-2026",
+      "relevant": 0,
+      "total": 6,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "25-09-2026 t/m 27-09-2026",
+      "relevant": 1,
+      "total": 14,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "25-09-2026 t/m 27-09-2026",
+      "relevant": 0,
+      "total": 52,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "25-09-2026 t/m 27-09-2026",
+      "relevant": 0,
+      "total": 64,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "25-09-2026 t/m 27-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=9 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7fd96044bce0>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "25-09-2026 t/m 27-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-09-25 t/m 2026-09-27",
+      "relevant": 0,
+      "total": 7,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-09-25 t/m 2026-09-27",
+      "relevant": 0,
+      "total": 16,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-09-25 t/m 2026-09-27",
+      "relevant": 0,
+      "total": 16,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
