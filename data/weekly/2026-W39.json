@@ -1,0 +1,205 @@
+{
+  "kind": "weekly",
+  "id": "2026-W39",
+  "label": "week 39 · 2026",
+  "from": "2026-09-21",
+  "to": "2026-09-27",
+  "generated_at": "2026-09-28T13:59:10+00:00",
+  "publications": [
+    {
+      "source": "COM-documenten",
+      "topic": "Elektrische apparaten",
+      "title": "REPORT FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT AND THE COUNCIL on the energy efficiency of data centres in the EU",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026DC0500",
+      "pub_date": "2026-09-21",
+      "week": "2026-W39"
+    },
+    {
+      "source": "COM-documenten",
+      "topic": "Batterijen",
+      "title": "REPORT FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT AND THE COUNCIL on the implementation of Commission Recommendation (EU) 2023/681 of 8 December 2022 on procedural rights of suspects and accused persons subject to pre-trial detention and on material detention conditions",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52026DC0497",
+      "pub_date": "2026-09-23",
+      "week": "2026-W39"
+    },
+    {
+      "source": "Documenten | NVWA",
+      "topic": "Cosmetica",
+      "title": "Advies risicos van asbest in talkhoudende cosmetische producten",
+      "url": "https://www.nvwa.nl/documenten/consumentenartikelen/non-food/cosmetica/advies-risicos-van-asbest-in-talkhoudende-cosmetische-producten",
+      "pub_date": "2026-09-24",
+      "week": "2026-W39"
+    },
+    {
+      "source": "Documenten | NVWA",
+      "topic": "Speelgoed",
+      "title": "Advies ftalaten in speelgoed",
+      "url": "https://www.nvwa.nl/documenten/consumentenartikelen/non-food/speelgoed/advies-ftalaten-in-speelgoed",
+      "pub_date": "2026-09-24",
+      "week": "2026-W39"
+    },
+    {
+      "source": "Documenten | NVWA",
+      "topic": "POPs",
+      "title": "Advies buro dioxines in aal en wolhandkrab",
+      "url": "https://www.nvwa.nl/documenten/eten-drinken-roken/overige-voedselveiligheid/risicobeoordelingen/advies-buro-dioxines-in-aal-en-wolhandkrab",
+      "pub_date": "2026-09-24",
+      "week": "2026-W39"
+    },
+    {
+      "source": "Documenten | NVWA",
+      "topic": "REACH",
+      "title": "Advies over bisfenol a bpa",
+      "url": "https://www.nvwa.nl/documenten/eten-drinken-roken/overige-voedselveiligheid/risicobeoordelingen/advies-over-bisfenol-a-bpa",
+      "pub_date": "2026-09-24",
+      "week": "2026-W39"
+    },
+    {
+      "source": "Documenten | NVWA",
+      "topic": "POPs",
+      "title": "Aanvullend onderzoek dioxines in wolhandkrab advies",
+      "url": "https://www.nvwa.nl/documenten/eten-drinken-roken/overige-voedselveiligheid/risicobeoordelingen/aanvullend-onderzoek-dioxines-in-wolhandkrab-advies",
+      "pub_date": "2026-09-24",
+      "week": "2026-W39"
+    },
+    {
+      "source": "Documenten | NVWA",
+      "topic": "Cosmetica",
+      "title": "Risicobeoordeling bij advies asbest in cosmetische producten",
+      "url": "https://www.nvwa.nl/documenten/consumentenartikelen/non-food/cosmetica/risicobeoordeling-bij-advies-asbest-in-cosmetische-producten",
+      "pub_date": "2026-09-24",
+      "week": "2026-W39"
+    },
+    {
+      "source": "Documenten | NVWA",
+      "topic": "Speelgoed",
+      "title": "Besluit openbaarmaking onderzoeksbevindingen asbest in speelzand 30 maart 2026",
+      "url": "https://www.nvwa.nl/documenten/productveiligheid/speelgoed/publicaties/besluit-openbaarmaking-onderzoeksbevindingen-asbest-in-speelzand-30-maart-2026",
+      "pub_date": "2026-09-22",
+      "week": "2026-W39"
+    },
+    {
+      "source": "Nieuws | ACM",
+      "topic": "Duurzaamheid",
+      "title": "Vanaf 27 september 2026 strengere eisen aan duurzaamheidsclaims",
+      "url": "https://www.acm.nl/nl/publicaties/vanaf-27-september-2026-strengere-eisen-aan-duurzaamheidsclaims",
+      "pub_date": "2026-09-24",
+      "week": "2026-W39"
+    }
+  ],
+  "counts": [
+    {
+      "label": "COM-documenten",
+      "date_str": "2026-09-21 t/m 2026-09-27",
+      "relevant": 2,
+      "total": 6,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "JOIN-documenten",
+      "date_str": "2026-09-21 t/m 2026-09-27",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "SEC/SWD",
+      "date_str": "2026-09-21 t/m 2026-09-27",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "ROW",
+      "date_str": "2026-09-21 t/m 2026-09-27",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "E-justice België (Justel)",
+      "date_str": "21-09-2026 t/m 27-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Justel-index loopt enkele dagen achter op het Belgisch Staatsblad — draai zo nodig ook de voorgaande week"
+    },
+    {
+      "label": "Nieuws en media | NVWA",
+      "date_str": "2026-09-21 t/m 2026-09-27",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Documenten | NVWA",
+      "date_str": "2026-09-21 t/m 2026-09-27",
+      "relevant": 7,
+      "total": 141,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Nieuws | Nederlandse Arbeidsinspectie",
+      "date_str": "2026-09-21 t/m 2026-09-27",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Publicaties | Nederlandse Arbeidsinspectie",
+      "date_str": "2026-09-21 t/m 2026-09-27",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Nieuws | ACM",
+      "date_str": "2026-09-21 t/m 2026-09-27",
+      "relevant": 1,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Publicaties | Federaal Agentschap voor de veiligheid van de voedselketen",
+      "date_str": "2026-09-21 t/m 2026-09-27",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:15:87: not well-formed (invalid token)"
+    },
+    {
+      "label": "Nieuws | Federaal Agentschap voor de veiligheid van de voedselketen",
+      "date_str": "2026-09-21 t/m 2026-09-27",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:15:87: not well-formed (invalid token)"
+    },
+    {
+      "label": "Nieuws | FOD Volksgezondheid",
+      "date_str": "2026-09-21 t/m 2026-09-27",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "News - ECHA",
+      "date_str": "2026-09-21 t/m 2026-09-27",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "403 Client Error: Forbidden for url: https://echa.europa.eu/nl/rss/news"
+    }
+  ],
+  "antidumping": []
+}
