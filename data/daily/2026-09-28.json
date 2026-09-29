@@ -1,0 +1,125 @@
+{
+  "kind": "daily",
+  "id": "2026-09-28",
+  "label": "28 september 2026",
+  "from": "2026-09-28",
+  "to": "2026-09-28",
+  "generated_at": "2026-09-29T11:26:02+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie; Brief regering; Reactie op het voorstel van de commissie voor informatieafspraken over de Omnibus over belastingen”",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1270871.html",
+      "pub_date": "2026-09-28",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Landbouw- en Visserijraad; Motie; Motie van het lid Kostić over met medestanders in de EU inzetten op een verbod op PFAS-houdende bestrijdingsmiddelen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-21501-32-1847.html",
+      "pub_date": "2026-09-28",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Beslisnota bij Kamerbrief met reactie op het voorstel van de commissie voor informatieafspraken over de Omnibus over belastingen”",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1270873.html",
+      "pub_date": "2026-09-28",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Brief regering; Beleidsreactie op technisch rapport ILT over risico’s van TFA voor onze drinkwaterkwaliteit",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1270868.html",
+      "pub_date": "2026-09-28",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "EUDR",
+      "title": "Inbreng verslag van een schriftelijk overleg over het ontwerpbesluit wijziging Besluit activiteiten leefomgeving en Omgevingsbesluit ter uitvoering van de wijziging Verordening ontbossingsvrije grondstoffen en producten (Kamerstuk 36518-16)",
+      "url": "https://zoek.officielebekendmakingen.nl/nds-1270729.html",
+      "pub_date": "2026-09-28",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "28-09-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "28-09-2026",
+      "relevant": 0,
+      "total": 12,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "28-09-2026",
+      "relevant": 0,
+      "total": 64,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "28-09-2026",
+      "relevant": 5,
+      "total": 337,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "28-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=9 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7fa3a7f34d60>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "28-09-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-09-28",
+      "relevant": 0,
+      "total": 6,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-09-28",
+      "relevant": 0,
+      "total": 23,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-09-28",
+      "relevant": 0,
+      "total": 46,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
