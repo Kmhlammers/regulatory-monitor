@@ -1,0 +1,125 @@
+{
+  "kind": "daily",
+  "id": "2026-10-01",
+  "label": "1 oktober 2026",
+  "from": "2026-10-01",
+  "to": "2026-10-01",
+  "generated_at": "2026-10-02T11:10:48+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "REACH",
+      "title": "Rectificatie van de Regeling van de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur van 17 september 2026, nr. WJZ/104404545, tot wijziging van de Regeling houders van dieren ter verduidelijking van de regels over het verzamelen van dieren bij verplaatsingen binnen Nederland en van de Dierproevenregeling 2014",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-32636-n1.html",
+      "pub_date": "2026-10-01",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Stemming brief Parlementair behandelvoorbehoud bij EU-voorstel Omnibus over belastingen COM (2026) 560",
+      "url": "https://zoek.officielebekendmakingen.nl/h-tk-20252026-90-48.html",
+      "pub_date": "2026-10-01",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Brief aan de staatssecretaris van EZ van de rapporteurs Omnibus AI en Omnibus Digitaal over de ontwikkelingen bij de triloogonderhandelingen over de Omnibus AI",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1271629.html",
+      "pub_date": "2026-10-01",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Taakopdracht IBO Circulaire economie",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1271670.html",
+      "pub_date": "2026-10-01",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Het verhogen van het btw-tarief op sierteelt",
+      "url": "https://zoek.officielebekendmakingen.nl/kv-1271579.html",
+      "pub_date": "2026-10-01",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "01-10-2026",
+      "relevant": 0,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "01-10-2026",
+      "relevant": 1,
+      "total": 20,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "01-10-2026",
+      "relevant": 0,
+      "total": 37,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "01-10-2026",
+      "relevant": 4,
+      "total": 250,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "01-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=10 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7f27ed848d60>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "01-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-10-01",
+      "relevant": 0,
+      "total": 9,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-10-01",
+      "relevant": 0,
+      "total": 11,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-10-01",
+      "relevant": 0,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
