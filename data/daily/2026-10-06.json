@@ -1,0 +1,165 @@
+{
+  "kind": "daily",
+  "id": "2026-10-06",
+  "label": "6 oktober 2026",
+  "from": "2026-10-06",
+  "to": "2026-10-06",
+  "generated_at": "2026-10-07T11:52:23+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Bodembeleid; Brief regering; Bestuurlijk Overleg over aandachtlocaties PFAS",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1273187.html",
+      "pub_date": "2026-10-06",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Kritieke grondstoffen",
+      "title": "Vaststelling van de begrotingsstaat van Buitenlandse Handel en Ontwikkelingssamenwerking (XVII) voor het jaar 2027; Motie; Motie van de leden Maes en Lohman over maatregelen om de strategische afhankelijkheden van Europa op het gebied van kritieke grondstoffen aantoonbaar te verminderen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-37020-XVII-15.html",
+      "pub_date": "2026-10-06",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Maatschappelijk verantwoord ondernemen; Brief regering; Reactie op onderzoek van De Nieuwe Beurskoers over moderne slavernij en rijksinkoop",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1273074.html",
+      "pub_date": "2026-10-06",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Beslisnota bij Kamerbrief over Bestuurlijk Overleg over aandachtlocaties PFAS",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1273189.html",
+      "pub_date": "2026-10-06",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Digitaal pakket van de Europese Commissie COM(2025)835, COM(2025)836, COM(2025)837, COM(2025)838; Brief van de staatssecretaris van EZ en de staatssecretaris van J&V over de naderende Raadspositie inzake de Omnibus Digitaal",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1273101.html",
+      "pub_date": "2026-10-06",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Beslisnota('s) bij de naderende Raadspositie Omnibus Digitaal",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1273102.html",
+      "pub_date": "2026-10-06",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Vaststelling van de begrotingsstaat van Buitenlandse Handel en Ontwikkelingssamenwerking (XVII) voor het jaar 2027; Motie; Motie van het lid Hoogeveen over in de Wivo geen verplichtingen opnemen die verder gaan dan de CSDDD vereist",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-37020-XVII-12.html",
+      "pub_date": "2026-10-06",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Antwoord op vragen van de leden Teunissen en Kostic over de duurzaamheidsvoorwaarden aan de subsidie van Indirecte Kosten Compensatie (IKC)",
+      "url": "https://zoek.officielebekendmakingen.nl/ah-1273044.html",
+      "pub_date": "2026-10-06",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "De vloedgolf van PFAS door de groei van de AI-industrie en datacenters",
+      "url": "https://zoek.officielebekendmakingen.nl/kv-1273098.html",
+      "pub_date": "2026-10-06",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Antwoord op vragen van de leden Teunissen en Kostic over de duurzaamheidsvoorwaarden aan de subsidie van Indirecte Kosten Compensatie (IKC)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1273045.html",
+      "pub_date": "2026-10-06",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "06-10-2026",
+      "relevant": 0,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "06-10-2026",
+      "relevant": 0,
+      "total": 25,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "06-10-2026",
+      "relevant": 0,
+      "total": 43,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "06-10-2026",
+      "relevant": 10,
+      "total": 257,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "06-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=10 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7fbd5aced6e0>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "06-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-10-06",
+      "relevant": 0,
+      "total": 5,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-10-06",
+      "relevant": 0,
+      "total": 10,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-10-06",
+      "relevant": 0,
+      "total": 13,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
