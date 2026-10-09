@@ -1,0 +1,109 @@
+{
+  "kind": "daily",
+  "id": "2026-10-08",
+  "label": "8 oktober 2026",
+  "from": "2026-10-08",
+  "to": "2026-10-08",
+  "generated_at": "2026-10-09T11:58:28+00:00",
+  "publications": [
+    {
+      "source": "EC Nieuws",
+      "topic": "Kritieke grondstoffen",
+      "title": "Factsheet - Critical Raw Materials Strategic Projects",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/fs_26_2115",
+      "pub_date": "2026-10-08",
+      "week": ""
+    },
+    {
+      "source": "EC Nieuws",
+      "topic": "Kritieke grondstoffen",
+      "title": "Questions and answers on the Critical Raw Materials strategic projects",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/qanda_26_2114",
+      "pub_date": "2026-10-08",
+      "week": ""
+    },
+    {
+      "source": "EC Nieuws",
+      "topic": "Kritieke grondstoffen",
+      "title": "Commission selects 46 new Strategic Projects to bolster the EU's supply of critical raw materials",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2113",
+      "pub_date": "2026-10-08",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "08-10-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "08-10-2026",
+      "relevant": 0,
+      "total": 16,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "08-10-2026",
+      "relevant": 0,
+      "total": 35,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "08-10-2026",
+      "relevant": 0,
+      "total": 210,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "08-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=10 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7f58b395ab10>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "08-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-10-08",
+      "relevant": 3,
+      "total": 7,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-10-08",
+      "relevant": 0,
+      "total": 11,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-10-08",
+      "relevant": 0,
+      "total": 20,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
