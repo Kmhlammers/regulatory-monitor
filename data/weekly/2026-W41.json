@@ -1,0 +1,229 @@
+{
+  "kind": "weekly",
+  "id": "2026-W41",
+  "label": "week 41 · 2026",
+  "from": "2026-10-05",
+  "to": "2026-10-11",
+  "generated_at": "2026-10-12T15:29:49+00:00",
+  "publications": [
+    {
+      "source": "Documenten | NVWA",
+      "topic": "REACH",
+      "title": "Dierproeven ib02 spec 14 versie 03",
+      "url": "https://www.nvwa.nl/documenten/organisatie/hoe-de-nvwa-werkt/specifiek-interventiebeleid/dierproeven-ib02-spec-14-versie-03",
+      "pub_date": "2026-10-05",
+      "week": "2026-W41"
+    },
+    {
+      "source": "Documenten | NVWA",
+      "topic": "REACH",
+      "title": "Dierproeven ib03 spec 14 versie 04",
+      "url": "https://www.nvwa.nl/documenten/organisatie/hoe-de-nvwa-werkt/specifiek-interventiebeleid/dierproeven-ib03-spec-14-versie-04",
+      "pub_date": "2026-10-05",
+      "week": "2026-W41"
+    },
+    {
+      "source": "Documenten | NVWA",
+      "topic": "General product safety",
+      "title": "Productveiligheid ib02 spec 45 versie 07",
+      "url": "https://www.nvwa.nl/documenten/organisatie/hoe-de-nvwa-werkt/specifiek-interventiebeleid/productveiligheid-ib02-spec-45-versie-07",
+      "pub_date": "2026-10-05",
+      "week": "2026-W41"
+    },
+    {
+      "source": "Documenten | NVWA",
+      "topic": "FCM",
+      "title": "Voedselcontactmaterialen ib02 spec 61 versie 01",
+      "url": "https://www.nvwa.nl/documenten/organisatie/hoe-de-nvwa-werkt/specifiek-interventiebeleid/voedselcontactmaterialen-ib02-spec-61-versie-01",
+      "pub_date": "2026-10-05",
+      "week": "2026-W41"
+    },
+    {
+      "source": "Documenten | NVWA",
+      "topic": "FCM",
+      "title": "Voedselcontactmaterialen ib03 spec 61 versie 02",
+      "url": "https://www.nvwa.nl/documenten/organisatie/hoe-de-nvwa-werkt/specifiek-interventiebeleid/voedselcontactmaterialen-ib03-spec-61-versie-02",
+      "pub_date": "2026-10-05",
+      "week": "2026-W41"
+    },
+    {
+      "source": "Documenten | NVWA",
+      "topic": "REACH",
+      "title": "Chemische stoffen in eet  en drinkwaren ib02 spec 43 versie 04",
+      "url": "https://www.nvwa.nl/documenten/organisatie/hoe-de-nvwa-werkt/specifiek-interventiebeleid/chemische-stoffen-in-eet--en-drinkwaren-ib02-spec-43-versie-04",
+      "pub_date": "2026-10-05",
+      "week": "2026-W41"
+    },
+    {
+      "source": "Documenten | NVWA",
+      "topic": "REACH",
+      "title": "Chemische stoffen in eet  en drinkwaren ib03 spec 43 versie 05",
+      "url": "https://www.nvwa.nl/documenten/organisatie/hoe-de-nvwa-werkt/specifiek-interventiebeleid/chemische-stoffen-in-eet--en-drinkwaren-ib03-spec-43-versie-05",
+      "pub_date": "2026-10-05",
+      "week": "2026-W41"
+    },
+    {
+      "source": "Documenten | NVWA",
+      "topic": "Cosmetica",
+      "title": "Cosmetische producten ib02 spec 52 versie 01",
+      "url": "https://www.nvwa.nl/documenten/organisatie/hoe-de-nvwa-werkt/specifiek-interventiebeleid/cosmetische-producten-ib02-spec-52-versie-01",
+      "pub_date": "2026-10-05",
+      "week": "2026-W41"
+    },
+    {
+      "source": "Documenten | NVWA",
+      "topic": "Cosmetica",
+      "title": "Cosmetische producten ib03 spec 52 versie 02",
+      "url": "https://www.nvwa.nl/documenten/organisatie/hoe-de-nvwa-werkt/specifiek-interventiebeleid/cosmetische-producten-ib03-spec-52-versie-02",
+      "pub_date": "2026-10-05",
+      "week": "2026-W41"
+    },
+    {
+      "source": "Documenten | NVWA",
+      "topic": "Speelgoed",
+      "title": "Speelgoed ib02 spec 58 versie 01",
+      "url": "https://www.nvwa.nl/documenten/organisatie/hoe-de-nvwa-werkt/specifiek-interventiebeleid/speelgoed-ib02-spec-58-versie-01",
+      "pub_date": "2026-10-05",
+      "week": "2026-W41"
+    },
+    {
+      "source": "Documenten | NVWA",
+      "topic": "Speelgoed",
+      "title": "Speelgoed ib03 spec 58 versie 02",
+      "url": "https://www.nvwa.nl/documenten/organisatie/hoe-de-nvwa-werkt/specifiek-interventiebeleid/speelgoed-ib03-spec-58-versie-02",
+      "pub_date": "2026-10-05",
+      "week": "2026-W41"
+    },
+    {
+      "source": "Nieuws | Nederlandse Arbeidsinspectie",
+      "topic": "REACH",
+      "title": "Meer kennis nodig bij bedrijven die werken met veel gevaarlijke stoffen",
+      "url": "https://www.nlarbeidsinspectie.nl/actueel/nieuws/2026/10/05/meer-kennis-nodig-bij-bedrijven-die-werken-met-veel-gevaarlijke-stoffen",
+      "pub_date": "2026-10-05",
+      "week": "2026-W41"
+    },
+    {
+      "source": "Nieuws | ACM",
+      "topic": "Douane & Handelsbeleid",
+      "title": "ACM publiceert tariefvoorstellen netbeheerders 2027",
+      "url": "https://www.acm.nl/nl/publicaties/acm-publiceert-tariefvoorstellen-netbeheerders-2027",
+      "pub_date": "2026-10-07",
+      "week": "2026-W41"
+    }
+  ],
+  "counts": [
+    {
+      "label": "COM-documenten",
+      "date_str": "2026-10-05 t/m 2026-10-11",
+      "relevant": 0,
+      "total": 4,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "JOIN-documenten",
+      "date_str": "2026-10-05 t/m 2026-10-11",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "SEC/SWD",
+      "date_str": "2026-10-05 t/m 2026-10-11",
+      "relevant": 0,
+      "total": 8,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "ROW",
+      "date_str": "2026-10-05 t/m 2026-10-11",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "E-justice België (Justel)",
+      "date_str": "05-10-2026 t/m 11-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Justel-index loopt enkele dagen achter op het Belgisch Staatsblad — draai zo nodig ook de voorgaande week"
+    },
+    {
+      "label": "Nieuws en media | NVWA",
+      "date_str": "2026-10-05 t/m 2026-10-11",
+      "relevant": 0,
+      "total": 5,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Documenten | NVWA",
+      "date_str": "2026-10-05 t/m 2026-10-11",
+      "relevant": 11,
+      "total": 118,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Nieuws | Nederlandse Arbeidsinspectie",
+      "date_str": "2026-10-05 t/m 2026-10-11",
+      "relevant": 1,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Publicaties | Nederlandse Arbeidsinspectie",
+      "date_str": "2026-10-05 t/m 2026-10-11",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Nieuws | ACM",
+      "date_str": "2026-10-05 t/m 2026-10-11",
+      "relevant": 1,
+      "total": 6,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Publicaties | Federaal Agentschap voor de veiligheid van de voedselketen",
+      "date_str": "2026-10-05 t/m 2026-10-11",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:15:87: not well-formed (invalid token)"
+    },
+    {
+      "label": "Nieuws | Federaal Agentschap voor de veiligheid van de voedselketen",
+      "date_str": "2026-10-05 t/m 2026-10-11",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:15:87: not well-formed (invalid token)"
+    },
+    {
+      "label": "Nieuws | FOD Volksgezondheid",
+      "date_str": "2026-10-05 t/m 2026-10-11",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPSConnectionPool(host='www.health.belgium.be', port=443): Max retries exceeded with url: /nl/nieuws (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "label": "News - ECHA",
+      "date_str": "2026-10-05 t/m 2026-10-11",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "403 Client Error: Forbidden for url: https://echa.europa.eu/nl/rss/news"
+    }
+  ],
+  "antidumping": []
+}
