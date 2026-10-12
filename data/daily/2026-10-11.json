@@ -1,0 +1,125 @@
+{
+  "kind": "daily",
+  "id": "2026-10-11",
+  "label": "9–11 oktober 2026",
+  "from": "2026-10-09",
+  "to": "2026-10-11",
+  "generated_at": "2026-10-12T13:15:53+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "Elektrische apparaten",
+      "title": "Regeling van de Minister van Klimaat en Groene Groei van 7 oktober 2026, nr. WJZ/106734417, tot wijziging van de Regeling gefluoreerde broeikasgassen en ozonlaagafbrekende stoffen in verband met de uitvoering van Uitvoeringsverordening (EU) 2025/1893 van de Commissie van 17 september 2025 tot vaststelling, op grond van Verordening (EU) 2024/573 van het Europees Parlement en de Raad, van minimumeisen voor opleidingsattesten van natuurlijke personen en de voorwaarden voor de wederzijdse erkenning van dergelijke opleidingsattesten op het gebied van bepaalde mobiele apparatuur die gefluoreerde broeikasgassen of alternatieven daarvoor bevat, en tot intrekking van Verordening (EG) nr. 307/2008 van de Commissie en het herstel van omissies [KetenID WGK29570]",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-35651.html",
+      "pub_date": "2026-10-09",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "Medical devices",
+      "title": "Mededeling van de Minister van Volksgezondheid, Welzijn en Sport van 1 oktober 2026, houdende verlening van een ontheffing op grond van de Wet medische hulpmiddelen",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-35310.html",
+      "pub_date": "2026-10-09",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Dienst/agentschap",
+      "topic": "Cosmetica",
+      "title": "Ontbinding vennootschap Blue House Cosmetics BV, te Bonaire",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-35637.html",
+      "pub_date": "2026-10-09",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "EU-voorstel: Gezamenlijk witboek over de gereedheid van de Europese defensie 2030 JOIN(2025)120; Brief aan Europese Commissie met nadere vragen over het Omnibuspakket voorstellen Defensie Gereedheid 2030",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1273733.html",
+      "pub_date": "2026-10-09",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "EU-voorstel: Gezamenlijk witboek over de gereedheid van de Europese defensie 2030 JOIN(2025)120; Brief van de Europese Commissie inzake beantwoording nadere vragen over het Omnibuspakket voorstellen Europese Defensie Gereedheid 2030",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1273755.html",
+      "pub_date": "2026-10-09",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "09-10-2026 t/m 11-10-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "09-10-2026 t/m 11-10-2026",
+      "relevant": 2,
+      "total": 15,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "09-10-2026 t/m 11-10-2026",
+      "relevant": 1,
+      "total": 65,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "09-10-2026 t/m 11-10-2026",
+      "relevant": 2,
+      "total": 138,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "09-10-2026 t/m 11-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=10 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7f3c97457100>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "09-10-2026 t/m 11-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-10-09 t/m 2026-10-11",
+      "relevant": 0,
+      "total": 6,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-10-09 t/m 2026-10-11",
+      "relevant": 0,
+      "total": 10,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-10-09 t/m 2026-10-11",
+      "relevant": 0,
+      "total": 15,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
