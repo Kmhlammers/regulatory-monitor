@@ -1,0 +1,117 @@
+{
+  "kind": "daily",
+  "id": "2026-10-13",
+  "label": "13 oktober 2026",
+  "from": "2026-10-13",
+  "to": "2026-10-13",
+  "generated_at": "2026-10-14T10:18:50+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Beslisnota bij Kamerbrief over reactie op verzoek commissie over actualisatie jaarplanningsbrief tot en met Q2 2027",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1274249.html",
+      "pub_date": "2026-10-13",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Vaststelling van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2027; Brief regering; Reactie op verzoek commissie over actualisatie jaarplanningsbrief tot en met Q2 2027",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1274242.html",
+      "pub_date": "2026-10-13",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "EUDR",
+      "title": "Inbreng verslag van een schriftelijk overleg inzake de reactie op verzoek commissie over de brief van de SOWP met betrekking tot urgentie ontbossingsproject Zuid-Papua (Kamerstuk 30196-864)",
+      "url": "https://zoek.officielebekendmakingen.nl/nds-1274187.html",
+      "pub_date": "2026-10-13",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "CLP",
+      "title": "Commission Implementing Directive (EU) 2026/2250 of 12 October 2026 amending Implementing Directive 2014/21/EU as regards the production of pre-basic seed potatoes from true potato seed of seed propagated potato varieties and Annex III to Council Directive 2002/56/EC as regards labelling requirements of seed potatoes",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:2250",
+      "pub_date": "2026-10-13",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "13-10-2026",
+      "relevant": 0,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "13-10-2026",
+      "relevant": 0,
+      "total": 15,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "13-10-2026",
+      "relevant": 0,
+      "total": 46,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "13-10-2026",
+      "relevant": 3,
+      "total": 236,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "13-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=10 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7f0787c590f0>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "13-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-10-13",
+      "relevant": 0,
+      "total": 6,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-10-13",
+      "relevant": 1,
+      "total": 20,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-10-13",
+      "relevant": 0,
+      "total": 20,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
