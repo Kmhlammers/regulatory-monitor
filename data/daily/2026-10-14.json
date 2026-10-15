@@ -1,0 +1,93 @@
+{
+  "kind": "daily",
+  "id": "2026-10-14",
+  "label": "14 oktober 2026",
+  "from": "2026-10-14",
+  "to": "2026-10-14",
+  "generated_at": "2026-10-15T10:02:09+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Dienst/agentschap",
+      "topic": "REACH",
+      "title": "Kennisgeving melding Besluit activiteiten leefomgeving buisleiding met gevaarlijke stoffen Zaak:H1990669, Inspectie Leefomgeving en Transport",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-35835.html",
+      "pub_date": "2026-10-14",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "14-10-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "14-10-2026",
+      "relevant": 0,
+      "total": 16,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "14-10-2026",
+      "relevant": 1,
+      "total": 39,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "14-10-2026",
+      "relevant": 0,
+      "total": 114,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "14-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=10 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7f94bec5a9e0>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "14-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-10-14",
+      "relevant": 0,
+      "total": 8,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-10-14",
+      "relevant": 0,
+      "total": 23,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-10-14",
+      "relevant": 0,
+      "total": 20,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
