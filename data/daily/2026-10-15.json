@@ -1,0 +1,117 @@
+{
+  "kind": "daily",
+  "id": "2026-10-15",
+  "label": "15 oktober 2026",
+  "from": "2026-10-15",
+  "to": "2026-10-15",
+  "generated_at": "2026-10-16T09:55:41+00:00",
+  "publications": [
+    {
+      "source": "Staatsblad NL",
+      "topic": "Duurzaamheid",
+      "title": "Besluit van 5 oktober 2026 tot wijziging van het Besluit EU-verordeningen Wft ter uitvoering van Verordening (EU) 2023/2869 (verordening ESAP), Verordening (EU) 2024/3005 (ESG-ratings) en Verordening (EU) 2025/914 (benchmarks) (Wijzigingsbesluit EU-verordeningen Wft 2026) [KetenID WGK028308]",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2026-319.html",
+      "pub_date": "2026-10-15",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Behandeling van het wetsvoorstel Wijziging van de Wet milieubeheer en enkele andere wetten ter uitvoering van Verordening (EU) 2024/1157 van het Europees Parlement en de Raad van 11 april 2024 betreffende de overbrenging van afvalstoffen, ter gedeeltelijke implementatie van een daaraan gerelateerde richtlijn, ter aanvullende implementatie van Richtlijn (EU) 2018/851 van het Europees Parlement en de Raad van 30 mei 2018 tot wijziging van Richtlijn 2008/98/EG betreffende afvalstoffen en in verband met het opnemen van een grondslag voor de uitvoering van Verordening (EU) 2023/1542 van het Europees Parlement en de Raad van 12 juli 2023 inzake batterijen en afgedankte batterijen (Wet uitvoering EU-verordening overbrenging van afvalstoffen en implementatie enkele andere EU-rechtshandelingen) (36880).",
+      "url": "https://zoek.officielebekendmakingen.nl/h-tk-20252026-93-3.html",
+      "pub_date": "2026-10-15",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Wijziging van de Wet milieubeheer in verband met de invoering van de verplichting tot het stellen van milieuprestatie-eisen in aanbestedingen voor grond-, weg- en waterbouwwerken; Verslag (initiatief)wetsvoorstel (nader); Verslag",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1274661.html",
+      "pub_date": "2026-10-15",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Brief van de minister van LVVN ter aanbieding van publicatie Monitor stikstofdepositie in Natura 2000-gebieden 2026",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1274542.html",
+      "pub_date": "2026-10-15",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "15-10-2026",
+      "relevant": 1,
+      "total": 4,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "15-10-2026",
+      "relevant": 0,
+      "total": 19,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "15-10-2026",
+      "relevant": 0,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "15-10-2026",
+      "relevant": 3,
+      "total": 147,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "15-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=10 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7fad36a510f0>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "15-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-10-15",
+      "relevant": 0,
+      "total": 6,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-10-15",
+      "relevant": 0,
+      "total": 19,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-10-15",
+      "relevant": 0,
+      "total": 6,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
