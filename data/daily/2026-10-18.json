@@ -1,0 +1,117 @@
+{
+  "kind": "daily",
+  "id": "2026-10-18",
+  "label": "16–18 oktober 2026",
+  "from": "2026-10-16",
+  "to": "2026-10-18",
+  "generated_at": "2026-10-19T10:51:48+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Medical devices",
+      "title": "Vaststelling van de begrotingsstaten van het Ministerie van Volksgezondheid, Welzijn en Sport (XVI) voor het jaar 2027; Motie; Motie van het lid Vervuurt over onderzoek naar bindende afspraken voor het aanhouden van voorraden van medische hulpmiddelen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-37020-XVI-44.html",
+      "pub_date": "2026-10-16",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "EUDR",
+      "title": "De gevolgen van de Braziliaanse verkiezingen voor het Amazonegebied en ontbossing",
+      "url": "https://zoek.officielebekendmakingen.nl/kv-1274787.html",
+      "pub_date": "2026-10-16",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Commission Implementing Regulation (EU) 2026/2270 of 15 October 2026 amending Implementing Regulation (EU) 2025/2351 imposing a definitive safeguard measure with regard to imports of certain ferro-alloying elements",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:2270",
+      "pub_date": "2026-10-16",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Elektrische apparaten",
+      "title": "Commission Implementing Decision (EU) 2026/2316 of 15 October 2026 on the recognition of the Roundtable on Sustainable Biomaterials (RSB) EU RED voluntary scheme for demonstrating compliance with the requirements for biofuels, bioliquids, biomass fuels, renewable fuels of non-biological origin and recycled carbon fuels set out in Directive (EU) 2018/2001 of the European Parliament and of the Council, and repealing Commission Implementing Decision (EU) 2022/607",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:2316",
+      "pub_date": "2026-10-16",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "16-10-2026 t/m 18-10-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "16-10-2026 t/m 18-10-2026",
+      "relevant": 0,
+      "total": 7,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "16-10-2026 t/m 18-10-2026",
+      "relevant": 0,
+      "total": 37,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "16-10-2026 t/m 18-10-2026",
+      "relevant": 2,
+      "total": 110,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "16-10-2026 t/m 18-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=10 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7f2d4f548d60>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "16-10-2026 t/m 18-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-10-16 t/m 2026-10-18",
+      "relevant": 0,
+      "total": 9,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-10-16 t/m 2026-10-18",
+      "relevant": 2,
+      "total": 14,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-10-16 t/m 2026-10-18",
+      "relevant": 0,
+      "total": 22,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
