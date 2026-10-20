@@ -1,0 +1,141 @@
+{
+  "kind": "daily",
+  "id": "2026-10-19",
+  "label": "19 oktober 2026",
+  "from": "2026-10-19",
+  "to": "2026-10-19",
+  "generated_at": "2026-10-20T10:09:17+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "General product safety",
+      "title": "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 8 oktober 2026, nr. 2026-0000298264, tot het aanwijzen van SGS Nederland B.V. als conformiteitsbeoordelingsinstantie inzake accreditatienorm NEN-EN-ISO/IEC 17020:2012",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-36315.html",
+      "pub_date": "2026-10-19",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "General product safety",
+      "title": "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 12 oktober 2026, kenmerk 4526922-1104744-WJZ, houdende wijziging van de Warenwetregeling hoeveelheden voorverpakkingen in verband met de indexering van de retributies [KetenID WGK029532]",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-36393.html",
+      "pub_date": "2026-10-19",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Vervoer gevaarlijke stoffen; Brief regering; Veilig vervoer van gevaarlijke stoffen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1274926.html",
+      "pub_date": "2026-10-19",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Beslisnota bij Kamerbrief over veilig vervoer van gevaarlijke stoffen ",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1274927.html",
+      "pub_date": "2026-10-19",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Brief regering; RIVM-briefrapport 'PFAS in bloed van volwassenen in Nederland'",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1274914.html",
+      "pub_date": "2026-10-19",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Rapport 'PFAS in bloed van volwassenen in Nederland. Een studie onder bloeddonors'",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1274915.html",
+      "pub_date": "2026-10-19",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Beslisnota bij Kamerbrief over RIVM-briefrapport 'PFAS in bloed van volwassenen in Nederland'",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1274916.html",
+      "pub_date": "2026-10-19",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "19-10-2026",
+      "relevant": 0,
+      "total": 5,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "19-10-2026",
+      "relevant": 2,
+      "total": 20,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "19-10-2026",
+      "relevant": 0,
+      "total": 52,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "19-10-2026",
+      "relevant": 5,
+      "total": 107,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "19-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=10 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7f4def33d0f0>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "19-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-10-19",
+      "relevant": 0,
+      "total": 5,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-10-19",
+      "relevant": 0,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-10-19",
+      "relevant": 0,
+      "total": 47,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
