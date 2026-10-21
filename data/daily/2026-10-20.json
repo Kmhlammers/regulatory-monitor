@@ -1,0 +1,117 @@
+{
+  "kind": "daily",
+  "id": "2026-10-20",
+  "label": "20 oktober 2026",
+  "from": "2026-10-20",
+  "to": "2026-10-20",
+  "generated_at": "2026-10-21T10:16:52+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "General product safety",
+      "title": "Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 12 oktober 2026, kenmerk 4539841-1105331-WJZ, tot wijziging van de Mandaatregeling VWS in verband met een wijziging in de organisatiestructuur van de Nederlandse Voedsel- en Warenautoriteit",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-36443.html",
+      "pub_date": "2026-10-20",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "Elektrische apparaten",
+      "title": "Besluit van de Minister van Klimaat en Groene Groei van 16 oktober 2026, nr. WJZ/108516532, tot aanwijzing van attesteringsinstanties voor het afgeven van opleidingsattesten gefluoreerde broeikasgassen in de zin van Uitvoeringsverordening (EU) 2025/1893 van de Commissie van 17 september 2025 tot vaststelling, op grond van Verordening (EU) 2024/573 van het Europees Parlement en de Raad, van minimumeisen voor opleidingsattesten van natuurlijke personen en de voorwaarden voor de wederzijdse erkenning van dergelijke opleidingsattesten op het gebied van bepaalde mobiele apparatuur die gefluoreerde broeikasgassen of alternatieven daarvoor bevat, en tot intrekking van Verordening (EG) nr. 307/2008 van de Commissie (Besluit aanwijzing attesteringsinstanties gefluoreerde broeikasgassen)",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-37101.html",
+      "pub_date": "2026-10-20",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Brief regering; Toezegging gedaan tijdens het commissiedebat Externe Veiligheid 10 juni 2026 over aanpak PFAS om de blootstelling terug te dringen met acties",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1275178.html",
+      "pub_date": "2026-10-20",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Beslisnota bij Kamerbrief over toezegging gedaan tijdens het commissiedebat Externe Veiligheid 10 juni 2026 over aanpak PFAS om de blootstelling terug te dringen met acties",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1275179.html",
+      "pub_date": "2026-10-20",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "20-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "20-10-2026",
+      "relevant": 2,
+      "total": 25,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "20-10-2026",
+      "relevant": 0,
+      "total": 38,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "20-10-2026",
+      "relevant": 2,
+      "total": 108,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "20-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=10 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7fbdb434f100>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "20-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-10-20",
+      "relevant": 0,
+      "total": 6,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-10-20",
+      "relevant": 0,
+      "total": 12,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-10-20",
+      "relevant": 0,
+      "total": 35,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
