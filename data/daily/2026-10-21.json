@@ -1,0 +1,133 @@
+{
+  "kind": "daily",
+  "id": "2026-10-21",
+  "label": "21 oktober 2026",
+  "from": "2026-10-21",
+  "to": "2026-10-21",
+  "generated_at": "2026-10-22T10:18:01+00:00",
+  "publications": [
+    {
+      "source": "Staatsblad NL",
+      "topic": "Duurzaamheid",
+      "title": "Wet van 30 september 2026 tot wijziging van de Wet milieubeheer en enkele andere wetten ter uitvoering van Verordening (EU) 2024/1157 van het Europees Parlement en de Raad van 11 april 2024 betreffende de overbrenging van afvalstoffen, ter gedeeltelijke implementatie van een daaraan gerelateerde richtlijn, ter aanvullende implementatie van Richtlijn (EU) 2018/851 van het Europees Parlement en de Raad van 30 mei 2018 tot wijziging van Richtlijn 2008/98/EG betreffende afvalstoffen en in verband met het opnemen van een grondslag voor de uitvoering van Verordening (EU) 2023/1542 van het Europees Parlement en de Raad van 12 juli 2023 inzake batterijen en afgedankte batterijen (Wet uitvoering EU-verordening overbrenging van afvalstoffen en implementatie enkele andere EU-rechtshandelingen)",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2026-330.html",
+      "pub_date": "2026-10-21",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "General product safety",
+      "title": "Besluit van de Minister van Sociale Zaken en Werkgelegenheid van 10 oktober 2026, nr. 2026-0000358368, tot het aanwijzen van Kuiper Certificering B.V. als conformiteitsbeoordelingsinstantie inzake accreditatienorm NEN-EN-ISO/IEC 17065:2012",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-36600.html",
+      "pub_date": "2026-10-21",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "ESPR/Ecodesign",
+      "title": "Wijziging van wetten op het terrein van onderwijs, cultuur en wetenschap in verband met het repareren van wetstechnische en redactionele vergissingen en verschrijvingen (Reparatiewet OCW 20##); Nota n.a.v. het (nader/tweede nader/enz.) verslag; Nota naar aanleiding van het verslag",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1275340.html",
+      "pub_date": "2026-10-21",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "ESPR/Ecodesign",
+      "title": "Beslisnota bij nota naar aanleiding van het verslag inzake Reparatiewet OCW 20## (Kamerstuk 36967)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1275341.html",
+      "pub_date": "2026-10-21",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Brief regering; Monitor stikstofdepositie in Natura 2000-gebieden 2026",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1275361.html",
+      "pub_date": "2026-10-21",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Commission Implementing Regulation (EU) 2026/2310 of 19 October 2026 repealing definitive countervailing duties on imports of solar glass originating in the People’s Republic of China following an expiry review pursuant to Article 18 of Regulation (EU) 2016/1037 of the European Parliament and of the Council",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:2310",
+      "pub_date": "2026-10-21",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "21-10-2026",
+      "relevant": 1,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "21-10-2026",
+      "relevant": 1,
+      "total": 14,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "21-10-2026",
+      "relevant": 0,
+      "total": 24,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "21-10-2026",
+      "relevant": 3,
+      "total": 110,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "21-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=10 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7ff4a2944fc0>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "21-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-10-21",
+      "relevant": 0,
+      "total": 6,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-10-21",
+      "relevant": 1,
+      "total": 13,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-10-21",
+      "relevant": 0,
+      "total": 16,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
