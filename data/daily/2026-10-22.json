@@ -1,0 +1,117 @@
+{
+  "kind": "daily",
+  "id": "2026-10-22",
+  "label": "22 oktober 2026",
+  "from": "2026-10-22",
+  "to": "2026-10-22",
+  "generated_at": "2026-10-23T10:10:59+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Digitaal pakket van de Europese Commissie COM(2025)835, COM(2025)836, COM(2025)837, COM(2025)838; Verslag van de rapporteurs Omnibus AI en Omnibus Digitaal betreffende een gezamenlijk werkbezoek aan Brussel",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1275454.html",
+      "pub_date": "2026-10-22",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Kritieke grondstoffen",
+      "title": "Commission Decision (EU) 2026/2349 of 9 October 2026 recognising certain critical raw material projects as Strategic Projects under Regulation (EU) 2024/1252 of the European Parliament and of the Council (notified under document C(2026) 8051)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:2349",
+      "pub_date": "2026-10-22",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Batterijen",
+      "title": "Commission Delegated Regulation (EU) 2026/1770 of 14 July 2026 on supplementing Regulation (EU) 2023/1542 of the European Parliament and of the Council as regards derogations for the removability and replaceability of portable batteries",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1770",
+      "pub_date": "2026-10-22",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "Batterijen",
+      "title": "Commission Notice – Commission guidelines to facilitate the harmonised application of provisions on the removability and replaceability of portable and LMT batteries in Regulation (EU) 2023/1542",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:5531",
+      "pub_date": "2026-10-22",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "22-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "22-10-2026",
+      "relevant": 0,
+      "total": 18,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "22-10-2026",
+      "relevant": 0,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "22-10-2026",
+      "relevant": 1,
+      "total": 95,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "22-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=10 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7fe2f2e53e10>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "22-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-10-22",
+      "relevant": 0,
+      "total": 5,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-10-22",
+      "relevant": 2,
+      "total": 16,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-10-22",
+      "relevant": 1,
+      "total": 16,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
