@@ -1,0 +1,133 @@
+{
+  "kind": "weekly",
+  "id": "2026-W43",
+  "label": "week 43 · 2026",
+  "from": "2026-10-19",
+  "to": "2026-10-25",
+  "generated_at": "2026-10-26T13:07:43+00:00",
+  "publications": [
+    {
+      "source": "ROW",
+      "topic": "FCM",
+      "title": "Agenda cwg voedselcontactmaterialen 22 en 23 oktober 2026",
+      "url": "https://www.row-minvws.nl/documenten/2026/10/22-en-23/agenda-cwg-voedselcontactmaterialen-22-en-23-oktober-2026",
+      "pub_date": "2026-10-19",
+      "week": "2026-W43"
+    }
+  ],
+  "counts": [
+    {
+      "label": "COM-documenten",
+      "date_str": "2026-10-19 t/m 2026-10-25",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "[CELLAR FOUT] HTTPSConnectionPool(host='publications.europa.eu', port=443): Read timed out. (read timeout=30)"
+    },
+    {
+      "label": "JOIN-documenten",
+      "date_str": "2026-10-19 t/m 2026-10-25",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "SEC/SWD",
+      "date_str": "2026-10-19 t/m 2026-10-25",
+      "relevant": 0,
+      "total": 8,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "ROW",
+      "date_str": "2026-10-19 t/m 2026-10-25",
+      "relevant": 1,
+      "total": 4,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "E-justice België (Justel)",
+      "date_str": "19-10-2026 t/m 25-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Justel-index loopt enkele dagen achter op het Belgisch Staatsblad — draai zo nodig ook de voorgaande week"
+    },
+    {
+      "label": "Nieuws en media | NVWA",
+      "date_str": "2026-10-19 t/m 2026-10-25",
+      "relevant": 0,
+      "total": 7,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Documenten | NVWA",
+      "date_str": "2026-10-19 t/m 2026-10-25",
+      "relevant": 0,
+      "total": 37,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Nieuws | Nederlandse Arbeidsinspectie",
+      "date_str": "2026-10-19 t/m 2026-10-25",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Publicaties | Nederlandse Arbeidsinspectie",
+      "date_str": "2026-10-19 t/m 2026-10-25",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Nieuws | ACM",
+      "date_str": "2026-10-19 t/m 2026-10-25",
+      "relevant": 0,
+      "total": 5,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Publicaties | Federaal Agentschap voor de veiligheid van de voedselketen",
+      "date_str": "2026-10-19 t/m 2026-10-25",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:14:377: not well-formed (invalid token)"
+    },
+    {
+      "label": "Nieuws | Federaal Agentschap voor de veiligheid van de voedselketen",
+      "date_str": "2026-10-19 t/m 2026-10-25",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "RSS-feed kon niet geparsed worden: <unknown>:14:377: not well-formed (invalid token)"
+    },
+    {
+      "label": "Nieuws | FOD Volksgezondheid",
+      "date_str": "2026-10-19 t/m 2026-10-25",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPSConnectionPool(host='www.health.belgium.be', port=443): Max retries exceeded with url: /nl/nieuws (Caused by ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response')))"
+    },
+    {
+      "label": "News - ECHA",
+      "date_str": "2026-10-19 t/m 2026-10-25",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "403 Client Error: Forbidden for url: https://echa.europa.eu/nl/rss/news"
+    }
+  ],
+  "antidumping": []
+}
