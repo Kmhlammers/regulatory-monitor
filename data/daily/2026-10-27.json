@@ -1,0 +1,173 @@
+{
+  "kind": "daily",
+  "id": "2026-10-27",
+  "label": "27 oktober 2026",
+  "from": "2026-10-27",
+  "to": "2026-10-27",
+  "generated_at": "2026-10-28T11:24:58+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Beslisnota bij Kamerbrief over naderende Raadspositie Omnibus Digitaal",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1276010.html",
+      "pub_date": "2026-10-27",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Maatschappelijk verantwoord ondernemen; Brief regering; Reactie op verzoek commissie over beleid voor gezonder sociaal en ecologisch klimaat en versterking van concurrentiekracht en werkgelegenheid",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1275950.html",
+      "pub_date": "2026-10-27",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Uitvoering van Verordening (EU) 2024/2847 van het Europees Parlement en de Raad van 23 oktober 2024 betreffende horizontale cyberbeveiligingsvereisten voor producten met digitale elementen en tot wijziging van Verordeningen (EU) nr. 168/2013 en (EU) 2019/1020 en Richtlijn (EU) 2020/1828 (Uitvoeringswet verordening cyberweerbaarheid); Verslag van een wetgevingsoverleg; Verslag van een wetgevingsoverleg, gehouden op 7 september 2026, over de Uitvoeringswet cyberweerbaarheid",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1275944.html",
+      "pub_date": "2026-10-27",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Maatschappelijk verantwoord ondernemen; Brief regering; Voorlopige gunningsbeslissing ekv-aanbesteding",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1276023.html",
+      "pub_date": "2026-10-27",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Grondstoffenvoorzieningszekerheid; Verslag van een commissiedebat; Verslag van een commissiedebat, gehouden op 8 september 2026, over circulaire economie (voortzetting, tweede termijn)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1275945.html",
+      "pub_date": "2026-10-27",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Dierproeven; Brief regering; TPI en dierproeven: toezeggingen, aanbieding transitie adviesrapport en subsidies",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1275845.html",
+      "pub_date": "2026-10-27",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Beslisnota bij Kamerbrief over TPI en dierproeven: toezeggingen, aanbieding transitie adviesrapport en subsidies",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1275847.html",
+      "pub_date": "2026-10-27",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie; Brief regering; Naderende Raadspositie Omnibus Digitaal",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1276008.html",
+      "pub_date": "2026-10-27",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Antwoord op vragen van het lid Kostić over de uitspraak van de Reclame Code Commissie dat Tata Steel het publiek misleidt met duurzaamheidsreclame",
+      "url": "https://zoek.officielebekendmakingen.nl/ah-1275840.html",
+      "pub_date": "2026-10-27",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Antwoord op vragen van het lid Kostić over de uitspraak van de Reclame Code Commissie dat Tata Steel het publiek misleidt met duurzaamheidsreclame",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1275841.html",
+      "pub_date": "2026-10-27",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Notice to economic operators – New round of requests for the suspension of the autonomous Common Customs Tariff duties on certain industrial and agricultural products",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:5634",
+      "pub_date": "2026-10-27",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "27-10-2026",
+      "relevant": 0,
+      "total": 4,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "27-10-2026",
+      "relevant": 0,
+      "total": 20,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "27-10-2026",
+      "relevant": 0,
+      "total": 106,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "27-10-2026",
+      "relevant": 10,
+      "total": 256,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "27-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=10 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7f3b90e43230>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "27-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-10-27",
+      "relevant": 0,
+      "total": 7,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-10-27",
+      "relevant": 0,
+      "total": 17,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-10-27",
+      "relevant": 1,
+      "total": 20,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
