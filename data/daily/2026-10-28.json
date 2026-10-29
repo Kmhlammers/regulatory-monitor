@@ -1,0 +1,117 @@
+{
+  "kind": "daily",
+  "id": "2026-10-28",
+  "label": "28 oktober 2026",
+  "from": "2026-10-28",
+  "to": "2026-10-28",
+  "generated_at": "2026-10-29T11:35:54+00:00",
+  "publications": [
+    {
+      "source": "Staatsblad NL",
+      "topic": "Elektrische apparaten",
+      "title": "Besluit van 23 oktober 2026 tot wijziging van het Besluit activiteiten leefomgeving, het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen en het Besluit inzamelen afvalstoffen met betrekking tot het afgeven van afgedankte elektrische en elektronische apparatuur [KetenID WGK014100]",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2026-339.html",
+      "pub_date": "2026-10-28",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Dienst/agentschap",
+      "topic": "General product safety",
+      "title": "Beleidsregel van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit namens de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur en de Minister van Volksgezondheid, Welzijn en Sport van 13 oktober 2026 tot vaststelling van het Specifiek interventiebeleid NVWA vlees (IB03-SPEC 25, versie 02)",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-37117.html",
+      "pub_date": "2026-10-28",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "EUDR",
+      "title": "Beslisnota bij het verslag van een schriftelijk overleg over het ontwerpbesluit wijziging Besluit activiteiten leefomgeving en Omgevingsbesluit ter uitvoering van de wijziging Verordening ontbossingsvrije grondstoffen en producten (Kamerstuk 36518-16)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1276267.html",
+      "pub_date": "2026-10-28",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Council Regulation (EU) 2026/2446 of 26 October 2026 amending Regulation (EU) 2023/2720 opening and providing for the management of autonomous Union tariff quotas for certain fishery products for the 2024-2026 period (Text with EEA relevance)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:2446",
+      "pub_date": "2026-10-28",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "28-10-2026",
+      "relevant": 1,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "28-10-2026",
+      "relevant": 0,
+      "total": 16,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "28-10-2026",
+      "relevant": 1,
+      "total": 72,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "28-10-2026",
+      "relevant": 1,
+      "total": 150,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "28-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=10 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7ff5ac942b10>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "28-10-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-10-28",
+      "relevant": 0,
+      "total": 4,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-10-28",
+      "relevant": 1,
+      "total": 14,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-10-28",
+      "relevant": 0,
+      "total": 36,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
