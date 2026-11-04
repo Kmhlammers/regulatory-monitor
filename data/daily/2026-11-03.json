@@ -1,0 +1,165 @@
+{
+  "kind": "daily",
+  "id": "2026-11-03",
+  "label": "3 november 2026",
+  "from": "2026-11-03",
+  "to": "2026-11-03",
+  "generated_at": "2026-11-04T13:03:51+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "Medical devices",
+      "title": "Mededeling van de Minister van Volksgezondheid, Welzijn en Sport van 22 oktober 2026, houdende verlening van een ontheffing op grond van de Wet medische hulpmiddelen",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-38170.html",
+      "pub_date": "2026-11-03",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "Medical devices",
+      "title": "Mededeling van de Minister van Volksgezondheid, Welzijn en Sport van 22 oktober 2026, houdende verlening van een ontheffing op grond van de Wet medische hulpmiddelen",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-38171.html",
+      "pub_date": "2026-11-03",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "ESPR/Ecodesign",
+      "title": "Schoon en zuinig; Brief regering; Voorhang Uitvoeringsregeling EU-verordening ecologisch ontwerp duurzame producten",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1278158.html",
+      "pub_date": "2026-11-03",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Elektrische apparaten",
+      "title": "Regeling ecodesign voorhang ",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1278159.html",
+      "pub_date": "2026-11-03",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "ESPR/Ecodesign",
+      "title": "Beslisnota bij Kamerbrief over voorhang Uitvoeringsregeling EU-verordening ecologisch ontwerp duurzame producten",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1278161.html",
+      "pub_date": "2026-11-03",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "EUDR",
+      "title": "Inbreng verslag van een schriftelijk overleg inzake de reactie op verzoek commissie over de brief van de SOWP met betrekking tot urgentie ontbossingsproject Zuid-Papua (Kamerstuk 30196-864)",
+      "url": "https://zoek.officielebekendmakingen.nl/nds-tk-2026D50614.html",
+      "pub_date": "2026-11-03",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "CLP",
+      "title": "Regulation (EU) 2026/2382 of the European Parliament and of the Council of 21 October 2026 amending Regulations (EC) No 1907/2006, (EC) No 1272/2008, (EU) No 528/2012, (EU) 2019/1021 and (EU) 2021/697 as regards defence readiness and facilitating defence investments and conditions for defence industry",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:2382",
+      "pub_date": "2026-11-03",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "Elektrische apparaten",
+      "title": "Summary of Commission Decision of 9 July 2026 relating to a proceeding under Article 102 of the Treaty on the Functioning of the European Union and Article 54 of the EEA Agreement (Case AT.40823 – SAP ERP aftermarket support services) (notified under document number C(2026)4685 final)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:5731",
+      "pub_date": "2026-11-03",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "Elektrische apparaten",
+      "title": "Opinion of the Advisory Committee on Restrictive Practices and Dominant Positions of 6 July 2026 concerning a draft decision in case AT.40823 - SAP ERP aftermarket support services – Rapporteur: Latvia",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:5733",
+      "pub_date": "2026-11-03",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "Elektrische apparaten",
+      "title": "Final Report of the Hearing Officer – Case AT.40823 – SAP ERP aftermarket support services",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:5732",
+      "pub_date": "2026-11-03",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "03-11-2026",
+      "relevant": 0,
+      "total": 7,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "03-11-2026",
+      "relevant": 2,
+      "total": 15,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "03-11-2026",
+      "relevant": 0,
+      "total": 72,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "03-11-2026",
+      "relevant": 4,
+      "total": 155,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "03-11-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=11 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7fc8bee6a650>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "03-11-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-11-03",
+      "relevant": 0,
+      "total": 8,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-11-03",
+      "relevant": 1,
+      "total": 16,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-11-03",
+      "relevant": 3,
+      "total": 76,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
