@@ -1,0 +1,125 @@
+{
+  "kind": "daily",
+  "id": "2026-11-10",
+  "label": "10 november 2026",
+  "from": "2026-11-10",
+  "to": "2026-11-10",
+  "generated_at": "2026-11-11T12:47:31+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "Duurzaamheid",
+      "title": "Advies Raad van State inzake het voorstel van wet tot wijziging van de Wet milieubeheer en de Uitvoeringswet digitaledienstenverordening in verband met de implementatie van Richtlijn 2025/1892 van het Europees Parlement en de Raad van 10 september 2025 tot wijziging van Richtlijn 2008/98/EG betreffende afvalstoffen",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-39143.html",
+      "pub_date": "2026-11-10",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "Elektrische apparaten",
+      "title": "Advies Raad van State inzake het ontwerp van een algemene maatregel van bestuur tot wijziging van het Besluit activiteiten leefomgeving, het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen en het Besluit inzamelen afvalstoffen m.b.t. het afgeven van afgedankte elektrische en elektronische apparatuur",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-39121.html",
+      "pub_date": "2026-11-10",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Regeling van de Minister van Langdurige Zorg, Jeugd en Sport van 2 november 2026, kenmerk 4560471-1105999-MEVA, houdende wijziging van de Regeling tarifering kennis- en vaardighedentoets 2010 om het tarief voor het afleggen van een het beroepsinhoudelijke deel van de kennis- en vaardighedentoets voor artsen en tandartsen te verhogen [KetenID WGK029422]",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-39072.html",
+      "pub_date": "2026-11-10",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "PPWR",
+      "title": "Zwerfafval",
+      "url": "https://zoek.officielebekendmakingen.nl/kv-1279114.html",
+      "pub_date": "2026-11-10",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Elektrische apparaten",
+      "title": "Commission Implementing Decision (EU) 2026/2479 of 9 November 2026 amending Implementing Decision (EU) 2021/1182 as regards harmonised standards for sterilization of health care products, clinical investigation of medical devices for human subjects, natural rubber latex male condoms, biological evaluation of medical devices, washer-disinfectors, medical electrical equipment and small-bore connectors for liquids and gases in healthcare applications",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:2479",
+      "pub_date": "2026-11-10",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "10-11-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "10-11-2026",
+      "relevant": 3,
+      "total": 25,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "10-11-2026",
+      "relevant": 0,
+      "total": 89,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "10-11-2026",
+      "relevant": 1,
+      "total": 157,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "10-11-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=11 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7cd93ff563f0>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "10-11-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-11-10",
+      "relevant": 0,
+      "total": 8,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-11-10",
+      "relevant": 1,
+      "total": 20,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-11-10",
+      "relevant": 0,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
