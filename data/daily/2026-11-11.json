@@ -1,0 +1,141 @@
+{
+  "kind": "daily",
+  "id": "2026-11-11",
+  "label": "11 november 2026",
+  "from": "2026-11-11",
+  "to": "2026-11-11",
+  "generated_at": "2026-11-12T13:50:46+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2027); Motie; Motie van de leden Keijzer en Vermeer over in 2028 volledig afzien van de maatregel om het verlaagde btw-tarief van 9% op sierteeltproducten te verhogen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1279522.html",
+      "pub_date": "2026-11-11",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "ESPR/Ecodesign",
+      "title": "Wijziging van enkele belastingwetten en enige andere wetten (Belastingplan 2027); Motie; Motie van het lid Teunissen over onderzoek naar een reparatiefonds voor apparaten als telefoons en laptops",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1279512.html",
+      "pub_date": "2026-11-11",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "CLP",
+      "title": "Voedingsbeleid; Brief regering; Reactie op een burgerbrief over etiketteringsregels plantaardige producten",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1279303.html",
+      "pub_date": "2026-11-11",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "CLP",
+      "title": "Beslisnota bij Kamerbrief met reactie op een burgerbrief over etiketteringsregels plantaardige producten",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1279304.html",
+      "pub_date": "2026-11-11",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Medical devices",
+      "title": "Vaststelling van de begrotingsstaten van het Ministerie van Infrastructuur en Waterstaat (XII) voor het jaar 2027; Motie (gewijzigd/nader); Gewijzigde motie van de leden Kostić en Teunissen over inzetten op het stimuleren van de beschikbaarheid van pfas-vrije geneesmiddelen en medische hulpmiddelen (t.v.v. 37020-XII-41)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1279526.html",
+      "pub_date": "2026-11-11",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "EUDR",
+      "title": "Antwoord op vragen van het lid Teunissen over de gevolgen van de Braziliaanse verkiezingen voor het Amazonegebied en ontbossing",
+      "url": "https://zoek.officielebekendmakingen.nl/ah-1279383.html",
+      "pub_date": "2026-11-11",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "EUDR",
+      "title": "Antwoord op vragen van het lid Teunissen over de gevolgen van de Braziliaanse verkiezingen voor het Amazonegebied en ontbossing",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1279385.html",
+      "pub_date": "2026-11-11",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "11-11-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "11-11-2026",
+      "relevant": 0,
+      "total": 22,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "11-11-2026",
+      "relevant": 0,
+      "total": 39,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "11-11-2026",
+      "relevant": 7,
+      "total": 197,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "11-11-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=11 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x713d5f255940>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "11-11-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-11-11",
+      "relevant": 0,
+      "total": 7,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-11-11",
+      "relevant": 0,
+      "total": 18,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-11-11",
+      "relevant": 0,
+      "total": 8,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
