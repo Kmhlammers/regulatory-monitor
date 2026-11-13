@@ -1,0 +1,93 @@
+{
+  "kind": "daily",
+  "id": "2026-11-12",
+  "label": "12 november 2026",
+  "from": "2026-11-12",
+  "to": "2026-11-12",
+  "generated_at": "2026-11-13T13:12:07+00:00",
+  "publications": [
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "POPs",
+      "title": "Commission Delegated Regulation (EU) 2026/1972 of 7 September 2026 amending Regulation (EU) 2019/1021 of the European Parliament and of the Council as regards long-chain perfluorocarboxylic acids, their salts and related compounds",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:1972",
+      "pub_date": "2026-11-12",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "12-11-2026",
+      "relevant": 0,
+      "total": 1,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "12-11-2026",
+      "relevant": 0,
+      "total": 25,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "12-11-2026",
+      "relevant": 0,
+      "total": 33,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "12-11-2026",
+      "relevant": 0,
+      "total": 79,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "12-11-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=11 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x77268d857950>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "12-11-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-11-12",
+      "relevant": 0,
+      "total": 7,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-11-12",
+      "relevant": 1,
+      "total": 11,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-11-12",
+      "relevant": 0,
+      "total": 7,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
