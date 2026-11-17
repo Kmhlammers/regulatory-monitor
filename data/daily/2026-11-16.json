@@ -1,0 +1,157 @@
+{
+  "kind": "daily",
+  "id": "2026-11-16",
+  "label": "16 november 2026",
+  "from": "2026-11-16",
+  "to": "2026-11-16",
+  "generated_at": "2026-11-17T14:32:52+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Dienst/agentschap",
+      "topic": "PPWR",
+      "title": "Kennisgeving melding voor het -Kabels en leidingen leggen in het beperkingengebied van een Rijksweg te Reusel",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-40597.html",
+      "pub_date": "2026-11-16",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Brief regering; Emissienormen stikstof en klimaat in relatie tot biologische en extensieve bedrijven",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1280041.html",
+      "pub_date": "2026-11-16",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Dierproeven; Brief regering; Reactie op een brief van Animal Rights over de handel in Vietnamese makaken",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1279885.html",
+      "pub_date": "2026-11-16",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Vervoer gevaarlijke stoffen; Brief regering; Vervolg herziening basisnet n.a.v. bestuurlijk traject",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1279930.html",
+      "pub_date": "2026-11-16",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Notitie gedeelde uitgangspunten veilig vervoer gevaarlijke stoffen door veilige leefomgeving",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1279932.html",
+      "pub_date": "2026-11-16",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Reactie op adviesbrief bestuurlijk traject veilig vervoer gevaarlijke stoffen en veilige leefomgeving",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1279933.html",
+      "pub_date": "2026-11-16",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "EUDR",
+      "title": "Antwoord op vragen van het lid Ceder over ontbossing en mensenrechtenschendingen in West-Papua",
+      "url": "https://zoek.officielebekendmakingen.nl/ah-1279943.html",
+      "pub_date": "2026-11-16",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "EUDR",
+      "title": "Antwoord op vragen van het lid Ceder over ontbossing en mensenrechtenschendingen in West-Papua",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1279944.html",
+      "pub_date": "2026-11-16",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Commission Delegated Regulation (EU) 2026/2018 of 10 September 2026 establishing rules related to the procedure for granting the special incentive arrangement for sustainable development and good governance (GSP+) under Regulation (EU) 2026/1395 of the European Parliament and of the Council on applying a generalised scheme of tariff preferences and repealing Regulation (EU) No 978/2012",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:2018",
+      "pub_date": "2026-11-16",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "16-11-2026",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "16-11-2026",
+      "relevant": 0,
+      "total": 20,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "16-11-2026",
+      "relevant": 1,
+      "total": 46,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "16-11-2026",
+      "relevant": 7,
+      "total": 161,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "16-11-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=11 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x773c99c65810>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "16-11-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-11-16",
+      "relevant": 0,
+      "total": 2,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-11-16",
+      "relevant": 1,
+      "total": 21,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-11-16",
+      "relevant": 0,
+      "total": 65,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
