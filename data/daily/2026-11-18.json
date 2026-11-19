@@ -1,0 +1,117 @@
+{
+  "kind": "daily",
+  "id": "2026-11-18",
+  "label": "18 november 2026",
+  "from": "2026-11-18",
+  "to": "2026-11-18",
+  "generated_at": "2026-11-19T14:31:05+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie; Verslag van een schriftelijk overleg; Verslag van een schriftelijk overleg over fiche: Omnibusrichtlijn directe belastingen (Kamerstuk 22112-4421)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1280646.html",
+      "pub_date": "2026-11-18",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Tabel en toelichting ramingen bij beantwoording schriftelijk overleg Omnibus",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1280647.html",
+      "pub_date": "2026-11-18",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Beslisnota bij verslag van een schriftelijk overleg over fiche: Omnibusrichtlijn directe belastingen (Kamerstuk 22112-4421)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1280648.html",
+      "pub_date": "2026-11-18",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "POPs",
+      "title": "Commission Delegated Regulation (EU) 2026/2035 of 11 September 2026 amending Regulation (EU) 2019/1021 of the European Parliament and of the Council as regards medium chain chlorinated paraffins",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:2035",
+      "pub_date": "2026-11-18",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "18-11-2026",
+      "relevant": 0,
+      "total": 5,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "18-11-2026",
+      "relevant": 0,
+      "total": 34,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "18-11-2026",
+      "relevant": 0,
+      "total": 45,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "18-11-2026",
+      "relevant": 3,
+      "total": 195,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "18-11-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=11 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x763a3e86bbb0>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "18-11-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-11-18",
+      "relevant": 0,
+      "total": 6,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-11-18",
+      "relevant": 1,
+      "total": 10,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-11-18",
+      "relevant": 0,
+      "total": 16,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
