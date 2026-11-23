@@ -1,0 +1,125 @@
+{
+  "kind": "daily",
+  "id": "2026-11-22",
+  "label": "20–22 november 2026",
+  "from": "2026-11-20",
+  "to": "2026-11-22",
+  "generated_at": "2026-11-23T16:05:33+00:00",
+  "publications": [
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Beslisnota bij Kamerbrief over raadscompromis Omnibus Digitaal oktober 2026",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1281248.html",
+      "pub_date": "2026-11-20",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "EU-voorstel: Omnibus directe belastingen; Verslag van een schriftelijk overleg met de minister en de staatssecretaris van Financiën naar aanleiding van het informatieverzoek over de Omnibus directe belastingen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1281297.html",
+      "pub_date": "2026-11-20",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Beslisnota(s) bij de brief over het informatieverzoek over de Omnibus directe belastingen",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1281298.html",
+      "pub_date": "2026-11-20",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Nieuwe Commissievoorstellen en initiatieven van de lidstaten van de Europese Unie; Brief regering; Raadscompromis Omnibus Digitaal oktober 2026",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1281247.html",
+      "pub_date": "2026-11-20",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Commission Implementing Regulation (EU) 2026/2560 of 19 November 2026 on opening and providing for the management of Union tariff quotas for certain rice products originating in GSP beneficiary countries",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:2560",
+      "pub_date": "2026-11-20",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "20-11-2026 t/m 22-11-2026",
+      "relevant": 0,
+      "total": 4,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "20-11-2026 t/m 22-11-2026",
+      "relevant": 0,
+      "total": 49,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "20-11-2026 t/m 22-11-2026",
+      "relevant": 0,
+      "total": 65,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "20-11-2026 t/m 22-11-2026",
+      "relevant": 4,
+      "total": 151,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "20-11-2026 t/m 22-11-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=11 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x783064669480>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "20-11-2026 t/m 22-11-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-11-20 t/m 2026-11-22",
+      "relevant": 0,
+      "total": 6,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-11-20 t/m 2026-11-22",
+      "relevant": 1,
+      "total": 21,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-11-20 t/m 2026-11-22",
+      "relevant": 0,
+      "total": 18,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
