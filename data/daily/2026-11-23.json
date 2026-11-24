@@ -1,0 +1,133 @@
+{
+  "kind": "daily",
+  "id": "2026-11-23",
+  "label": "23 november 2026",
+  "from": "2026-11-23",
+  "to": "2026-11-23",
+  "generated_at": "2026-11-24T15:58:08+00:00",
+  "publications": [
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Regeling van de Staatssecretaris van Infrastructuur en Waterstaat, van 16 november 2026, nr. IENW/BSK-2026/215095, tot wijziging van de Regeling maximumtarief en bekendmaking tarieven taxivervoer in verband met de indexering van het tarief voor het jaar 2027 en vermelding van het e-mailadres op het ritbewijs en de taxi-informatiekaart [KetenID WGK029478]",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-40258.html",
+      "pub_date": "2026-11-23",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Ministerie",
+      "topic": "Duurzaamheid",
+      "title": "Regeling van de Minister van Klimaat en Groene Groei van 4 november 2026, nr. WJZ/108700425, tot wijziging van de Regeling handel in emissierechten in verband met de wijze waarop de duurzaamheid van biomassa wordt aangetoond ten behoeve van het nultarief binnen het Europese emissiehandelssysteem",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-39785.html",
+      "pub_date": "2026-11-23",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Dienst/agentschap",
+      "topic": "General product safety",
+      "title": "Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van 13 november 2026, nr. NVWA/2026/010091599, houdende verlening van ondermandaat, volmacht en machtiging voor de Nederlandse Voedsel-en Warenautoriteit van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur 2026 (Besluit ondermandaat, volmacht en machtiging IG NVWA LVVN 2027)",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-40904.html",
+      "pub_date": "2026-11-23",
+      "week": ""
+    },
+    {
+      "source": "Staatscourant – Dienst/agentschap",
+      "topic": "General product safety",
+      "title": "Besluit van de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit van 13 november 2026, nr. 2026/010091600 houdende wijziging van het Besluit ondermandaat en machtiging aan functionarissen van de NVWA voor het werkterrein van VWS 2023",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2026-40907.html",
+      "pub_date": "2026-11-23",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Brief regering; Ondersteuning aan de agrarische sector voor haalbare doelstellingen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1281397.html",
+      "pub_date": "2026-11-23",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Elektrische apparaten",
+      "title": "De gevaren van langdurige stroomuitval voor patiënten die afhankelijk zijn van medische apparatuur",
+      "url": "https://zoek.officielebekendmakingen.nl/kv-1281460.html",
+      "pub_date": "2026-11-23",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "23-11-2026",
+      "relevant": 0,
+      "total": 11,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "23-11-2026",
+      "relevant": 2,
+      "total": 30,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "23-11-2026",
+      "relevant": 2,
+      "total": 72,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "23-11-2026",
+      "relevant": 2,
+      "total": 116,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "23-11-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=11 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x77d47f469480>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "23-11-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-11-23",
+      "relevant": 0,
+      "total": 6,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-11-23",
+      "relevant": 0,
+      "total": 15,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-11-23",
+      "relevant": 0,
+      "total": 45,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
