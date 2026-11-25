@@ -1,0 +1,157 @@
+{
+  "kind": "daily",
+  "id": "2026-11-24",
+  "label": "24 november 2026",
+  "from": "2026-11-24",
+  "to": "2026-11-24",
+  "generated_at": "2026-11-25T15:43:02+00:00",
+  "publications": [
+    {
+      "source": "Staatsblad NL",
+      "topic": "Elektrische apparaten",
+      "title": "Besluit van 17 november 2026 tot wijziging van het Besluit energieprestatievergoeding huur in verband met de afschaffing van de salderingsregeling",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2026-401.html",
+      "pub_date": "2026-11-24",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Uitvoering van Verordening (EU) 2024/1252 van het Europees Parlement en de Raad van 11 april 2024 tot vaststelling van een kader om een veilige en duurzamevoorziening van kritieke grondstoffen te waarborgen, en tot wijziging van de Verordeningen (EU) nr. 168/2013, (EU) 2018/858, (EU) 2018/1724 en (EU) 2019/1020(Uitvoeringswet verordening kritieke grondstoffen); Nota n.a.v. het (nader/tweede nader/enz.) verslag; Nota naar aanleiding van het verslag",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1281679.html",
+      "pub_date": "2026-11-24",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Kritieke grondstoffen",
+      "title": "Beslisnota bij de Nota naar aanleiding van het verslag inzake de Uitvoeringswet verordening kritieke grondstoffen (Kamerstuk 36989)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1281680.html",
+      "pub_date": "2026-11-24",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Brief regering; Ontwerpprogramma Landbouw, Natuur en Stikstof en Wetsvoorstel voor vastlegging van de emissiedoelen",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1281607.html",
+      "pub_date": "2026-11-24",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "ESPR/Ecodesign",
+      "title": "Wijziging van wetten op het terrein van onderwijs, cultuur en wetenschap in verband met het repareren van wetstechnische en redactionele vergissingen en verschrijvingen (Reparatiewet OCW 20##); Blanco verslag",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1281804.html",
+      "pub_date": "2026-11-24",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ L",
+      "topic": "Douane & Handelsbeleid",
+      "title": "Commission Implementing Regulation (EU) 2026/2614 of 23 November 2026 imposing a provisional safeguard measure with regard to imports of certain new hybrid vehicles designed for the transport of persons",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L:2026:2614",
+      "pub_date": "2026-11-24",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "REACH",
+      "title": "P10_TA(2026)0140 – European Chemicals Agency and amending Regulations – Amendments adopted by the European Parliament on 29 April 2026 on the proposal for a regulation of the European Parliament and of the Council on the European Chemicals Agency and amending Regulations (EC) No 1907/2006, (EU) No 528/2012, (EU) No 649/2012 and (EU) 2019/1021 (COM(2025)0386 – C10-0141/2025 – 2025/0207(COD)) (Ordinary legislative procedure: first reading)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:5707",
+      "pub_date": "2026-11-24",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "CLP",
+      "title": "P10_TA(2026)0138 – Simplification of certain requirements and procedures for chemical products – Amendments adopted by the European Parliament on 29 April 2026 on the proposal for a regulation of the European Parliament and of the Council amending Regulations (EC) No 1272/2008, (EC) No 1223/2009 and (EU) 2019/1009 as regards simplification of certain requirements and procedures for chemical products (COM(2025)0531 – C10-0143/2025 – 2025/0531(COD)) (Ordinary legislative procedure: first reading)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:5705",
+      "pub_date": "2026-11-24",
+      "week": ""
+    },
+    {
+      "source": "EUR-Lex OJ C",
+      "topic": "Douane & Handelsbeleid",
+      "title": "P10_TA(2026)0114 – Generalised scheme of tariff preferences – European Parliament legislative resolution of 28 April 2026 on the proposal for a regulation of the European Parliament and of the Council on applying a generalised scheme of tariff preferences and repealing Regulation (EU) No 978/2012 of the European Parliament and of the Council (COM(2021)0579 – C9-0364/2021– 2021/0297(COD)) (Ordinary legislative procedure: first reading)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:C:2026:5700",
+      "pub_date": "2026-11-24",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "24-11-2026",
+      "relevant": 1,
+      "total": 3,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "24-11-2026",
+      "relevant": 0,
+      "total": 24,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "24-11-2026",
+      "relevant": 0,
+      "total": 65,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "24-11-2026",
+      "relevant": 4,
+      "total": 231,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "24-11-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=11 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7ed51ca51f30>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "24-11-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-11-24",
+      "relevant": 0,
+      "total": 4,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-11-24",
+      "relevant": 1,
+      "total": 15,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-11-24",
+      "relevant": 3,
+      "total": 58,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
