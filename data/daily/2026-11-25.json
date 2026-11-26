@@ -1,0 +1,157 @@
+{
+  "kind": "daily",
+  "id": "2026-11-25",
+  "label": "25 november 2026",
+  "from": "2026-11-25",
+  "to": "2026-11-25",
+  "generated_at": "2026-11-26T15:26:57+00:00",
+  "publications": [
+    {
+      "source": "Staatsblad NL",
+      "topic": "EUDR",
+      "title": "Besluit van 13 november 2026, houdende wijziging van het Besluit activiteiten leefomgeving en het Omgevingsbesluit ter uitvoering van Verordening (EU) 2025/2650 van het Europees Parlement en de Raad van 19 december 2025 tot wijziging van Verordening (EU) 2023/1115 wat betreft bepaalde verplichtingen van marktdeelnemers en handelaren [KetenID WGK29194]",
+      "url": "https://zoek.officielebekendmakingen.nl/stb-2026-404.html",
+      "pub_date": "2026-11-25",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "REACH",
+      "title": "Problematiek rondom stikstof en PFAS; Brief regering; Verlenging subsidieregeling Regeling Provinciale Maatregelen PAS-melders",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1281856.html",
+      "pub_date": "2026-11-25",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Duurzaamheid",
+      "title": "Maatschappelijk verantwoord ondernemen; Brief regering; Voorhang ontwerpbesluit Implementatie richtlijn over de duurzaamheidsrapportering",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1281888.html",
+      "pub_date": "2026-11-25",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Jaarplanning beleidsbrieven 2027",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1282006.html",
+      "pub_date": "2026-11-25",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Elektrische apparaten",
+      "title": "Landelijk afvalbeheerplan; Brief regering; Nahang Besluit afgifteplicht afgedankte elektrische en elektronische apparatuur (AEEA)",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1282026.html",
+      "pub_date": "2026-11-25",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Elektrische apparaten",
+      "title": "Besluit afgifteplicht AEEA",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1282027.html",
+      "pub_date": "2026-11-25",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "Elektrische apparaten",
+      "title": "Beslisnota bij Kamerbrief over nahang Besluit afgifteplicht afgedankte elektrische en elektronische apparatuur (AEEA)((Stb 2026, nr. 339)",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1282028.html",
+      "pub_date": "2026-11-25",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Beslisnota bij reactie op verzoek commissie over jaarplanning Kamerbrieven en wetgeving 2027 en stand van zaken uitvoering openstaande toezeggingen en moties op het terrein van LVVN",
+      "url": "https://zoek.officielebekendmakingen.nl/blg-1282010.html",
+      "pub_date": "2026-11-25",
+      "week": ""
+    },
+    {
+      "source": "Parlementaire documenten NL",
+      "topic": "General product safety",
+      "title": "Vaststelling van de begrotingsstaten van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (XIV) en het Diergezondheidsfonds (F) voor het jaar 2027; Brief regering; Reactie op verzoek commissie over jaarplanning Kamerbrieven en wetgeving 2027 en stand van zaken uitvoering openstaande toezeggingen en moties op het terrein van LVVN",
+      "url": "https://zoek.officielebekendmakingen.nl/kst-1282004.html",
+      "pub_date": "2026-11-25",
+      "week": ""
+    }
+  ],
+  "counts": [
+    {
+      "label": "Staatsblad NL",
+      "date_str": "25-11-2026",
+      "relevant": 1,
+      "total": 6,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Ministerie",
+      "date_str": "25-11-2026",
+      "relevant": 0,
+      "total": 23,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Staatscourant – Dienst/agentschap",
+      "date_str": "25-11-2026",
+      "relevant": 0,
+      "total": 38,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "Parlementaire documenten NL",
+      "date_str": "25-11-2026",
+      "relevant": 8,
+      "total": 170,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "refLex Chrono BE",
+      "date_str": "25-11-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": true,
+      "note": "HTTPConnectionPool(host='reflex.raadvst-consetat.be', port=80): Max retries exceeded with url: /reflex/?page=chrono&c=list_get&d=list&year=2026&month=11 (Caused by ConnectTimeoutError(<HTTPConnection(host='reflex.raadvst-consetat.be', port=80) at 0x7012a5166b10>, 'Connection to reflex.raadvst-consetat.be timed out. (connect timeout=20)'))"
+    },
+    {
+      "label": "BE Staatsblad",
+      "date_str": "25-11-2026",
+      "relevant": 0,
+      "total": 0,
+      "api_error": false,
+      "note": "Telling via inhoudstafel (summary.pl), niet via de zoekpagina op ejustice.just.fgov.be — telling handmatig verifiëren"
+    },
+    {
+      "label": "EC Nieuws",
+      "date_str": "2026-11-25",
+      "relevant": 0,
+      "total": 6,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ L",
+      "date_str": "2026-11-25",
+      "relevant": 0,
+      "total": 7,
+      "api_error": false,
+      "note": ""
+    },
+    {
+      "label": "EUR-Lex OJ C",
+      "date_str": "2026-11-25",
+      "relevant": 0,
+      "total": 8,
+      "api_error": false,
+      "note": ""
+    }
+  ],
+  "antidumping": []
+}
